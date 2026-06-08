@@ -1,0 +1,101 @@
+{
+  "vocab": "スマート",
+  "kana": ["スマート"],
+  "furigana": ["スマート"],
+  "defs": ["svelte, mince (de façon élégante)", "raffiné, élégant (comportement, style)", "fluide, efficace (manière de faire)"],
+  "kanji": [],
+  "pos": ["adjectif en な"],
+  "tags": ["neutral", "wasei-eigo"],
+  "notes": "Attention : bien que 'smart' en anglais signifie 'intelligent', le mot japonais スマート ne s'utilise pas pour l'intelligence. Il décrit surtout l'apparence physique (svelte/élancé) ou une manière élégante et efficace d'agir. Faites bien la différence avec かしこい (malin/intelligent) ou 頭がいい (intelligent). Dans un contexte de paiement, 'スマート決済' signifie simplement 'paiement sans contact' et n'a rien à voir avec la silhouette.",
+  "grammar_points": [
+    {
+      "point": "Description de la silhouette",
+      "archetypes": ["スマートな体型", "スマートな人"],
+      "usage": "Usage le plus courant. Pour complimenter quelqu'un de mince avec une connotation positive, stylée et saine.",
+      "patterns": ["スマートな (Partie du corps / Gabarit / Personne)"],
+      "meanings": ["(Partie du corps / Gabarit / Personne) svelte / élancé(e)"]
+    },
+    {
+      "point": "Manière d’exécuter une action",
+      "archetypes": ["スマートにこなす", "スマートに対応する"],
+      "usage": "Décrit l’exécution fluide et sans accroc d’une tâche. Se place avant le verbe avec la particule に. S’emploie souvent dans des contextes professionnels ou sociaux.",
+      "patterns": ["スマートに (Verbe)"],
+      "meanings": ["(Verbe) avec élégance / fluidité / efficacité"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "スマートな体型[たいけい]",
+      "fr": "une silhouette svelte"
+    },
+    {
+      "ja": "スマートに解決[かいけつ]する",
+      "fr": "résoudre élégamment / avec efficacité"
+    },
+    {
+      "ja": "スマートな動[うご]き",
+      "fr": "des mouvements fluides / gracieux"
+    },
+    {
+      "ja": "スマートな着[き]こなし",
+      "fr": "une façon élégante de porter les vêtements"
+    },
+    {
+      "ja": "スマート決済[けっさい]",
+      "fr": "paiement sans contact"
+    },
+    {
+      "ja": "スマートな対応[たいおう]",
+      "fr": "une réponse efficace et polie"
+    }
+  ],
+  "examples": [
+    {
+      "def": "svelte, mince (de façon élégante)",
+      "ja": "彼女[かのじょ]は背[せ]が高[たか]くてスマートだ。",
+      "fr": "Elle est grande et svelte."
+    },
+    {
+      "def": "raffiné, élégant (comportement, style)",
+      "ja": "あのカフェの店員[てんいん]の接客[せっきゃく]はスマートだ。",
+      "fr": "Le service des employés de ce café est raffiné / efficace."
+    },
+    {
+      "def": "fluide, efficace (manière de faire)",
+      "ja": "彼[かれ]はいつもトラブルをスマートに処理[しょり]する。",
+      "fr": "Il gère toujours les problèmes avec aisance / fluidité."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "スリム",
+      "fr": "mince"
+    },
+    {
+      "ja": "ほっそりした",
+      "fr": "svelte, élancé"
+    },
+    {
+      "ja": "洗練[せんれん]された",
+      "fr": "raffiné, sophistiqué"
+    },
+    {
+      "ja": "粋[いき]な",
+      "fr": "chic, élégant"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "太[ふと]った",
+      "fr": "gros, grassouillet"
+    },
+    {
+      "ja": "泥臭[どろくさ]い",
+      "fr": "rustre, maladroit"
+    },
+    {
+      "ja": "ぎこちない",
+      "fr": "gauche, maladroit (dans les gestes)"
+    }
+  ]
+}

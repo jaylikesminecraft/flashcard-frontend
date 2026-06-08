@@ -1,0 +1,19 @@
+{
+  "vocab": "膨れ上がる",
+  "romaji": "fukureagaru",
+  "jlpt": "",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "ふくれあがる",
+      "pattern": "LHHHHLL",
+      "source": "wadoku",
+      "audio": "ふくれあがる_LHHHHLL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 66634,
+    "learning_rank": 19969,
+    "frequency_score": 0.74
+  }
+}

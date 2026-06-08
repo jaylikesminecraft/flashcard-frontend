@@ -1,0 +1,61 @@
+{
+  "vocab": "スマート",
+  "kana": ["スマート"],
+  "furigana": ["スマート"],
+  "defs": ["esbelto/a; delgado/a con estilo", "sofisticado/a; con clase", "eficiente; ágil; sin tropiezos"],
+  "kanji": [],
+  "pos": ["adjetivo-na"],
+  "tags": ["neutral", "wasei-eigo"],
+  "notes": "¡Cuidado! Aunque el inglés 'smart' significa principalmente 'inteligente', el préstamo japonés スマート se centra en la apariencia física (esbelto, con estilo) o en la elegancia/eficiencia de un proceso. Decir que alguien es スマート en japonés suele ser un cumplido por su figura estilizada o por la manera ágil y sin tropiezos con que maneja una situación, no necesariamente por su coeficiente intelectual. No confundir con 'inteligente' (頭がいい).",
+  "grammar_points": [
+    {
+      "point": "Desviación semántica: Apariencia física",
+      "archetypes": ["スマートな体型", "スマートな人"],
+      "usage": "En el día a día, este es el uso más frecuente. Es un cumplido para alguien que es delgado/a de forma saludable y estilizada. No implica inteligencia.",
+      "patterns": ["スマートな (Parte del cuerpo/Complexion)"],
+      "meanings": ["esbelto/a, de figura estilizada (Parte del cuerpo/Complexion)"]
+    },
+    {
+      "point": "Manera de actuar o resolver",
+      "archetypes": ["スマートにこなす", "スマートに支払う", "スマートに解決する"],
+      "usage": "Describe realizar una acción sin torpeza, sin dudar y sin esfuerzo innecesario. Se usa mucho en contextos sociales o de negocios para referirse a interacciones fluidas.",
+      "patterns": ["スマートに (Verbo)"],
+      "meanings": ["(Verbo) con soltura/elegancia/sin problemas"]
+    }
+  ],
+  "phrases": [
+    { "ja": "スマートな体型[たいけい]", "es": "una figura esbelta/estilizada" },
+    { "ja": "スマートに解決[かいけつ]する", "es": "resolver (algo) con elegancia/sin tropiezos" },
+    { "ja": "スマートな身[み]のこなし", "es": "movimientos elegantes/ágiles" },
+    { "ja": "スマートな振[ふ]る舞[ま]い", "es": "comportamiento sofisticado" },
+    { "ja": "スマート決済[けっさい]", "es": "pago electrónico/contactless/sin contacto" },
+    { "ja": "スマートな対応[たいおう]", "es": "una respuesta/manejo ágil y eficiente" }
+  ],
+  "examples": [
+    {
+      "def": "esbelto/a; delgado/a con estilo",
+      "ja": "彼女[かのじょ]はモデルのようにスマートだ。",
+      "es": "Ella es esbelta como una modelo."
+    },
+    {
+      "def": "sofisticado/a; con clase",
+      "ja": "彼[かれ]のスーツの着[き]こなしはいつもスマートだ。",
+      "es": "Su forma de llevar el traje es siempre elegante y con clase."
+    },
+    {
+      "def": "eficiente; ágil; sin tropiezos",
+      "ja": "トラブルをスマートに処置[しょち]した。",
+      "es": "Manejó el problema de manera ágil y eficiente/sin contratiempos."
+    }
+  ],
+  "synonyms": [
+    { "ja": "スリム", "es": "esbelto/a" },
+    { "ja": "洗練[せんれん]された", "es": "refinado/a; sofisticado/a" },
+    { "ja": "格好[かっこう]いい", "es": "estiloso/a; atractivo/a" }
+  ],
+  "antonyms": [
+    { "ja": "泥臭[どろくさ]い", "es": "tosco/a; poco refinado/a" },
+    { "ja": "鈍重[どんじゅう]な", "es": "torpe; lento/a y pesado/a" },
+    { "ja": "太[ふと]った", "es": "gordo/a" }
+  ]
+}

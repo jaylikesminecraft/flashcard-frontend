@@ -1,0 +1,19 @@
+{
+  "vocab": "適当",
+  "romaji": "tekitou",
+  "jlpt": "N4",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "てきとう",
+      "pattern": "LHHHH",
+      "source": "wadoku",
+      "audio": "てきとう_LHHHH.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 1997,
+    "learning_rank": 765,
+    "frequency_score": 2.24
+  }
+}

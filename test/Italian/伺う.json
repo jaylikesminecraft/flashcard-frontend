@@ -1,0 +1,122 @@
+{
+  "vocab": "伺う",
+  "kana": ["うかがう"],
+  "furigana": ["伺[うかが]う"],
+  "defs": [
+    "visitare (umilmente)",
+    "chiedere/domandare (umilmente)",
+    "ascoltare/sentire (umilmente)"
+  ],
+  "kanji": [
+    {
+      "char": "伺",
+      "mean": "visitare; chiedere"
+    }
+  ],
+  "pos": ["verbo godan", "transitivo", "intransitivo"],
+  "tags": ["keigo", "business"],
+  "notes": "Verbo umile versatile (kenjougo) che sostituisce diversi verbi comuni in contesti formali o di cortesia. Abbassa lo status del parlante per mostrare rispetto verso la persona che si visita, a cui si chiede o da cui si ascolta. Essenziale in ambito lavorativo per fissare appuntamenti e fare richieste professionali. In italiano corrisponde a un registro molto formale, come l'uso del 'Lei' o espressioni di deferenza.",
+  "grammar_points": [
+    {
+      "point": "Dinamiche Sociali del Keigo",
+      "archetypes": [
+        "明日、伺います",
+        "お名前を伺う"
+      ],
+      "usage": "Sostituisce direttamente 行く/来る (andare/venire), 聞く (chiedere/ascoltare) e 尋ねる (domandare). Abbassa il parlante per elevare l'ascoltatore o la persona associata all'azione. Si usa sempre con persone esterne al proprio gruppo (outgroup).",
+      "patterns": [
+        "(Persona Esterna) に 伺う"
+      ],
+      "meanings": [
+        "Visitare/Chiedere a (Persona Esterna) (con umiltà)"
+      ]
+    },
+    {
+      "point": "Conoscenza Acquisita",
+      "archetypes": [
+        "お話は伺っております"
+      ],
+      "usage": "La forma 〜ております (da いる, essere) con 伺う indica che si è già sentito qualcosa e lo si sa tuttora. Corrisponde all'italiano 'sono a conoscenza' o 'mi risulta'. Si usa per confermare educatamente di essere già informati su un argomento.",
+      "patterns": [
+        "(Argomento) は 伺っております"
+      ],
+      "meanings": [
+        "Sono già a conoscenza di (Argomento)"
+      ]
+    },
+    {
+      "point": "Richiesta di Permesso Formale",
+      "archetypes": [
+        "お話を伺わせてください",
+        "お話を伺ってもよろしいですか？"
+      ],
+      "usage": "Con la forma causativa 伺わせる o la forma potenziale/cortese 伺ってもよろしいですか si chiede il permesso di ascoltare o visitare. Espressioni molto formali, tipiche del business.",
+      "patterns": [
+        "(Azione) を 伺わせてください",
+        "(Azione) を 伺ってもよろしいですか？"
+      ],
+      "meanings": [
+        "Mi permetta di (Azione), per favore",
+        "Posso permettermi di (Azione)?"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "お話[はなし]を伺[うかが]う",
+      "it": "ascoltare quello che qualcuno dice (formale)"
+    },
+    {
+      "ja": "お宅[たく]に伺[うかが]う",
+      "it": "fare visita a casa di qualcuno"
+    },
+    {
+      "ja": "お名前[なまえ]を伺[うかが]う",
+      "it": "chiedere il nome a qualcuno (formale)"
+    },
+    {
+      "ja": "ご都合[つごう]を伺[うかが]う",
+      "it": "chiedere informazioni sulla disponibilità di qualcuno"
+    },
+    {
+      "ja": "伺[うかが]っております",
+      "it": "sono informato / mi risulta"
+    },
+    {
+      "ja": "様子[ようす]を伺[うかが]う",
+      "it": "osservare la situazione; stare a vedere come vanno le cose"
+    }
+  ],
+  "examples": [
+    {
+      "def": "visitare (umilmente)",
+      "ja": "明日[あした]の午後[ごご]、オフィスに伺[うかが]ってもよろしいでしょうか？",
+      "it": "Sarebbe possibile fare una visita al vostro ufficio domani pomeriggio?"
+    },
+    {
+      "def": "chiedere/domandare (umilmente)",
+      "ja": "少々[しょうしょう]伺[うかが]いたいことがございます。",
+      "it": "C'è una cosa che vorrei chiederLe (con permesso)."
+    },
+    {
+      "def": "ascoltare/sentire (umilmente)",
+      "ja": "田中様[たなかさま]から、ご結婚[けっこん]のことは伺[うかが]っております。",
+      "it": "Ho saputo del Suo matrimonio dal signor Tanaka."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "参[まい]る",
+      "it": "andare/venire (umile)"
+    },
+    {
+      "ja": "聞[き]く",
+      "it": "ascoltare/chiedere"
+    },
+    {
+      "ja": "訪[おとず]れる",
+      "it": "fare visita"
+    }
+  ],
+  "antonyms": []
+}

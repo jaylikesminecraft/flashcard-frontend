@@ -1,0 +1,130 @@
+{
+  "vocab": "上がる",
+  "kana": ["あがる"],
+  "furigana": ["上[あ]がる"],
+  "defs": ["subir; elevarse", "entrar (en una casa)", "ponerse nervioso", "terminarse; completarse", "mejorar (habilidad/valor)"],
+  "kanji": [
+    {
+      "char": "上",
+      "mean": "arriba; subir"
+    }
+  ],
+  "pos": ["verbo-u", "intransitivo"],
+  "tags": ["neutral"],
+  "notes": "Un verbo polisémico con muchas extensiones abstractas. En el contexto de entrar a una casa, refleja la arquitectura tradicional japonesa del suelo elevado (genkan). Cuando se refiere a nerviosismo, implica específicamente 'miedo escénico' o quedarse en blanco por los nervios. Atención: Existen '揚がる' (freírse) y '挙がる' (ser capturado/mencionado) que se leen igual pero usan kanjis diferentes. Pronunciación: La 'g' se pronuncia suave, como en 'gato', no como 'jota'. La 'r' es suave, como en 'cara', sin vibrar (evita el sonido fuerte de la doble erre española). La palabra es llana: A-gá-ru, con acento en 'ga'. No alargues la última 'u' ni conviertas la 'a' larga en tónica como en español.",
+  "grammar_points": [
+    {
+      "point": "Par transitivo-intransitivo",
+      "archetypes": ["物価が上がる", "声を上げる"],
+      "usage": "上がる es intransitivo (algo sube por sí solo), mientras que 上げる es transitivo (alguien eleva algo). No uses 'を' con 上がる; siempre es 'が' para el sujeto que sube.",
+      "patterns": ["(Sujeto) が上がる", "(Objeto) を上げる"],
+      "meanings": ["(Sujeto) sube / se eleva", "elevar (Objeto)"]
+    },
+    {
+      "point": "Entrar en espacios sociales (casa)",
+      "archetypes": ["どうぞ、お上がりください"],
+      "usage": "Usado para invitar a alguien a entrar en una casa o habitación con suelo de tatami/elevado. Es más cortés y culturalmente matizado que usar '入る'. A menudo en forma 'お上がりください' (por favor, pase). No se usa para entrar en edificios occidentales o lugares sin el concepto de 'escalón de entrada'.",
+      "patterns": ["お上がりください"],
+      "meanings": ["Pase, por favor (entre a casa)", "Suba, por favor"]
+    },
+    {
+      "point": "Sufijo de finalización",
+      "archetypes": ["レポートが書き上がる", "料理が出来上がる"],
+      "usage": "Se une a la raíz de un verbo (forma -masu sin -masu) para indicar que una tarea se ha completado por completo o ha llegado a su fin. Muchas veces con un matiz de 'logro tras esfuerzo'. Ejemplos: 書き上がる (terminar de escribir), 出来上がる (estar listo/completado), 仕上がる (estar terminado/elaborado).",
+      "patterns": ["(Verbo-raíz) 上がる"],
+      "meanings": ["terminar de (Verbo)", "estar completamente (Verbo)"]
+    },
+    {
+      "point": "Estado psicológico (nervios, miedo escénico)",
+      "archetypes": ["スピーチで上がる", "大勢の前で上がる"],
+      "usage": "Describe específicamente el estado de ponerse nervioso o tener miedo escénico, a menudo con síntomas físicos (temblor, quedarse en blanco). Se usa con la partícula で para el contexto o situación que provoca los nervios. Cuidado: En español a veces usamos 'subirse (la adrenalina, los colores)' pero aquí no es una metáfora; es un verbo específico para el bloqueo por nervios.",
+      "patterns": ["(Situación/Lugar) で上がる"],
+      "meanings": ["ponerse nervioso (por escenario)", "quedarse en blanco por los nervios"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "雨[あめ]が上[あ]がる",
+      "es": "la lluvia para"
+    },
+    {
+      "ja": "腕[うで]が上[あ]がる",
+      "es": "mejora la habilidad (de alguien)"
+    },
+    {
+      "ja": "どうぞ、お上[あ]がりください",
+      "es": "Por favor, pase (a casa)"
+    },
+    {
+      "ja": "効果[こうか]が上[あ]がる",
+      "es": "surtir efecto; dar resultado"
+    },
+    {
+      "ja": "人前[ひとまえ]で上[あ]がる",
+      "es": "ponerse nervioso delante de la gente"
+    },
+    {
+      "ja": "風呂[ふろ]から上[あ]がる",
+      "es": "salir del baño (termal o bañera)"
+    },
+    {
+      "ja": "出来[でき]上[あ]がる",
+      "es": "estar terminado/listo"
+    },
+    {
+      "ja": "利益[りえき]が上[あ]がる",
+      "es": "obtener ganancias; mejorar el beneficio"
+    }
+  ],
+  "examples": [
+    {
+      "def": "subir; elevarse",
+      "ja": "最近[さいきん]、野菜[やさい]の値段[ねだん]がどんどん上[あ]がっている。",
+      "es": "Últimamente, el precio de las verduras no para de subir."
+    },
+    {
+      "def": "entrar (en una casa)",
+      "ja": "玄関[げんかん]で靴[くつ]を脱[ぬ]いで、リビングに上[あ]がった。",
+      "es": "Me quité los zapatos en la entrada y entré a la sala de estar."
+    },
+    {
+      "def": "ponerse nervioso",
+      "ja": "本番[ほんばん]で上[あ]がってしまい、セリフを忘[わす]れてしまった。",
+      "es": "Me puse tan nervioso en la actuación que olvidé el diálogo."
+    },
+    {
+      "def": "terminarse; completarse",
+      "ja": "ようやく論文[ろんぶん]が書[か]き上[あ]がった。",
+      "es": "Por fin he terminado de escribir la tesis."
+    },
+    {
+      "def": "mejorar (habilidad/valor)",
+      "ja": "毎日[まいにち]練習[れんしゅう]したおかげで、かなりテニスの腕[うで]が上[あ]がった。",
+      "es": "Gracias a practicar a diario, mi nivel de tenis ha mejorado muchísimo."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "上昇[じょうしょう]する",
+      "es": "subir (técnico, formal)"
+    },
+    {
+      "ja": "緊張[きんちょう]する",
+      "es": "ponerse nervioso (general)"
+    },
+    {
+      "ja": "完成[かんせい]する",
+      "es": "completarse, finalizarse"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "下[さ]がる",
+      "es": "bajar, descender"
+    },
+    {
+      "ja": "下[お]りる",
+      "es": "descender, bajarse"
+    }
+  ]
+}

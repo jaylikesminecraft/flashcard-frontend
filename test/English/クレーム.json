@@ -1,0 +1,95 @@
+{
+  "vocab": "クレーム",
+  "kana": ["くれーむ"],
+  "furigana": ["クレーム"],
+  "defs": [
+    "customer complaint; grievance",
+    "objection; expression of dissatisfaction"
+  ],
+  "kanji": [],
+  "pos": ["Noun"],
+  "tags": ["neutral", "business", "wasei-eigo"],
+  "notes": "A classic 'false friend' (wasei-eigo). Unlike the English word 'claim' (asserting a legal right or demanding insurance money), the Japanese クレーム almost exclusively means a 'complaint' or 'grievance', typically from a customer regarding a product or service. To say 'insurance claim' or 'assert a right', Japanese uses 請求 (せいきゅう) or 主張 (しゅちょう).",
+  "grammar_points": [
+    {
+      "point": "Making a Complaint (Active Verbs)",
+      "archetypes": ["お店にクレームを入れる", "理不尽なクレームをつける"],
+      "usage": "To express 'making a complaint', Japanese rarely uses 言う. Instead, 入れる and つける are the primary verbs. 入れる sounds like officially submitting or lodging a complaint (e.g., by phone or email). つける carries a much stronger, aggressive nuance of 'finding fault', 'nitpicking', or picking a fight.",
+      "patterns": [
+        "(Target) に クレーム を 入れる",
+        "(Target) に クレーム を つける"
+      ],
+      "meanings": [
+        "to lodge a complaint with (Target)",
+        "to complain to / find fault with (Target)"
+      ]
+    },
+    {
+      "point": "Receiving a Complaint (Passive Perspective)",
+      "archetypes": [
+        "客からクレームが来る",
+        "クレームが入る",
+        "クレームを受ける"
+      ],
+      "usage": "When a business receives a complaint, the situation is framed as the complaint 'arriving' (来る / 入る) rather than the business 'being told' something. 入る (intransitive) is highly common in business to objectively state that a complaint was logged or received.",
+      "patterns": [
+        "(Source) から クレーム が 来る・入る",
+        "(Source) から クレーム を 受ける"
+      ],
+      "meanings": [
+        "a complaint comes in from (Source)",
+        "to receive a complaint from (Source)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "クレーム対応[たいおう]",
+      "en": "handling complaints; customer service response"
+    },
+    {
+      "ja": "クレーム処理[しょり]",
+      "en": "complaint processing; resolving grievances"
+    },
+    {
+      "ja": "クレームの電話[でんわ]を入[い]れる",
+      "en": "to make a complaint call"
+    },
+    {
+      "ja": "理不尽[りふじん]なクレーム",
+      "en": "unreasonable complaint; unjustified grievance"
+    },
+    {
+      "ja": "クレームが殺到[さっとう]する",
+      "en": "to be flooded with complaints"
+    },
+    {
+      "ja": "クレームを恐[おそ]れる",
+      "en": "to be afraid of receiving complaints"
+    }
+  ],
+  "examples": [
+    {
+      "def": "customer complaint; grievance",
+      "ja": "新商品[しんしょうひん]の不具合[ふぐあい]に対[たい]して、客[きゃく]からクレームが入[はい]った。",
+      "en": "A complaint came in from a customer regarding a defect in the new product."
+    },
+    {
+      "def": "objection; expression of dissatisfaction",
+      "ja": "彼[かれ]の強引[ごういん]なやり方[かた]には、チーム内[ない]からクレームが続出[ぞくしゅつ]している。",
+      "en": "Complaints are pouring in from within the team regarding his heavy-handed methods."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "苦情[くじょう]",
+      "en": "complaint; grievance (more formal/written)"
+    },
+    {
+      "ja": "文句[もんく]",
+      "en": "complaint; grumbling (more casual/everyday)"
+    },
+    { "ja": "異議[いぎ]", "en": "objection; dissent" }
+  ],
+  "antonyms": []
+}

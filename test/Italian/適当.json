@@ -1,0 +1,84 @@
+{
+  "vocab": "適当",
+  "kana": ["てきとう"],
+  "furigana": ["適[てき]当[とう]"],
+  "defs": [
+    "appropriato, adatto",
+    "irresponsabile, approssimativo",
+    "casuale, a caso"
+  ],
+  "kanji": [
+    { "char": "適", "mean": "adatto, idoneo" },
+    { "char": "当", "mean": "colpire, azzeccare" }
+  ],
+  "pos": ["aggettivo in な", "sostantivo"],
+  "tags": ["neutro", "informale"],
+  "notes": "Una delle parole più ambigue del giapponese. In contesti formali (esami, istruzioni sul lavoro) significa 'appropriato' o 'adeguato'. Nella conversazione quotidiana, però, significa spesso 'approssimativo', 'fatto senza impegno' o 'detto a caso'. Il tono e il contesto sono fondamentali per capire se si tratta di un complimento o di una critica. Attenzione: un madrelingua italiano potrebbe confonderlo con 'adeguato' in senso positivo, ma in realtà spesso indica mancanza di cura.",
+  "grammar_points": [
+    {
+      "point": "Ambiguità semantica a seconda del nome",
+      "archetypes": ["適当な処置", "適当な返事"],
+      "usage": "Quando modifica un nome, il significato cambia in base alla natura del nome. Con nomi tecnici o formali, significa 'appropriato'. Con nomi legati alla comunicazione (risposta, discorso) di solito indica qualcosa di 'vago' o 'approssimativo'.",
+      "patterns": ["適当な (Nome)"],
+      "meanings": ["(Nome) appropriato/a", "(Nome) approssimativo/a"]
+    },
+    {
+      "point": "Uso avverbiale",
+      "archetypes": ["適当に座って", "適当にやっておいて"],
+      "usage": "Si usa per dire a qualcuno di fare qualcosa 'come meglio crede' o 'senza preoccuparsi troppo dei dettagli'. Può essere un modo gentile per concedere autonomia o un modo pigro per delegare un compito senza dare istruzioni precise.",
+      "patterns": ["適当に (Verbo)"],
+      "meanings": ["(Verbo) come si vuole/crede", "(Verbo) senza impegno, a caso"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "適当[てきとう]に返事[へんじ]をする",
+      "it": "dare una risposta a caso / approssimativa"
+    },
+    {
+      "ja": "適当[てきとう]にあしらう",
+      "it": "liquidare qualcuno (con sufficienza)"
+    },
+    {
+      "ja": "適当[てきとう]な場所[ばしょ]",
+      "it": "un posto appropriato / adatto"
+    },
+    {
+      "ja": "適当[てきとう]に切[き]り上[あ]げる",
+      "it": "chiudere (un discorso, una riunione) in modo opportuno"
+    },
+    {
+      "ja": "かなり適当[てきとう]な人[ひと]",
+      "it": "una persona piuttosto irresponsabile / che fa le cose a caso"
+    },
+    {
+      "ja": "適当[てきとう]に選[えら]ぶ",
+      "it": "scegliere a caso"
+    }
+  ],
+  "examples": [
+    {
+      "def": "appropriato, adatto",
+      "ja": "自分[じぶん]のレベルに合[あ]った適当[てきとう]な教科書[きょうかしょ]を探[さが]している。",
+      "it": "Sto cercando un libro di testo adatto al mio livello."
+    },
+    {
+      "def": "irresponsabile, approssimativo",
+      "ja": "彼[かれ]はいつもその場[ば]しのぎの適当[てきとう]なことばかり言[い]う。",
+      "it": "Dice sempre cose a caso, giusto per cavarsela al momento."
+    },
+    {
+      "def": "casuale, a caso",
+      "ja": "詳[くわ]しいルールは知[し]らないので、適当[てきとう]にやってみた。",
+      "it": "Non conosco le regole nel dettaglio, quindi ho fatto un po' a caso."
+    }
+  ],
+  "synonyms": [
+    { "ja": "適切", "it": "appropriato (formale)" },
+    { "ja": "いい加減", "it": "irresponsabile; fatto a caso" }
+  ],
+  "antonyms": [
+    { "ja": "不適当", "it": "inappropriato" },
+    { "ja": "真面目", "it": "serio, diligente" }
+  ]
+}

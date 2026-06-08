@@ -1,0 +1,95 @@
+{
+  "vocab": "～ず",
+  "kana": ["ず"],
+  "furigana": ["～ず"],
+  "defs": ["utan att göra", "inte göra", "inte"],
+  "kanji": [],
+  "pos": ["Hjälpverb"],
+  "tags": ["neutral", "literary", "grammar"],
+  "notes": "Ett formellt negationssuffix från klassisk japanska. Medan '～ない' är standard för negation i modernt tal, är '～ず' fortfarande produktivt i formell skrift, nyheter och fasta uttryck. I dagligt tal förekommer det oftast i formen '～ずに' (som betyder 'utan att') eller i fasta adverbiella uttryck.",
+  "grammar_points": [
+    {
+      "point": "Böjning och oregelbundenheter",
+      "archetypes": ["食べず", "書かず", "せず", "こず"],
+      "usage": "Fästs vid verbets negativa stam (mizenkei). Notera de oregelbundna mönstren för 'suru' och 'kuru'.",
+      "patterns": ["(Verbets nai-stam) ず", "する → せず", "来る → こず"],
+      "meanings": ["att inte göra", "utan att göra"]
+    },
+    {
+      "point": "Adverbiellt sätt (utan att)",
+      "archetypes": ["何も言わずに去る", "朝食を食べずに出かける"],
+      "usage": "När partikeln 'に' läggs till skapas ett adverbiellt uttryck som beskriver hur en handling utförs (eller vad som hoppades över). Det är en mer formell motsvarighet till '～ないで'.",
+      "patterns": ["(Verbets nai-stam) ずに"],
+      "meanings": ["utan att (Verb)"]
+    },
+    {
+      "point": "Satssammanfogning (formell)",
+      "archetypes": ["傘を持たず、外に出た"],
+      "usage": "Används i slutet av en sats för att koppla den till nästa, och fungerar som ett formellt alternativ till '～なくて' eller '～ないで'. Det antyder en sekvens av händelser eller ett tillstånd. Tänk på att japansk satsmelodi ofta har en tidig topp och sedan sänkning, till skillnad från svenskans tendens att betona slutet av satsen.",
+      "patterns": ["(Sats A: Verbets nai-stam) ず、 (Sats B)"],
+      "meanings": ["utan att A, B", "A inte, och B"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "思[おも]わず",
+      "sv": "ofrivilligt; instinktivt"
+    },
+    {
+      "ja": "知[し]らず知[し]らずのうちに",
+      "sv": "omedvetet; innan man vet ordet av"
+    },
+    {
+      "ja": "絶[た]えず",
+      "sv": "ständigt; oavbrutet"
+    },
+    {
+      "ja": "相変[あいか]わらず",
+      "sv": "som vanligt; samma som alltid"
+    },
+    {
+      "ja": "昼夜[ちゅうや]を問[と]わず",
+      "sv": "oavsett dag eller natt"
+    },
+    {
+      "ja": "〜ずにはいられない",
+      "sv": "kan inte låta bli att göra"
+    },
+    {
+      "ja": "〜ずじまい",
+      "sv": "slutade med att inte göra"
+    },
+    {
+      "ja": "言[い]わずもがな",
+      "sv": "onödigt att säga; bättre osagt"
+    }
+  ],
+  "examples": [
+    {
+      "def": "utan att göra",
+      "ja": "彼[かれ]は一言[ひとこと]も謝[あやま]らずに部屋[へや]を出[で]て行[い]った。",
+      "sv": "Han lämnade rummet utan att säga ett enda ord till ursäkt."
+    },
+    {
+      "def": "inte göra",
+      "ja": "昨夜[さくや]は一睡[いっすい]もせず、レポートを仕上[しあ]げた。",
+      "sv": "Jag gjorde klart rapporten i natt utan att sova en blund."
+    },
+    {
+      "def": "inte",
+      "ja": "予期[よき]せぬ大雨[おおあめ]に、計画[けいかく]を中止[ちゅうし]せざるを得[え]なかった。",
+      "sv": "På grund av det oväntade skyfallet tvingades vi ställa in planen."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "～ないで",
+      "sv": "utan att; gör inte"
+    },
+    {
+      "ja": "～なくて",
+      "sv": "inte; och inte"
+    }
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,55 @@
+{
+  "vocab": "建前",
+  "kana": ["たてまえ"],
+  "furigana": ["建[たて]前[まえ]"],
+  "defs": ["postura pública; fachada social", "principio oficial; posición formal"],
+  "kanji": [
+    { "char": "建", "mean": "construir; erigir" },
+    { "char": "前", "mean": "delante; antes" }
+  ],
+  "pos": ["Sustantivo"],
+  "tags": ["neutral", "business"],
+  "notes": "Concepto fundamental en la dinámica social japonesa que representa la cara pública o postura que uno adopta para mantener la armonía social (和). Se suele contrastar con '本音' (honne), los sentimientos verdaderos. Usar tatemae se considera una habilidad social necesaria o comportamiento adulto, no un engaño. Atención: los hispanohablantes pueden interpretar esta distinción como hipocresía o falsedad, pero en Japón es una herramienta de cortesía, no una mentira. Al rechazar algo, nunca digas un 'no' rotundo al estilo español; usa un tatemae suavizado.",
+  "grammar_points": [
+    {
+      "point": "Perspectiva y razonamiento con 〜上",
+      "archetypes": ["建前上、断ることはできない", "建前上の理由"],
+      "usage": "El sufijo 〜上 (じょう) se adjunta para indicar un punto de vista, restricción o realidad 'sobre el papel'. Con 建前 enfatiza que una acción se toma solo por expectativas sociales. Advertencia: en español diríamos 'oficialmente' o 'por compromiso', pero en japonés no tiene el matiz cínico que podría tener 'por compromiso'.",
+      "patterns": ["建前上 (は)", "建前上の (Sustantivo)"],
+      "meanings": ["oficialmente; por las apariencias", "de (Sustantivo) oficial/formal"]
+    },
+    {
+      "point": "Dualidad de comportamiento",
+      "archetypes": ["建前と本音を使い分ける"],
+      "usage": "El verbo 使い分ける (tsukaiwakeru) es la colocación estándar para describir el acto de alternar entre la postura pública y los sentimientos privados. Indica un manejo consciente y habilidoso.",
+      "patterns": ["建前と本音を使い分ける"],
+      "meanings": ["distinguir entre postura pública y sentimientos privados"]
+    }
+  ],
+  "phrases": [
+    { "ja": "建[たて]前[まえ]を言[い]う", "es": "decir lo 'correcto' en público" },
+    { "ja": "それは建[たて]前[まえ]に過[す]ぎない", "es": "eso no es más que una fachada" },
+    { "ja": "建[たて]前[まえ]抜[ぬ]きで話[は]す", "es": "hablar sin la careta social" },
+    { "ja": "建[たて]前[まえ]と本[ほん]音[ね]", "es": "postura pública vs. verdad privada" },
+    { "ja": "建[たて]前[まえ]を崩[くず]す", "es": "romper el protocolo; soltarse la careta" }
+  ],
+  "examples": [
+    {
+      "def": "postura pública; fachada social",
+      "ja": "日本[にほん]の社会[しゃかい]では、円滑[えんかつ]な人間[にんげん]関係[かんけい]のために建[たて]前[まえ]が必[ひつ]要[よう]だ。",
+      "es": "En la sociedad japonesa, una fachada pública es necesaria para las relaciones humanas armoniosas."
+    },
+    {
+      "def": "principio oficial; posición formal",
+      "ja": "彼[かれ]の言[い]っていることはあくまで建[たて]前[まえ]で、実際[じっさい]は違[ちが]うようだ。",
+      "es": "Lo que dice no es más que la postura oficial; la realidad parece ser otra."
+    }
+  ],
+  "synonyms": [
+    { "ja": "表[おもて]向[む]き", "es": "oficialmente; en público" },
+    { "ja": "外面[そとづら]", "es": "cara pública" }
+  ],
+  "antonyms": [
+    { "ja": "本音[ほんね]", "es": "sentimientos verdaderos" }
+  ]
+}

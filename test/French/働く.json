@@ -1,0 +1,99 @@
+{
+  "vocab": "働く",
+  "kana": ["はたらく"],
+  "furigana": ["働[はたら]く"],
+  "defs": [
+    "travailler ; bosser (labeur physique ou intellectuel)",
+    "fonctionner ; marcher (organes, machines, forces)",
+    "commettre ; perpétrer (actes négatifs)",
+    "agir ; s'exercer (influence, forces abstraites)"
+  ],
+  "kanji": [{ "char": "働", "mean": "travail ; labeur" }],
+  "pos": ["verbe en う", "Intransitif"],
+  "tags": ["neutral"],
+  "notes": "Contrairement à '勤める' (つとめる) qui insiste sur l'emploi dans une structure, '働く' a un sens plus large de mise en activité. Il peut s'utiliser pour un organe, une machine, ou même des forces invisibles. Attention : il peut aussi signifier 'commettre' un méfait. Les francophones devront veiller à ne pas calquer le COD français avec を : c'est le sujet qui 働く, et ce n'est pas un verbe transitif direct.",
+  "grammar_points": [
+    {
+      "point": "Causatif pour un sens transitif",
+      "archetypes": ["部下を働かせる", "想像力を働かせる"],
+      "usage": "働く étant intransitif, on utilise la forme causative 働かせる pour exprimer 'faire travailler quelqu'un' ou 'mettre en œuvre une faculté'. C'est la manière idiomatique de rendre le COD français.",
+      "patterns": ["(Personne) を働かせる", "(Faculté mentale) を働かせる"],
+      "meanings": [
+        "faire travailler (Personne)",
+        "exercer / utiliser pleinement (Faculté mentale)"
+      ]
+    },
+    {
+      "point": "Fonctionnement spontané d'un organe ou d'une faculté",
+      "archetypes": ["頭が働かない", "胃が働いている"],
+      "usage": "Décrit le bon fonctionnement ou non d'un organe ou d'une faculté cognitive. Très courant à la forme négative pour dire qu'on a l'esprit embrumé ou qu'on ne réfléchit pas correctement.",
+      "patterns": ["(Partie du corps) が働く"],
+      "meanings": ["(Partie du corps) fonctionne / marche"]
+    },
+    {
+      "point": "Forces invisibles à l'œuvre",
+      "archetypes": ["重力が働く", "圧力が働く"],
+      "usage": "S'emploie pour dire qu'une force physique ou sociale entre en jeu dans une situation donnée.",
+      "patterns": ["(Force / Pression) が働く"],
+      "meanings": ["(Force / Pression) agit / s'exerce"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "身[み]を粉[こ]にして働[はたら]く",
+      "fr": "travailler comme un acharné, se tuer au travail"
+    },
+    {
+      "ja": "頭[あたま]が働[はたら]かない",
+      "fr": "ne pas avoir les idées claires, avoir la tête vide"
+    },
+    {
+      "ja": "悪事[あくじ]を働[はたら]く",
+      "fr": "commettre un méfait / un crime"
+    },
+    {
+      "ja": "バリバリ働[はたら]く",
+      "fr": "travailler d’arrache-pied, bosser à fond"
+    },
+    {
+      "ja": "馬車馬[ばしゃうま]のように働[はたら]く",
+      "fr": "travailler comme un bœuf, comme une bête de somme"
+    },
+    {
+      "ja": "勘[かん]が働[はたら]く",
+      "fr": "avoir du flair, l’instinct qui marche"
+    }
+  ],
+  "examples": [
+    {
+      "def": "travailler ; bosser",
+      "ja": "父[ちち]は家族[かぞく]を養[やしな]うために、朝[あさ]から晩[ばん]まで一生懸命[いっしょうけんめい]働[はたら]いている。",
+      "fr": "Mon père travaille d'arrache-pied du matin au soir pour faire vivre la famille."
+    },
+    {
+      "def": "fonctionner ; marcher",
+      "ja": "徹夜[てつや]したせいで、頭[あたま]がまったく働[はたら]かない。",
+      "fr": "J'ai passé une nuit blanche, du coup je n'arrive pas du tout à réfléchir."
+    },
+    {
+      "def": "commettre ; perpétrer",
+      "ja": "彼[かれ]は会社[かいしゃ]の金[かね]を横領[おうりょう]するという、とんでもない悪事[あくじ]を働[はたら]いた。",
+      "fr": "Il a commis un méfait terrible en détournant l'argent de la société."
+    },
+    {
+      "def": "agir ; s'exercer",
+      "ja": "この市場[しじょう]では、需要[じゅよう]と供給[きょうきゅう]のバランスが働[はたら]いている。",
+      "fr": "Sur ce marché, c'est l'équilibre entre l'offre et la demande qui est à l'œuvre."
+    }
+  ],
+  "synonyms": [
+    { "ja": "勤[つと]める", "fr": "être employé, travailler pour (une entreprise)" },
+    { "ja": "機能[きのう]する", "fr": "fonctionner" },
+    { "ja": "稼[かせ]ぐ", "fr": "gagner de l'argent, bosser pour le fric" }
+  ],
+  "antonyms": [
+    { "ja": "休[やす]む", "fr": "se reposer" },
+    { "ja": "遊[あそ]ぶ", "fr": "s'amuser, jouer" },
+    { "ja": "怠[なま]ける", "fr": "paresser, être feignant" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "vocab": "～にあたらない",
+  "romaji": "~niataranai",
+  "jlpt": "N1",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "にあたらない",
+      "pattern": "LHHHHHH",
+      "source": "openjtalk",
+      "audio": "にあたらない_LHHHHHH.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": "",
+    "learning_rank": 407875,
+    "frequency_score": 0.1
+  }
+}

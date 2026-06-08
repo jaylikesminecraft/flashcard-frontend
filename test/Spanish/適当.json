@@ -1,0 +1,84 @@
+{
+  "vocab": "適当",
+  "kana": ["てきとう"],
+  "furigana": ["適[てき]当[とう]"],
+  "defs": [
+    "apropiado; adecuado",
+    "irresponsable; a medias",
+    "al azar; sin pensarlo mucho"
+  ],
+  "kanji": [
+    { "char": "適", "mean": "adecuado; apropiado" },
+    { "char": "当", "mean": "acertar; dar en el blanco" }
+  ],
+  "pos": ["adjetivo-na", "sustantivo"],
+  "tags": ["neutral", "casual"],
+  "notes": "Palabra de doble filo. En contextos formales (instrucciones, exámenes) significa 'apropiado', pero en el día a día suele implicar 'hecho sin cuidado, a la ligera' o 'improvisado'. El tono y el contexto deciden si es elogio o crítica. Mucho ojo: en japonés, soltar un 「適当でいいよ」 puede sonar a 'hazlo como quieras, no importa' y resultar cortante si no hay confianza.",
+  "grammar_points": [
+    {
+      "point": "La doble cara según el sustantivo",
+      "archetypes": ["適当な処置", "適当な返事"],
+      "usage": "Con sustantivos técnicos o formales suele significar 'apropiado'. Con palabras de comunicación (respuesta, comentario) o de método (forma, manera) adquiere el matiz de 'vago', 'al tuntún' o 'irresponsable'.",
+      "patterns": ["適当な (Sustantivo)"],
+      "meanings": ["(Sustantivo) apropiado/a", "(Sustantivo) a la ligera"]
+    },
+    {
+      "point": "Uso adverbial: entre la autonomía y el desinterés",
+      "archetypes": ["適当に座って", "適当にやっておいて"],
+      "usage": "Instrucción para que alguien actúe 'según su criterio' o 'sin complicarse'. Puede ser una forma amable de dar libertad o una manera vaga de delegar sin explicar nada. En entornos laborales, si tu jefe te dice 「適当にやって」, prepara tus defensas: a menudo significa 'no me importa cómo, pero hazlo'.",
+      "patterns": ["適当に (Verbo)"],
+      "meanings": ["(Verbo) como mejor te parezca", "(Verbo) a la ligera"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "適当[てきとう]に返事[へんじ]をする",
+      "es": "responder sin pensar / contestar por salir del paso"
+    },
+    {
+      "ja": "適当[てきとう]にあしらう",
+      "es": "despachar a alguien con evasivas"
+    },
+    {
+      "ja": "適当[てきとう]な場所[ばしょ]",
+      "es": "un lugar adecuado"
+    },
+    {
+      "ja": "適当[てきとう]に切[き]り上[あ]げる",
+      "es": "terminar cuando cuadre / dejar en un punto razonable (sin buscar el cierre perfecto)"
+    },
+    {
+      "ja": "かなり適当[てきとう]な人[ひと]",
+      "es": "una persona bastante informal / que se lo toma todo a la ligera"
+    },
+    {
+      "ja": "適当[てきとう]に選[えら]ぶ",
+      "es": "escoger a boleo / al azar"
+    }
+  ],
+  "examples": [
+    {
+      "def": "apropiado; adecuado",
+      "ja": "自分[じぶん]のレベルに合[あ]った適当[てきとう]な教科書[きょうかしょ]を探[さが]している。",
+      "es": "Estoy buscando un libro de texto adecuado a mi nivel."
+    },
+    {
+      "def": "irresponsable; a medias",
+      "ja": "彼[かれ]はいつもその場[ば]しのぎの適当[てきとう]なことばかり言[い]う。",
+      "es": "Él siempre suelta lo primero que se le viene a la cabeza para salir del paso."
+    },
+    {
+      "def": "al azar; sin pensarlo mucho",
+      "ja": "詳[くわ]しいルールは知[し]らないので、適当[てきとう]にやってみた。",
+      "es": "Como no conozco las reglas en detalle, lo hice a mi manera / improvisando."
+    }
+  ],
+  "synonyms": [
+    { "ja": "適切", "es": "apropiado (formal)" },
+    { "ja": "いい加減", "es": "irresponsable; en su punto justo (según contexto)" }
+  ],
+  "antonyms": [
+    { "ja": "不適当", "es": "inadecuado" },
+    { "ja": "真面目", "es": "serio; diligente" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "vocab": "迷惑",
+  "romaji": "meiwaku",
+  "jlpt": "N3",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "めいわく",
+      "pattern": "HLLLL",
+      "source": "wadoku",
+      "audio": "めいわく_HLLLL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 3439,
+    "learning_rank": 1478,
+    "frequency_score": 1.85
+  }
+}

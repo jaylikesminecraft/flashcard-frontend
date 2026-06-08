@@ -1,0 +1,70 @@
+{
+  "vocab": "建前",
+  "kana": ["たてまえ"],
+  "furigana": ["建[たて]前[まえ]"],
+  "defs": ["façade sociale, position officielle de convenance", "discours de façade, déclaration de principe"],
+  "kanji": [
+    { "char": "建", "mean": "construire, bâtir" },
+    { "char": "前", "mean": "devant, avant" }
+  ],
+  "pos": ["Nom"],
+  "tags": ["neutral", "business"],
+  "notes": "Le 建前 est une notion centrale de la communication japonaise : c'est la position que l'on affiche en public pour préserver l'harmonie (和). Il s'oppose presque systématiquement au 本音 (ほんね), le sentiment réel. Pour un francophone, il ne s'agit pas d'un simple « mensonge par omission » ou d'une hypocrisie : au Japon, maîtriser le 建前 est perçu comme une compétence sociale adulte, indispensable pour ne pas briser l'ambiance. Attention à ne pas calquer l'usage français du mot « façade », souvent péjoratif. En japonais, le 建前 a une valeur fonctionnelle et protectrice dans les relations.",
+  "grammar_points": [
+    {
+      "point": "Point de vue officiel avec 〜上（じょう）",
+      "archetypes": [
+        "建前上、断ることはできない",
+        "建前上の理由"
+      ],
+      "usage": "Le suffixe 〜上（じょう）s'attache directement au nom pour exprimer un point de vue, une contrainte « sur le papier » ou une logique de façade. Avec 建前, il souligne qu'on agit uniquement par convention sociale, même si le fond est différent.",
+      "patterns": [
+        "建前上 (は)",
+        "建前上の (Nom)"
+      ],
+      "meanings": [
+        "officiellement, pour la forme",
+        "un(e) (Nom) officiel(le), de façade"
+      ]
+    },
+    {
+      "point": "Alterner façade et sentiment réel",
+      "archetypes": [
+        "建前と本音を使い分ける"
+      ],
+      "usage": "L'expression 建前と本音を使い分ける décrit l'aptitude à jongler entre discours officiel et vérité personnelle selon le contexte. C'est une collocation très fréquente pour parler de cette dualité comportementale.",
+      "patterns": [
+        "建前と本音を使い分ける"
+      ],
+      "meanings": [
+        "distinguer/séparer la façade officielle de ses vrais sentiments"
+      ]
+    }
+  ],
+  "phrases": [
+    { "ja": "建[たて]前[まえ]を言[い]う", "fr": "dire ce qu'il convient de dire (en public)" },
+    { "ja": "それは建[たて]前[まえ]に過[す]ぎない", "fr": "ce n'est rien de plus qu'une façade" },
+    { "ja": "建[たて]前[まえ]抜[ぬ]きで話[はな]す", "fr": "parler sans la façade sociale, dire le fond de sa pensée" },
+    { "ja": "建[たて]前[まえ]と本[ほん]音[ね]", "fr": "la façade sociale et le vrai sentiment" },
+    { "ja": "建[たて]前[まえ]を崩[くず]す", "fr": "laisser tomber le discours officiel, sortir de son rôle" }
+  ],
+  "examples": [
+    {
+      "def": "façade sociale, position officielle de convenance",
+      "ja": "日本[にほん]の社会[しゃかい]では、円滑[えんかつ]な人間[にんげん]関係[かんけい]のために建[たて]前[まえ]が必[ひつ]要[よう]だ。",
+      "fr": "Dans la société japonaise, une façade sociale est nécessaire pour des relations humaines harmonieuses."
+    },
+    {
+      "def": "discours de façade, déclaration de principe",
+      "ja": "彼[かれ]の言[い]っていることはあくまで建[たて]前[まえ]で、実際[じっさい]は違[ちが]うようだ。",
+      "fr": "Ce qu'il dit n'est que le discours officiel ; en réalité, il semble que ce soit différent."
+    }
+  ],
+  "synonyms": [
+    { "ja": "表[おもて]向[む]き", "fr": "en apparence, officiellement" },
+    { "ja": "外面[そとづら]", "fr": "façade, aspect extérieur" }
+  ],
+  "antonyms": [
+    { "ja": "本音[ほんね]", "fr": "sentiments réels, fond de la pensée" }
+  ]
+}

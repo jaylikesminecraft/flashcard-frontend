@@ -1,0 +1,64 @@
+{
+  "vocab": "スマート",
+  "kana": ["スマート"],
+  "furigana": ["スマート"],
+  "defs": ["smal; slank", "stilren; elegant", "smidig; effektiv"],
+  "kanji": [],
+  "pos": ["na-adjektiv"],
+  "tags": ["neutral", "wasei-eigo"],
+  "notes": "スマート är ett lånord från engelskans 'smart', men har en annan betydelse på japanska. Det syftar främst på fysisk form (smal/slank) eller elegant och effektiv hantering. Att kalla någon スマート handlar alltså om figuren eller det stiliga sättet att utföra något, inte om intelligens.",
+  "grammar_points": [
+    {
+      "point": "Betydelseförskjutning – fysisk form",
+      "archetypes": ["スマートな体型"],
+      "usage": "I vardaglig japanska är detta den vanligaste användningen. Det är en komplimang för någon som är smal på ett sunt och stiligt sätt.",
+      "patterns": ["スマートな (Kroppsdel/Kroppsbyggnad)"],
+      "meanings": ["smal/slank (Kroppsdel/Kroppsbyggnad)"]
+    },
+    {
+      "point": "Hantering – smidigt och elegant",
+      "archetypes": ["スマートにこなす", "スマートに支払う"],
+      "usage": "Beskriver att utföra en handling utan fummel, tvekan eller onödig ansträngning. Används ofta i sociala eller affärsmässiga sammanhang för att beskriva 'smarta' interaktioner.",
+      "patterns": ["スマートに (Verb)"],
+      "meanings": ["att (Verb) smidigt/elegant"]
+    }
+  ],
+  "phrases": [
+    { "ja": "スマートな体型[たいけい]", "sv": "en slank kroppsbyggnad" },
+    {
+      "ja": "スマートに解決[かいけつ]する",
+      "sv": "lösa (ett problem) elegant/smidigt"
+    },
+    { "ja": "スマートな身[み]のこなし", "sv": "graciösa rörelser/hållning" },
+    { "ja": "スマートな振[ふ]る舞[ま]い", "sv": "sofistikerat beteende" },
+    { "ja": "スマート決済[けっさい]", "sv": "smidig/kontaktlös betalning" },
+    { "ja": "スマートな対応[たいおう]", "sv": "polerat/effektivt bemötande" }
+  ],
+  "examples": [
+    {
+      "def": "smal; slank",
+      "ja": "彼女[かのじょ]はモデルのようにスマートだ。",
+      "sv": "Hon är smal/slank som en modell."
+    },
+    {
+      "def": "stilren; elegant",
+      "ja": "彼[かれ]のスーツの着[き]こなしはいつもスマートだ。",
+      "sv": "Hans sätt att bära kostym är alltid stilsäkert och elegant."
+    },
+    {
+      "def": "smidig; effektiv",
+      "ja": "トラブルをスマートに処置[しょち]した。",
+      "sv": "Han hanterade bekymret smidigt och effektivt."
+    }
+  ],
+  "synonyms": [
+    { "ja": "スリム", "sv": "slim" },
+    { "ja": "洗練[せんれん]された", "sv": "raffinerad; sofistikerad" },
+    { "ja": "格好[かっこう]いい", "sv": "cool; stilig" }
+  ],
+  "antonyms": [
+    { "ja": "泥臭[どろくさ]い", "sv": "oraffinerad; klumpig" },
+    { "ja": "鈍重[どんじゅう]な", "sv": "långsam och tung; trög" },
+    { "ja": "太[ふと]った", "sv": "tjock" }
+  ]
+}

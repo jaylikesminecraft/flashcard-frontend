@@ -1,0 +1,71 @@
+{
+  "vocab": "迷惑",
+  "kana": ["めいわく"],
+  "furigana": ["迷惑[めいわく]"],
+  "defs": ["molestia; inconveniente", "fastidio; problema"],
+  "kanji": [
+    { "char": "迷", "mean": "extraviado; perdido" },
+    { "char": "惑", "mean": "confusión; perplejidad" }
+  ],
+  "pos": ["Sustantivo", "な-adjetivo", "Verbo する"],
+  "tags": ["neutral"],
+  "notes": "Concepto central en la armonía social japonesa. La frase 'no causar problemas a los demás' (人に迷惑をかけない) es una regla social básica. Abarca desde ruidos leves hasta cargas graves. Atención: No se usa para molestias triviales como un lápiz caído; implica una afectación real en la vida diaria. Cuidado con la pronunciación: la combinación 'ei' se alarga (めいーわく), no la reduzcas a 'mewaku' como en español. La 'r' es suave, nunca vibrante (no ronronear la lengua).",
+  "grammar_points": [
+    {
+      "point": "Dirección de la molestia",
+      "archetypes": ["親に迷惑をかける", "親友に迷惑がかかる"],
+      "usage": "Usa をかける cuando un agente causa activamente la molestia (transitivo). Usa がかかる (intransitivo) cuando la molestia recae sobre alguien debido a una situación o causa externa, sin enfatizar al culpable.",
+      "patterns": ["(Persona) に迷惑をかける", "(Persona) に迷惑がかかる"],
+      "meanings": ["causar molestias a (Persona)", "recaer molestias sobre (Persona)"]
+    },
+    {
+      "point": "Molestia percibida (pasiva + 〜がる)",
+      "archetypes": ["周囲に迷惑がられる", "迷惑がられないようにする"],
+      "usage": "Combina la pasiva con el sufijo 〜がる (mostrar signos de una emoción). Describe el estado de ser considerado molesto por otros. Útil para hablar de la percepción social sin afirmar directamente que uno es molesto.",
+      "patterns": ["(Persona) に迷惑がられる"],
+      "meanings": ["ser visto/tratado como una molestia por (Persona)"]
+    },
+    {
+      "point": "Disculpa formal con lenguaje humilde",
+      "archetypes": ["ご迷惑をおかけしました", "ご迷惑をおかけして申し訳ありません"],
+      "usage": "Construcción productiva en negocios y contextos formales. Usa el patrón humilde お＋sustantivo＋する incluso con un sustantivo, junto al verbo かける con matiz causativo. Expresa pesar profundo por la carga causada. La partícula ご es obligatoria aquí para elevar el tono.",
+      "patterns": ["ご迷惑をおかけする", "ご迷惑をおかけして (Expresión de disculpa)"],
+      "meanings": ["causar molestias (humilde)", "lamento mucho las molestias (fórmula completa)"]
+    }
+  ],
+  "phrases": [
+    { "ja": "迷惑[めいわく]メール", "es": "correo no deseado; spam" },
+    { "ja": "近所迷惑[きんじょめいわく]", "es": "molestia para el vecindario" },
+    { "ja": "ありがた迷惑[めいわく]", "es": "favor inoportuno; ayuda mal recibida" },
+    { "ja": "迷惑[めいわく]をかける", "es": "causar molestias a alguien" },
+    { "ja": "ご迷惑[めいわく]をおかけしました", "es": "Disculpe las molestias ocasionadas" },
+    { "ja": "迷惑[めいわく]極[きわ]まりない", "es": "sumamente molesto; insufrible" },
+    { "ja": "迷惑[めいわく]そうな顔[かお]", "es": "cara de fastidio; expresión de molestia" }
+  ],
+  "examples": [
+    {
+      "def": "molestia; inconveniente",
+      "ja": "夜遅[よるおそ]くにピアノを弾[ひ]くのは、近所迷惑[きんじょめいわく]になる。",
+      "es": "Tocar el piano a altas horas de la noche se vuelve una molestia para los vecinos."
+    },
+    {
+      "def": "fastidio; problema",
+      "ja": "電車[でんしゃ]の中[なか]で大声[おおごえ]で話[はな]す人[ひと]には本当[ほんとう]に迷惑[めいわく]している。",
+      "es": "De verdad me fastidia la gente que habla en voz alta en el tren."
+    },
+    {
+      "def": "fastidio; problema",
+      "ja": "これ以上[いじょう]、家族[かぞく]に迷惑[めいわく]をかけたくない。",
+      "es": "No quiero causar más problemas a mi familia."
+    }
+  ],
+  "synonyms": [
+    { "ja": "厄介[やっかい]", "es": "problemático; carga" },
+    { "ja": "面倒[めんどう]", "es": "fastidio; engorro" },
+    { "ja": "邪魔[じゃま]", "es": "estorbo; obstáculo" }
+  ],
+  "antonyms": [
+    { "ja": "恩恵[おんけい]", "es": "beneficio; gracia" },
+    { "ja": "助[たす]け", "es": "ayuda; asistencia" }
+  ]
+}

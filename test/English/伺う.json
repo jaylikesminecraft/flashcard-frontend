@@ -1,0 +1,80 @@
+{
+  "vocab": "伺う",
+  "kana": ["うかがう"],
+  "furigana": ["伺[うかが]う"],
+  "defs": [
+    "to humbly visit",
+    "to humbly ask; inquire",
+    "to humbly hear; listen"
+  ],
+  "kanji": [{ "char": "伺", "mean": "visit; inquire" }],
+  "pos": ["う-verb", "Transitive", "Intransitive"],
+  "tags": ["keigo", "business"],
+  "notes": "A versatile humble verb (kenjougo) that replaces several common verbs in polite or formal contexts. It lowers the speaker's status to show respect toward the person being visited, asked, or heard from. In business, it is essential for scheduling and professional inquiries.",
+  "grammar_points": [
+    {
+      "point": "Keigo Social Dynamics",
+      "archetypes": ["明日、伺います", "お名前を伺う"],
+      "usage": "Directly replaces 行く/来る (go/come), 聞く (ask/hear), and 尋ねる (inquire). It lowers the speaker to elevate the listener or the person associated with the action.",
+      "patterns": ["(Speaker) が (Outgroup Person) に伺う"],
+      "meanings": ["I/We (humbly) visit/ask (Person)"]
+    },
+    {
+      "point": "Progressive State vs. Knowledge",
+      "archetypes": ["お話は伺っております"],
+      "usage": "While 〜ている usually shows current action, 伺っております is a very common humble phrase meaning 'I have heard (and currently know) about the situation.' It implies 'I am already informed.'",
+      "patterns": ["(Topic) は伺っております"],
+      "meanings": ["I have already heard about (Topic)"]
+    },
+    {
+      "point": "Seeking Permission",
+      "archetypes": ["お話を伺わせてください", "お話を伺ってもいいですか？"],
+      "usage": "Combining with the causative or potential forms to politely request to hear or visit someone. The causative form 伺わせる is often used in formal business requests.",
+      "patterns": [
+        "(Person) のお話を伺わせる",
+        "(Action) を伺ってもよろしいですか？"
+      ],
+      "meanings": [
+        "Please let me hear (Person)'s story",
+        "May I (humbly) ask/visit?"
+      ]
+    }
+  ],
+  "phrases": [
+    { "ja": "お話[はなし]を伺[うかが]う", "en": "to listen to someone speak" },
+    { "ja": "お宅[たく]に伺[うかが]う", "en": "to visit someone's home" },
+    { "ja": "お名前[なまえ]を伺[うかが]う", "en": "to ask for someone's name" },
+    {
+      "ja": "ご都合[つごう]を伺[うかが]う",
+      "en": "to ask about someone's availability"
+    },
+    { "ja": "伺[うかが]っております", "en": "I have heard / I am informed" },
+    {
+      "ja": "様子[ようす]を伺[うかが]う",
+      "en": "to see how things go; watch and wait"
+    }
+  ],
+  "examples": [
+    {
+      "def": "to humbly visit",
+      "ja": "明日[あした]の午後[ごご]、オフィスに伺[うかが]ってもよろしいでしょうか？",
+      "en": "Would it be alright if I visited your office tomorrow afternoon?"
+    },
+    {
+      "def": "to humbly ask; inquire",
+      "ja": "少々[しょうしょう]伺[うかが]いたいことがございます。",
+      "en": "There is something I would like to (humbly) ask you."
+    },
+    {
+      "def": "to humbly hear; listen",
+      "ja": "田中様[たなかさま]から、ご結婚[けっこん]のことは伺[うかが]っております。",
+      "en": "I have already heard about your marriage from Mr. Tanaka."
+    }
+  ],
+  "synonyms": [
+    { "ja": "参[まい]る", "en": "to come/go (humble)" },
+    { "ja": "聞[き]く", "en": "to hear/ask" },
+    { "ja": "訪[おとず]れる", "en": "to visit" }
+  ],
+  "antonyms": []
+}

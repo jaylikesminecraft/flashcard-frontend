@@ -1,0 +1,69 @@
+{
+  "vocab": "一応",
+  "kana": ["いちおう"],
+  "furigana": ["一応[いちおう]"],
+  "defs": ["per ora; per il momento", "per sicurezza; nel caso", "più o meno; a grandi linee; provvisoriamente"],
+  "kanji": [
+    { "char": "一", "mean": "uno" },
+    { "char": "応", "mean": "rispondere; accettare; adeguarsi" }
+  ],
+  "pos": ["Avverbio", "Sostantivo ~の"],
+  "tags": ["neutral"],
+  "notes": "Un avverbio multifunzionale usato per attenuare o cautelare un'affermazione. Indica che un'azione o uno standard non è perfetto al 100%, ma soddisfa i requisiti minimi. Funziona come una 'rete di sicurezza' per evitare di fare affermazioni assolute. È simile a 'とりあえず', ma '一応' sottolinea il 'raggiungimento di un livello minimo' o la 'precauzione', mentre 'とりあえず' indica la priorità immediata ('intanto'). In italiano si può rendere con espressioni come 'più o meno', 'provvisoriamente', 'tanto per', 'per sicurezza'.",
+  "grammar_points": [
+    {
+      "point": "Attenuazione di un risultato",
+      "archetypes": ["一応終わりました"],
+      "usage": "Si usa quando si riferisce di aver concluso un compito in modo modesto o per indicare che la parte principale è fatta, ma potrebbero rimanere dettagli da sistemare. Simile all'italiano 'più o meno', 'a grandi linee', 'provvisoriamente'.",
+      "patterns": ["一応 (Verbo-た)"],
+      "meanings": ["più o meno/a grandi linee (Verbo)"]
+    },
+    {
+      "point": "Azione precauzionale",
+      "archetypes": ["一応持って行く", "一応確認する"],
+      "usage": "Si compie un'azione come salvaguardia contro possibili problemi, anche se potrebbe rivelarsi superflua. Equivale all'italiano 'per sicurezza', 'nel caso', 'per precauzione'.",
+      "patterns": ["一応 (Verbo forma piana)"],
+      "meanings": ["(Verbo) per sicurezza / per precauzione"]
+    },
+    {
+      "point": "Modifica provvisoria",
+      "archetypes": ["一応の完成", "一応の目安"],
+      "usage": "Usato con la particella 'の', caratterizza un sostantivo come provvisorio o non definitivo.",
+      "patterns": ["一応の (Sostantivo)"],
+      "meanings": ["un (Sostantivo) provvisorio / di massima"]
+    }
+  ],
+  "phrases": [
+    { "ja": "一応[いちおう]、確認[かくにん]しておきます", "it": "Controllo per sicurezza." },
+    { "ja": "一応[いちおう]、終[お]わりました", "it": "Ho più o meno finito." },
+    { "ja": "一応[いちおう]の目安[めやす]", "it": "un'indicazione di massima" },
+    { "ja": "一応[いちおう]、知[し]らせておく", "it": "avvisare per sicurezza / giusto per informare" },
+    { "ja": "一応[いちおう]、筋[すじ]を通[とお]す", "it": "fare le cose per forma / per correttezza formale" }
+  ],
+  "examples": [
+    {
+      "def": "più o meno; provvisoriamente",
+      "ja": "資料[しりょう]には一応[いちおう]目[め]を通[とお]しましたが、詳[くわ]しくは明日[あした]伺[うかが]います。",
+      "it": "Ho dato una scorsa ai documenti, ma per i dettagli chiedo domani."
+    },
+    {
+      "def": "per sicurezza; nel caso",
+      "ja": "降[ふ]らないと思[おも]うけど、一応[いちおう]傘[かさ]を持[も]っていこう。",
+      "it": "Non credo pioverà, ma prendiamo l'ombrello per sicurezza."
+    },
+    {
+      "def": "per ora; per il momento",
+      "ja": "一応[いちおう]、今日[きょう]の会議[かいぎ]はこれで終[お]わりにしましょう。",
+      "it": "Per ora, chiudiamo qui la riunione di oggi."
+    }
+  ],
+  "synonyms": [
+    { "ja": "念[ねん]のため", "it": "per sicurezza / per scrupolo" },
+    { "ja": "とりあえず", "it": "per il momento / intanto" },
+    { "ja": "まずまず", "it": "più o meno / passabilmente" }
+  ],
+  "antonyms": [
+    { "ja": "完全[かんぜん]に", "it": "completamente" },
+    { "ja": "完璧[かんぺき]に", "it": "perfettamente" }
+  ]
+}

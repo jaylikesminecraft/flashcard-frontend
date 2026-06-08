@@ -1,0 +1,19 @@
+{
+  "vocab": "スマート",
+  "romaji": "sumaato",
+  "jlpt": "N2",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "すまーと",
+      "pattern": "LHLLL",
+      "source": "wadoku",
+      "audio": "すまーと_LHLLL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 2160,
+    "learning_rank": 3418,
+    "frequency_score": 1.31
+  }
+}

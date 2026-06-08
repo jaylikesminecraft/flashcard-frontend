@@ -1,0 +1,19 @@
+{
+  "vocab": "上がる",
+  "romaji": "agaru",
+  "jlpt": "N4",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "あがる",
+      "pattern": "LHHH",
+      "source": "wadoku",
+      "audio": "あがる_LHHH.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 1272,
+    "learning_rank": 559,
+    "frequency_score": 2.28
+  }
+}

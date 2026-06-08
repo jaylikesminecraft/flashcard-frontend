@@ -1,0 +1,98 @@
+{
+  "vocab": "クレーム",
+  "kana": ["くれーむ"],
+  "furigana": ["クレーム"],
+  "defs": [
+    "reclamo di un cliente; lamentele",
+    "obiezione; espressione di insoddisfazione"
+  ],
+  "kanji": [],
+  "pos": ["Sostantivo"],
+  "tags": ["neutro", "affari", "wasei-eigo"],
+  "notes": "Un classico 'falso amico' (wasei-eigo). A differenza della parola inglese 'claim' (rivendicare un diritto o richiedere un indennizzo assicurativo), il giapponese クレーム indica quasi esclusivamente un 'reclamo' o una 'lamentela', tipicamente da parte di un cliente riguardo a un prodotto o servizio. Per dire 'richiedere un indennizzo assicurativo' o 'rivendicare un diritto', in giapponese si usano 請求 (せいきゅう) o 主張 (しゅちょう).",
+  "grammar_points": [
+    {
+      "point": "Fare un reclamo (Verbi attivi)",
+      "archetypes": ["お店にクレームを入れる", "理不尽なクレームをつける"],
+      "usage": "Per esprimere 'fare un reclamo', in giapponese si usano raramente verbi come 言う. Invece, i verbi principali sono 入れる e つける. 入れる dà l'idea di presentare o inoltrare ufficialmente un reclamo (ad esempio per telefono o email). つける ha una sfumatura molto più forte e aggressiva, simile a 'trovare difetti', 'cercare il pelo nell'uovo' o attaccare briga.",
+      "patterns": [
+        "(Destinatario) に クレーム を 入れる",
+        "(Destinatario) に クレーム を つける"
+      ],
+      "meanings": [
+        "inoltrare un reclamo a (Destinatario)",
+        "lamentarsi con / trovare difetti a (Destinatario)"
+      ]
+    },
+    {
+      "point": "Ricevere un reclamo (Prospettiva passiva)",
+      "archetypes": [
+        "客からクレームが来る",
+        "クレームが入る",
+        "クレームを受ける"
+      ],
+      "usage": "Quando un'azienda riceve un reclamo, la situazione è inquadrata come il reclamo che 'arriva' (来る / 入る) piuttosto che l'azienda che 'viene informata'. 入る (intransitivo) è molto comune in ambito aziendale per affermare in modo oggettivo che un reclamo è stato registrato o ricevuto.",
+      "patterns": [
+        "(Fonte) から クレーム が 来る・入る",
+        "(Fonte) から クレーム を 受ける"
+      ],
+      "meanings": [
+        "arriva un reclamo da (Fonte)",
+        "ricevere un reclamo da (Fonte)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "クレーム対応[たいおう]",
+      "it": "gestione dei reclami; risposta al cliente"
+    },
+    {
+      "ja": "クレーム処理[しょり]",
+      "it": "elaborazione dei reclami; risoluzione delle lamentele"
+    },
+    {
+      "ja": "クレームの電話[でんわ]を入[い]れる",
+      "it": "fare una telefonata di reclamo"
+    },
+    {
+      "ja": "理不尽[りふじん]なクレーム",
+      "it": "reclamo irragionevole; lamentela ingiustificata"
+    },
+    {
+      "ja": "クレームが殺到[さっとう]する",
+      "it": "essere sommerso dai reclami"
+    },
+    {
+      "ja": "クレームを恐[おそ]れる",
+      "it": "temere di ricevere reclami"
+    }
+  ],
+  "examples": [
+    {
+      "def": "reclamo di un cliente; lamentele",
+      "ja": "新商品[しんしょうひん]の不具合[ふぐあい]に対[たい]して、客[きゃく]からクレームが入[はい]った。",
+      "it": "È arrivato un reclamo da parte di un cliente per un difetto del nuovo prodotto."
+    },
+    {
+      "def": "obiezione; espressione di insoddisfazione",
+      "ja": "彼[かれ]の強引[ごういん]なやり方[かた]には、チーム内[ない]からクレームが続出[ぞくしゅつ]している。",
+      "it": "Stanno fioccando lamentele all'interno del team per i suoi metodi prepotenti."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "苦情[くじょう]",
+      "it": "reclamo; lagnanza (più formale/scritto)"
+    },
+    {
+      "ja": "文句[もんく]",
+      "it": "lamentela; brontolio (più informale/quotidiano)"
+    },
+    {
+      "ja": "異議[いぎ]",
+      "it": "obiezione; contestazione"
+    }
+  ],
+  "antonyms": []
+}

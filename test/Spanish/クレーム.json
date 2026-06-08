@@ -1,0 +1,95 @@
+{
+  "vocab": "クレーム",
+  "kana": ["くれーむ"],
+  "furigana": ["クレーム"],
+  "defs": [
+    "reclamo de un cliente; queja",
+    "objeción; expresión de insatisfacción"
+  ],
+  "kanji": [],
+  "pos": ["Sustantivo"],
+  "tags": ["neutral", "business", "wasei-eigo"],
+  "notes": "Un clásico 'falso amigo' (wasei-eigo). A diferencia de la palabra inglesa 'claim' (reclamar un derecho legal o pedir un seguro), en japonés クレーム significa casi exclusivamente una 'queja' o 'reclamo', generalmente de un cliente sobre un producto o servicio. Para decir 'reclamo de seguro' o 'afirmar un derecho', en japonés se usa 請求 (せいきゅう) o 主張 (しゅちょう). \n\n**Fonética y Prosodia:** La vocal larga «レー» se alarga aproximadamente el doble que una sílaba normal; evita acortarla como en español. La «ク» es sorda (sin vibración de cuerdas vocales). No ruedes la /r/: la «r» japonesa es un toque suave, no vibrante múltiple. El acento es plano (sin énfasis brusco).",
+  "grammar_points": [
+    {
+      "point": "Presentar una queja (verbos activos)",
+      "archetypes": ["お店にクレームを入れる", "理不尽なクレームをつける"],
+      "usage": "Para expresar 'hacer un reclamo', casi nunca se usa 言う. En su lugar, 入れる y つける son los verbos principales. 入れる implica presentar oficialmente la queja (por teléfono, mail, etc.). つける tiene un matiz más fuerte, de 'poner pegas', 'buscarle fallos' o 'armar bronca'.",
+      "patterns": [
+        "(Destino) に クレーム を 入れる",
+        "(Destino) に クレーム を つける"
+      ],
+      "meanings": [
+        "presentar una queja ante (Destino)",
+        "poner una queja a / buscarle fallos a (Destino)"
+      ]
+    },
+    {
+      "point": "Recibir una queja (perspectiva pasiva)",
+      "archetypes": [
+        "客からクレームが来る",
+        "クレームが入る",
+        "クレームを受ける"
+      ],
+      "usage": "Cuando una empresa recibe una queja, la situación se enmarca como si la queja 'llegara' (来る / 入る) en lugar de que la empresa 'sea informada'. 入る (intransitivo) es muy común en el ámbito empresarial para decir que se registró o recibió una queja.",
+      "patterns": [
+        "(Origen) から クレーム が 来る・入る",
+        "(Origen) から クレーム を 受ける"
+      ],
+      "meanings": [
+        "llega una queja de (Origen)",
+        "recibir una queja de (Origen)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "クレーム対応[たいおう]",
+      "es": "manejo de reclamos; atención al cliente tras una queja"
+    },
+    {
+      "ja": "クレーム処理[しょり]",
+      "es": "procesamiento de quejas; resolución de reclamos"
+    },
+    {
+      "ja": "クレームの電話[でんわ]を入[い]れる",
+      "es": "hacer una llamada de queja"
+    },
+    {
+      "ja": "理不尽[りふじん]なクレーム",
+      "es": "queja injustificada; reclamo sin fundamento"
+    },
+    {
+      "ja": "クレームが殺到[さっとう]する",
+      "es": "ser inundado de quejas; recibir un aluvión de reclamos"
+    },
+    {
+      "ja": "クレームを恐[おそ]れる",
+      "es": "tener miedo de recibir quejas"
+    }
+  ],
+  "examples": [
+    {
+      "def": "reclamo de un cliente; queja",
+      "ja": "新商品[しんしょうひん]の不具合[ふぐあい]に対[たい]して、客[きゃく]からクレームが入[はい]った。",
+      "es": "Entró una queja de un cliente por un defecto en el nuevo producto."
+    },
+    {
+      "def": "objeción; expresión de insatisfacción",
+      "ja": "彼[かれ]の強引[ごういん]なやり方[かた]には、チーム内[ない]からクレームが続出[ぞくしゅつ]している。",
+      "es": "Están lloviendo quejas dentro del equipo por sus métodos autoritarios."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "苦情[くじょう]",
+      "es": "queja; reclamo (más formal/escrito)"
+    },
+    {
+      "ja": "文句[もんく]",
+      "es": "queja; protesta (más informal/cotidiano)"
+    },
+    { "ja": "異議[いぎ]", "es": "objeción; disconformidad" }
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,91 @@
+{
+  "vocab": "クレーム",
+  "kana": ["くれーむ"],
+  "furigana": ["クレーム"],
+  "defs": ["plainte d'un client ; réclamation", "grief ; expression de mécontentement"],
+  "kanji": [],
+  "pos": ["Nom"],
+  "tags": ["neutral", "business", "wasei-eigo"],
+  "notes": "Faux‑ami typique du wasei‑eigo. Contrairement à l'anglais « claim » (revendiquer un droit, déclarer un sinistre), le japonais クレーム désigne exclusivement une plainte, le plus souvent d'un client à propos d'un produit ou d'un service. Pour dire « déclaration de sinistre » ou « revendication », on utilise 請求 (せいきゅう) ou 主張 (しゅちょう). Attention : en français, on pourrait être tenté de l'utiliser comme « réclamation » dans un sens juridique large, mais クレーム reste cantonné au domaine de la satisfaction client.",
+  "grammar_points": [
+    {
+      "point": "Déposer une plainte (verbes actifs)",
+      "archetypes": ["お店にクレームを入れる", "理不尽なクレームをつける"],
+      "usage": "Pour dire « faire une réclamation » ou « se plaindre », on n'utilise pas 言う mais des verbes spécialisés. 入れる exprime le dépôt formel d'une plainte (par téléphone, mail, etc.). つける a une nuance plus agressive : chercher la petite bête, pinailler, voire chercher querelle.",
+      "patterns": [
+        "(Destinataire) に クレーム を 入れる",
+        "(Destinataire) に クレーム を つける"
+      ],
+      "meanings": [
+        "déposer une plainte auprès de (Destinataire)",
+        "se plaindre à / chercher des poux à (Destinataire)"
+      ]
+    },
+    {
+      "point": "Recevoir une plainte (perspective passive)",
+      "archetypes": ["客からクレームが来る", "クレームが入る", "クレームを受ける"],
+      "usage": "En entreprise, on ne dit pas qu'on « s'est fait dire quelque chose », mais que la plainte « arrive ». 入る (intransitif) est très courant en contexte professionnel pour indiquer qu'une réclamation a été enregistrée.",
+      "patterns": [
+        "(Source) から クレーム が 来る・入る",
+        "(Source) から クレーム を 受ける"
+      ],
+      "meanings": [
+        "une plainte arrive de (Source)",
+        "recevoir/réceptionner une plainte de (Source)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "クレーム対応[たいおう]",
+      "fr": "traitement des réclamations ; gestion des plaintes"
+    },
+    {
+      "ja": "クレーム処理[しょり]",
+      "fr": "résolution des litiges ; traitement des griefs"
+    },
+    {
+      "ja": "クレームの電話[でんわ]を入[い]れる",
+      "fr": "passer un appel de réclamation"
+    },
+    {
+      "ja": "理不尽[りふじん]なクレーム",
+      "fr": "plainte abusive ; réclamation injustifiée"
+    },
+    {
+      "ja": "クレームが殺到[さっとう]する",
+      "fr": "être submergé de plaintes"
+    },
+    {
+      "ja": "クレームを恐[おそ]れる",
+      "fr": "craindre les réclamations"
+    }
+  ],
+  "examples": [
+    {
+      "def": "plainte d'un client ; réclamation",
+      "ja": "新商品[しんしょうひん]の不具合[ふぐあい]に対[たい]して、客[きゃく]からクレームが入[はい]った。",
+      "fr": "Une réclamation est arrivée d'un client concernant un défaut sur le nouveau produit."
+    },
+    {
+      "def": "grief ; expression de mécontentement",
+      "ja": "彼[かれ]の強引[ごういん]なやり方[かた]には、チーム内[ない]からクレームが続出[ぞくしゅつ]している。",
+      "fr": "Les réclamations pleuvent de l'intérieur de l'équipe sur ses méthodes autoritaires."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "苦情[くじょう]",
+      "fr": "plainte ; doléance (plus formel / écrit)"
+    },
+    {
+      "ja": "文句[もんく]",
+      "fr": "plainte ; râlerie (plus familier / quotidien)"
+    },
+    {
+      "ja": "異議[いぎ]",
+      "fr": "objection ; contestation"
+    }
+  ],
+  "antonyms": []
+}

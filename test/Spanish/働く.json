@@ -1,0 +1,101 @@
+{
+  "vocab": "働く",
+  "kana": ["はたらく"],
+  "furigana": ["働[はたら]く"],
+  "defs": [
+    "trabajar; laborar",
+    "funcionar; operar (una máquina o un órgano)",
+    "cometer; perpetrar (un delito o una mala acción)",
+    "ejercer influencia; actuar (una fuerza)"
+  ],
+  "kanji": [{ "char": "働", "mean": "trabajo; labor" }],
+  "pos": ["verbo u (godan)", "intransitivo"],
+  "tags": ["neutral"],
+  "notes": "Aunque el significado principal es 'trabajar' físicamente o mentalmente, también se usa para describir el funcionamiento de órganos, máquinas o fuerzas abstractas. Un matiz especial es su uso con acciones negativas como delitos o fraudes, donde significa 'cometer'. A diferencia de '勤務する' (estar de servicio en una organización específica), '働く' es un término más amplio que abarca la idea de realizar una labor. Pronunciación: La 'r' japonesa es suave, como un golpe de lengua breve (no vibrante múltiple). La palabra tiene acento plano, sin subidas o bajadas marcadas. La particula を después de 働く no es de objeto directo (es intransitivo), sino que indica el lugar por donde se transita o el ámbito de la acción en usos como 'trabajar en el campo' (畑を働く). No confundir con el español, donde 'trabajar' puede ser transitivo directo (trabajar la tierra).",
+  "grammar_points": [
+    {
+      "point": "Forma causativa para uso transitivo",
+      "archetypes": ["部下を働かせる", "想像力を働かせる"],
+      "usage": "Como 働く es intransitivo, la forma causativa 働かせる se usa mucho como equivalente transitivo, con el sentido de 'poner a trabajar' o 'usar/ejercitar' una facultad o recurso.",
+      "patterns": ["(Persona) を働かせる", "(Mente/Capacidad) を働かせる"],
+      "meanings": [
+        "hacer trabajar a (Persona)",
+        "usar/ejercitar (Mente/Capacidad)"
+      ]
+    },
+    {
+      "point": "Funcionamiento espontáneo de facultades/órganos",
+      "archetypes": ["頭が働かない", "胃が働いている"],
+      "usage": "Se usa para describir si un órgano o facultad mental está funcionando correctamente. La forma negativa expresa cansancio mental o confusión.",
+      "patterns": ["(Parte del cuerpo) が働く"],
+      "meanings": ["(Parte del cuerpo) funciona/responde"]
+    },
+    {
+      "point": "Fuerzas o influencias abstractas que actúan",
+      "archetypes": ["重力が働く", "圧力が働く"],
+      "usage": "Describe fuerzas físicas o sociales que ejercen su influencia en una situación. La estructura típica es (fuerza) + が + 働く.",
+      "patterns": ["(Fuerza/Presión) が働く"],
+      "meanings": [
+        "(Fuerza/Presión) actúa / entra en juego / ejerce influencia"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "身[み]を粉[こ]にして働[はたら]く",
+      "es": "dejarse la piel trabajando; deslomarse trabajando"
+    },
+    {
+      "ja": "頭[あたま]が働[はたら]かない",
+      "es": "no me funciona la cabeza; no puedo pensar con claridad"
+    },
+    {
+      "ja": "悪事[あくじ]を働[はたら]く",
+      "es": "cometer un delito/fechoría"
+    },
+    {
+      "ja": "バリバリ働[はたら]く",
+      "es": "trabajar a todo gas; dale que te pego"
+    },
+    {
+      "ja": "馬車馬[ばしゃうま]のように働[はたら]く",
+      "es": "trabajar como un burro / como un animal"
+    },
+    {
+      "ja": "勘[かん]が働[はたら]く",
+      "es": "tener buen olfato/intuición; funciona el instinto"
+    }
+  ],
+  "examples": [
+    {
+      "def": "trabajar; laborar",
+      "ja": "父[ちち]は家族[かぞく]を養[やしな]うために、朝[あさ]から晩[ばん]まで一生懸命[いっしょうけんめい]働[はたら]いている。",
+      "es": "Mi padre trabaja sin parar de sol a sol para mantener a la familia."
+    },
+    {
+      "def": "funcionar; operar",
+      "ja": "徹夜[てつや]したので、全[まった]く頭[あたま]が働[はたら]かない。",
+      "es": "Como no dormí, mi cabeza no carbura para nada."
+    },
+    {
+      "def": "cometer; perpetrar",
+      "ja": "彼[かれ]は会社[かいしゃ]の金[かね]を横領[おうりょう]するという、とんでもない悪事[あくじ]を働[はたら]いた。",
+      "es": "Cometió una fechoría tremenda al malversar el dinero de la empresa."
+    },
+    {
+      "def": "ejercer influencia; actuar",
+      "ja": "この市場[しじょう]では、需要[じゅよう]と供給[きょうきゅう]のバランスが働[はたら]いている。",
+      "es": "En este mercado, la ley de la oferta y la demanda está actuando."
+    }
+  ],
+  "synonyms": [
+    { "ja": "勤務[きんむ]する", "es": "estar empleado/de servicio (formal)" },
+    { "ja": "機能[きのう]する", "es": "funcionar" },
+    { "ja": "稼[かせ]ぐ", "es": "ganar dinero; currar (coloquial)" }
+  ],
+  "antonyms": [
+    { "ja": "休[やす]む", "es": "descansar" },
+    { "ja": "遊[あそ]ぶ", "es": "jugar; divertirse; vaguear" },
+    { "ja": "怠[なま]ける", "es": "holgazanear; estar ocioso" }
+  ]
+}

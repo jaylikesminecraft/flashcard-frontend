@@ -1,0 +1,82 @@
+{
+  "vocab": "迷惑",
+  "kana": ["めいわく"],
+  "furigana": ["迷惑[めいわく]"],
+  "defs": ["gêne, dérangement", "ennui, contrariété", "nuisance (pour autrui)"],
+  "kanji": [
+    { "char": "迷", "mean": "égaré, perdu" },
+    { "char": "惑", "mean": "illusion, perplexité" }
+  ],
+  "pos": ["Nom", "adjectif en な", "verbe en する"],
+  "tags": ["neutral"],
+  "notes": "Concept central de l'harmonie sociale japonaise. La règle sociale fondamentale de 'ne pas causer de gêne à autrui' (人に迷惑をかけない) couvre tout, du bruit léger aux charges financières ou physiques sérieuses. Attention : en français, 'gêner' peut être atténué par un sourire ou un 'désolé' léger ; en japonais, la sensibilité à la gêne occasionnée est bien plus forte. Évitez la tendance française à justifier son comportement par une logique directe : préférez vous excuser et reconnaître la gêne causée, même minime.",
+  "grammar_points": [
+    {
+      "point": "Gêne directionnelle (acteur vs subi)",
+      "archetypes": ["親に迷惑をかける", "親友に迷惑がかかる"],
+      "usage": "On utilise をかける quand un agent cause activement la gêne. On utilise がかかる (intransitif) quand la gêne retombe sur quelqu’un à cause d’une situation ou d’une cause extérieure, sans mentionner d’agent volontaire.",
+      "patterns": ["(Personne) に迷惑をかける", "(Personne) に迷惑がかかる"],
+      "meanings": ["causer de la gêne à (Personne)", "de la gêne est causée à (Personne) / affecte (Personne)"]
+    },
+    {
+      "point": "Formule d’excuse humble",
+      "archetypes": [
+        "ご迷惑をおかけしました",
+        "ご迷惑をおかけして申し訳ありません"
+      ],
+      "usage": "Expression très productive en contexte formel ou professionnel. Elle utilise la formule d’humilité お〜する même si 迷惑 est un nom, généralement associé au verbe かける (causer) pour exprimer un profond regret pour la charge imposée. Indispensable dans les échanges de service, les mails d’excuse, les situations où l’on a dérangé quelqu’un.",
+      "patterns": ["ご迷惑をおかけする", "ご迷惑をおかけしました"],
+      "meanings": ["vous causer de la gêne (humble)", "je suis désolé(e) de vous avoir dérangé(e) / causé de la gêne (humble)"]
+    }
+  ],
+  "phrases": [
+    { "ja": "迷惑[めいわく]メール", "fr": "courrier indésirable, spam" },
+    {
+      "ja": "近所迷惑[きんじょめいわく]",
+      "fr": "nuisance pour le voisinage, trouble du voisinage"
+    },
+    {
+      "ja": "ありがた迷惑[めいわく]",
+      "fr": "service malvenu, gentillesse qui dérange (litt. 'gêne dont on devrait être reconnaissant')"
+    },
+    { "ja": "迷惑[めいわく]をかける", "fr": "causer de la gêne / déranger quelqu’un" },
+    {
+      "ja": "ご迷惑[めいわく]をおかけしました",
+      "fr": "je suis désolé(e) pour la gêne occasionnée (formel)"
+    },
+    {
+      "ja": "迷惑[めいわく]極[きわ]まりない",
+      "fr": "extrêmement gênant / agaçant, on ne peut plus dérangeant"
+    },
+    {
+      "ja": "迷惑[めいわく]そうな顔[かお]",
+      "fr": "une mine contrariée, un air agacé"
+    }
+  ],
+  "examples": [
+    {
+      "def": "gêne, dérangement",
+      "ja": "夜遅[よるおそ]くにピアノを弾[ひ]くのは、近所迷惑[きんじょめいわく]になる。",
+      "fr": "Jouer du piano tard le soir, ça devient une nuisance pour le voisinage."
+    },
+    {
+      "def": "ennui, contrariété",
+      "ja": "電車[でんしゃ]の中[なか]で大声[おおごえ]で話[はな]す人[ひと]には本当[ほんとう]に迷惑[めいわく]している。",
+      "fr": "Les gens qui parlent fort dans le train, ça me contrarie vraiment / c’est vraiment gênant."
+    },
+    {
+      "def": "gêne, nuisance",
+      "ja": "これ以上[いじょう]、家族[かぞく]に迷惑[めいわく]をかけたくない。",
+      "fr": "Je ne veux plus causer de soucis / déranger davantage ma famille."
+    }
+  ],
+  "synonyms": [
+    { "ja": "厄介[やっかい]", "fr": "ennuyeux, embarrassant, à charge" },
+    { "ja": "面倒[めんどう]", "fr": "tracas, prise de tête, compliqué" },
+    { "ja": "邪魔[じゃま]", "fr": "gêne, obstacle, dérangement" }
+  ],
+  "antonyms": [
+    { "ja": "恩恵[おんけい]", "fr": "bienfait, grâce" },
+    { "ja": "助[たす]け", "fr": "aide, assistance" }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "vocab": "働く",
+  "kana": ["はたらく"],
+  "furigana": ["働[はたら]く"],
+  "defs": [
+    "lavorare (per guadagnarsi da vivere)",
+    "funzionare (di organi, macchine, facoltà mentali)",
+    "commettere (reati, azioni negative)",
+    "agire, esercitare un'influenza (di forze astratte)"
+  ],
+  "kanji": [
+    {
+      "char": "働",
+      "mean": "lavoro, fatica"
+    }
+  ],
+  "pos": ["verbo intransitivo (う-verbo)"],
+  "tags": ["neutro"],
+  "notes": "Verbo chiave che esprime l'idea di 'lavorare' in senso lato: dal lavoro fisico o mentale retribuito, al funzionamento di organi e macchinari, fino all'azione di forze invisibili (fisiche o sociali). Attenzione all'uso con azioni negative: in '悪事を働く' significa 'commettere un crimine'. A differenza di '勤務する' (essere in servizio presso un ente specifico), '働く' è più generico e copre qualsiasi attività lavorativa o di funzionamento. Per l'italiano, si notino i parallelismi con verbi riflessivi/pronominali (es. 'mi si è annebbiato il cervello') e con l'uso di 'esserci' per forze in gioco ('c'è la gravità che agisce').",
+  "grammar_points": [
+    {
+      "point": "Causativo per uso transitivo",
+      "archetypes": [
+        "部下を働かせる",
+        "想像力を働かせる"
+      ],
+      "usage": "Poiché 働く è intransitivo, la forma causativa 働かせる viene spesso usata come equivalente transitivo con il significato di 'far lavorare' (persone) o 'esercitare/mettere in moto' (facoltà mentali). L'oggetto è segnato da を.",
+      "patterns": [
+        "(Persona) を働かせる",
+        "(Mente/Capacità) を働かせる"
+      ],
+      "meanings": [
+        "far lavorare (Persona)",
+        "esercitare/mettere in moto (Mente/Capacità)"
+      ]
+    },
+    {
+      "point": "Funzionamento spontaneo di organi/facoltà",
+      "archetypes": [
+        "頭が働かない",
+        "胃が働いている"
+      ],
+      "usage": "Descrive il corretto funzionamento di organi o facoltà cognitive. In italiano si può rendere con verbi pronominali (es. 'mi funziona il cervello', 'mi si è bloccato il cervello') o con 'funzionare'. Spesso usato in forma negativa per esprimere stanchezza mentale.",
+      "patterns": [
+        "(Parte del corpo/Facoltà) が働く"
+      ],
+      "meanings": [
+        "funzionare (detto di mente/corpo)"
+      ]
+    },
+    {
+      "point": "Forze invisibili in azione",
+      "archetypes": [
+        "重力が働く",
+        "圧力が働く"
+      ],
+      "usage": "Indica che una forza fisica o sociale sta agendo in una data situazione. In italiano può corrispondere a 'agire', 'entrare in gioco', 'esercitare un'influenza', oppure a costruzioni con 'esserci' (es. 'c'è la gravità che agisce').",
+      "patterns": [
+        "(Forza/Pressione) が働く"
+      ],
+      "meanings": [
+        "agire / entrare in gioco (forza/pressione)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "身[み]を粉[こ]にして働く[はたらく]",
+      "it": "lavorare fino allo sfinimento, ammazzarsi di lavoro"
+    },
+    {
+      "ja": "頭[あたま]が働[はたら]かない",
+      "it": "mi si è annebbiato il cervello, non riesco a pensare lucidamente"
+    },
+    {
+      "ja": "悪事[あくじ]を働く[はたらく]",
+      "it": "commettere un crimine / una cattiva azione"
+    },
+    {
+      "ja": "バリバリ働く[はたらく]",
+      "it": "lavorare sodo e con energia, dare dentro col lavoro"
+    },
+    {
+      "ja": "馬車馬[ばしゃうま]のように働く[はたらく]",
+      "it": "lavorare come un mulo"
+    },
+    {
+      "ja": "勘[かん]が働く[はたらく]",
+      "it": "avere intuito, seguire il proprio fiuto"
+    }
+  ],
+  "examples": [
+    {
+      "def": "lavorare (per guadagnarsi da vivere)",
+      "ja": "父[ちち]は家族[かぞく]を養[やしな]うために、朝[あさ]から晩[ばん]まで一生懸命[いっしょうけんめい]働[はたら]いている。",
+      "it": "Mio padre lavora sodo dalla mattina alla sera per mantenere la famiglia."
+    },
+    {
+      "def": "funzionare (di organi, macchine, facoltà mentali)",
+      "ja": "徹夜[てつや]したので、全[まった]く頭[あたま]が働[はたら]かない。",
+      "it": "Siccome ho passato la notte in bianco, mi si è completamente annebbiato il cervello."
+    },
+    {
+      "def": "commettere (reati, azioni negative)",
+      "ja": "彼[かれ]は会社[かいしゃ]の金[かね]を横領[おうりょう]するという、とんでもない悪事[あくじ]を働[はたら]いた。",
+      "it": "Ha commesso un terribile crimine, appropriandosi indebitamente dei soldi dell'azienda."
+    },
+    {
+      "def": "agire, esercitare un'influenza (di forze astratte)",
+      "ja": "この市場[しじょう]では、需要[じゅよう]と供給[きょうきゅう]のバランスが働[はたら]いている。",
+      "it": "In questo mercato è all'opera il bilanciamento tra domanda e offerta."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "勤務[きんむ]する",
+      "it": "lavorare come impiegato, essere in servizio (presso un'organizzazione)"
+    },
+    {
+      "ja": "機能[きのう]する",
+      "it": "funzionare (macchine, sistemi)"
+    },
+    {
+      "ja": "稼[かせ]ぐ",
+      "it": "guadagnare, lavorare per soldi"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "休[やす]む",
+      "it": "riposarsi, fare una pausa"
+    },
+    {
+      "ja": "遊[あそ]ぶ",
+      "it": "divertirsi, giocare, stare in ozio"
+    },
+    {
+      "ja": "怠[なま]ける",
+      "it": "oziare, essere pigro"
+    }
+  ]
+}

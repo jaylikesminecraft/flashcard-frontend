@@ -1,0 +1,96 @@
+{
+  "vocab": "働く",
+  "kana": ["はたらく"],
+  "furigana": ["働[はたら]く"],
+  "defs": [
+    "to work; to labor",
+    "to function; to operate",
+    "to commit; to perpetrate",
+    "to exert influence"
+  ],
+  "kanji": [{ "char": "働", "mean": "work; labor" }],
+  "pos": ["う-verb", "Intransitive"],
+  "tags": ["neutral"],
+  "notes": "While primarily meaning physical or mental labor for income, it also describes organs, machines, or abstract forces performing their natural function. A unique nuance is its use with negative actions (like crime or fraud) to mean 'to commit.' Unlike '勤務する' which implies being on duty at a specific organization, '働く' is a broader term for the act of working.",
+  "grammar_points": [
+    {
+      "point": "Causative for Transitive Use",
+      "archetypes": ["部下を働かせる", "想像力を働かせる"],
+      "usage": "Since 働く is intransitive, the causative form 働かせる is frequently used as a transitive equivalent meaning 'to put to work' or 'to exercise/use' a faculty.",
+      "patterns": ["(Person) を働かせる", "(Mind/Ability) を働かせる"],
+      "meanings": [
+        "to make (Person) work",
+        "to exercise/utilize (Mind/Ability)"
+      ]
+    },
+    {
+      "point": "Functional Spontaneity",
+      "archetypes": ["頭が働かない", "胃が働いている"],
+      "usage": "Used to describe whether an organ or cognitive faculty is operating correctly or effectively. Often used in the negative to express fatigue or brain fog.",
+      "patterns": ["(Body Part) が働く"],
+      "meanings": ["(Body Part) functions/works"]
+    },
+    {
+      "point": "Invisible Forces",
+      "archetypes": ["重力が働く", "圧力が働く"],
+      "usage": "Describes physical or social forces taking effect in a given situation.",
+      "patterns": ["(Force/Pressure) が働く"],
+      "meanings": ["(Force/Pressure) acts upon / comes into play"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "身[み]を粉[こ]にして働く[はたらく]",
+      "en": "to work oneself to the bone"
+    },
+    {
+      "ja": "頭[あたま]が働[はたら]かない",
+      "en": "my brain isn't working / can't think straight"
+    },
+    { "ja": "悪事[あくじ]を働く[はたらく]", "en": "to commit a misdeed/crime" },
+    {
+      "ja": "バリバリ働く[はたらく]",
+      "en": "to work like a beaver; to work hard and fast"
+    },
+    {
+      "ja": "馬車馬[ばしゃうま]のように働く[はたらく]",
+      "en": "to work like a horse"
+    },
+    {
+      "ja": "勘[かん]が働く[はたらく]",
+      "en": "to have a sharp intuition / one's gut feeling is working"
+    }
+  ],
+  "examples": [
+    {
+      "def": "to work; to labor",
+      "ja": "父[ちち]は家族[かぞく]を養[やしな]うために、朝[あさ]から晩[ばん]まで一生懸命[いっしょうけんめい]働[はたら]いている。",
+      "en": "My father works hard from morning till night to support the family."
+    },
+    {
+      "def": "to function; to operate",
+      "ja": "徹夜[てつや]したので、全[まった]く頭[あたま]が働[はたら]かない。",
+      "en": "Since I stayed up all night, my brain isn't functioning at all."
+    },
+    {
+      "def": "to commit; to perpetrate",
+      "ja": "彼[かれ]は会社[かいしゃ]の金[かね]を横領[おうりょう]するという、とんでもない悪事[あくじ]を働[はたら]いた。",
+      "en": "He committed a terrible crime by embezzling company funds."
+    },
+    {
+      "def": "to exert influence",
+      "ja": "この市場[しじょう]では、需要[じゅよう]と供給[きょうきゅう]のバランスが働[はたら]いている。",
+      "en": "In this market, the balance of demand and supply is at work."
+    }
+  ],
+  "synonyms": [
+    { "ja": "勤務[きんむ]する", "en": "to be employed/on duty" },
+    { "ja": "機能[きのう]する", "en": "to function" },
+    { "ja": "稼[かせ]ぐ", "en": "to earn/work for money" }
+  ],
+  "antonyms": [
+    { "ja": "休[やす]む", "en": "to rest" },
+    { "ja": "遊[あそ]ぶ", "en": "to play" },
+    { "ja": "怠[なま]ける", "en": "to be idle/lazy" }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "vocab": "上がる",
+  "kana": ["あがる"],
+  "furigana": ["上[あ]がる"],
+  "defs": [
+    "att stiga; att gå upp",
+    "att kliva in (i ett hem)",
+    "att bli nervös; få scenskräck",
+    "att bli färdig; att avslutas",
+    "att förbättras (färdighet/värde)"
+  ],
+  "kanji": [
+    {
+      "char": "上",
+      "mean": "upp; ovan"
+    }
+  ],
+  "pos": ["う-verb", "Intransitivt"],
+  "tags": ["neutral"],
+  "notes": "Ett mångsidigt verb med flera abstrakta betydelser. När det gäller att gå in i ett hem speglar det traditionell japansk arkitektur med upphöjt golv (tatami/trä). Vid nervositet syftar det specifikt på scenskräck eller att bli ställd. OBS: 揚がる (att friteras) och 挙がる (att fångas/listas) uttalas också あがる men har andra kanji.",
+  "grammar_points": [
+    {
+      "point": "Transitivitetspar",
+      "archetypes": ["物価が上がる", "声を上げる"],
+      "usage": "上がる är intransitivt (något stiger av sig självt), medan 上げる är transitivt (någon höjer något).",
+      "patterns": ["(Subjekt) が上がる", "(Objekt) を上げる"],
+      "meanings": ["(Subjekt) stiger / går upp", "att höja (Objekt)"]
+    },
+    {
+      "point": "Kliv in i hemmet",
+      "archetypes": ["どうぞ、お上がりください"],
+      "usage": "Används när man bjuder in någon i ett hem eller rum med upphöjt golv. Det är artigare och mer kulturellt nyanserat än 入る (gå in). Ofta i te-form eller artig fras.",
+      "patterns": ["(Hem/Rum) に上がる"],
+      "meanings": ["att kliva upp i (ett hem)", "att komma in (i vardagsrummet)"]
+    },
+    {
+      "point": "Färdigställandesuffix",
+      "archetypes": ["レポートが書き上がる", "料理が出来上がる"],
+      "usage": "Fästs på verbstammen för att uttrycka att en uppgift har slutförts grundligt eller helt. Betonar resultatet av processen.",
+      "patterns": ["(Verb-stam) 上がる"],
+      "meanings": ["att bli färdig-(Verb)ad", "att vara helt (Verb)ad"]
+    },
+    {
+      "point": "Psykologiskt tillstånd",
+      "archetypes": ["スピーチで上がる", "大勢の前で上がる"],
+      "usage": "Beskriver specifikt det fysiska och mentala tillståndet av att bli nervös eller få scenskräck. Använder partikel で för situationen/platsen där nervositeten uppstår. Inte samma som allmän nervositet (緊張する).",
+      "patterns": ["(Situation/Plats) で上がる"],
+      "meanings": ["att få scenskräck", "att bli nervös (inför publik)"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "雨[あめ]が上[あ]がる",
+      "sv": "regnet slutar"
+    },
+    {
+      "ja": "腕[うで]が上[あ]がる",
+      "sv": "ens färdighet förbättras"
+    },
+    {
+      "ja": "どうぞ、お上[あ]がりください",
+      "sv": "Varsågod, stig upp (in i huset)"
+    },
+    {
+      "ja": "効果[こうか]が上[あ]がる",
+      "sv": "ge effekt"
+    },
+    {
+      "ja": "人前[ひとまえ]で上[あ]がる",
+      "sv": "bli nervös inför publik"
+    },
+    {
+      "ja": "風呂[ふろ]から上[あ]がる",
+      "sv": "kliva ur badet"
+    },
+    {
+      "ja": "出来[でき]上[あ]がる",
+      "sv": "bli färdig/redo"
+    },
+    {
+      "ja": "利益[りえき]が上[あ]がる",
+      "sv": "göra vinst"
+    }
+  ],
+  "examples": [
+    {
+      "def": "att stiga; att gå upp",
+      "ja": "最近[さいきん]、野菜[やさい]の値段[ねだん]がどんどん上[あ]がっている。",
+      "sv": "På sistone har grönsakspriserna stigit stadigt."
+    },
+    {
+      "def": "att kliva in (i ett hem)",
+      "ja": "玄関[げんかん]で靴[くつ]を脱[ぬ]いで、リビングに上[あ]がった。",
+      "sv": "Jag tog av mig skorna i hallen och klev in i vardagsrummet."
+    },
+    {
+      "def": "att bli nervös; få scenskräck",
+      "ja": "本番[ほんばん]で上[あ]がってしまい、セリフを忘[わす]れてしまった。",
+      "sv": "Jag fick scenskräck under framträdandet och glömde repliken."
+    },
+    {
+      "def": "att bli färdig; att avslutas",
+      "ja": "ようやく論文[ろんぶん]が書[か]き上[あ]がった。",
+      "sv": "Äntligen blev avhandlingen färdigskriven."
+    },
+    {
+      "def": "att förbättras (färdighet/värde)",
+      "ja": "毎日[まいにち]練習[れんしゅう]したおかげで、かなりテニスの腕[うで]が上[あ]がった。",
+      "sv": "Tack vare daglig träning har min tennis förbättrats avsevärt."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "上昇[じょうしょう]する",
+      "sv": "stiga (teknisk term)"
+    },
+    {
+      "ja": "緊張[きんちょう]する",
+      "sv": "vara nervös"
+    },
+    {
+      "ja": "完成[かんせい]する",
+      "sv": "färdigställas"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "下[さ]がる",
+      "sv": "sjunka; gå ner"
+    },
+    {
+      "ja": "下[お]りる",
+      "sv": "stiga ner"
+    }
+  ]
+}

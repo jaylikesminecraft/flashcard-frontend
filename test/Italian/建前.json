@@ -1,0 +1,55 @@
+{
+  "vocab": "建前",
+  "kana": ["たてまえ"],
+  "furigana": ["建[たて]前[まえ]"],
+  "defs": ["posizione pubblica; facciata sociale", "principio ufficiale; posizione formale"],
+  "kanji": [
+    { "char": "建", "mean": "costruire; edificare" },
+    { "char": "前", "mean": "davanti; prima" }
+  ],
+  "pos": ["Sostantivo"],
+  "tags": ["neutro", "business"],
+  "notes": "Concetto fondamentale nelle dinamiche sociali giapponesi, rappresenta la facciata pubblica o la posizione che si adotta per mantenere l'armonia sociale (和). È quasi sempre discusso in contrasto con '本音' (honne - i veri sentimenti). Nel contesto giapponese, usare tatemae è considerato un'abilità sociale necessaria o un comportamento 'adulto', piuttosto che intrinsecamente ingannevole. In italiano si può paragonare al 'dire ciò che ci si aspetta' in contesti formali o di cortesia, senza necessariamente rivelare il proprio pensiero.",
+  "grammar_points": [
+    {
+      "point": "Prospettiva e ragionamento con 〜上",
+      "archetypes": ["建前上、断ることはできない", "建前上の理由"],
+      "usage": "Il suffisso 〜上 (じょう) si attacca a un sostantivo per indicare un punto di vista, un vincolo o una realtà 'sulla carta'. Usarlo con 建前 sottolinea che un'azione viene intrapresa solo a causa delle aspettative sociali, anche se i sentimenti personali sono diversi.",
+      "patterns": ["建前上 (は)", "建前上 の (Sostantivo)"],
+      "meanings": ["ufficialmente; per salvare le apparenze", "(Sostantivo) ufficiale/di facciata"]
+    },
+    {
+      "point": "Dualità di comportamento",
+      "archetypes": ["建前と本音を使い分ける"],
+      "usage": "Il verbo 使い分ける (tsukaiwakeru) è la collocazione standard per descrivere l'atto di alternare tra la propria posizione pubblica e i sentimenti privati a seconda della situazione.",
+      "patterns": ["建前と本音を使い分ける"],
+      "meanings": ["distinguere tra facciata pubblica e sentimenti reali"]
+    }
+  ],
+  "phrases": [
+    { "ja": "建[たて]前[まえ]を言[い]う", "it": "dire ciò che è socialmente appropriato" },
+    { "ja": "それは建[たて]前[まえ]に過[す]ぎない", "it": "non è altro che una facciata" },
+    { "ja": "建[たて]前[まえ]抜[ぬ]きで話[はな]す", "it": "parlare senza filtri sociali" },
+    { "ja": "建[たて]前[まえ]と本[ほん]音[ね]", "it": "facciata pubblica e verità interiore" },
+    { "ja": "建[たて]前[まえ]を崩[くず]す", "it": "lasciar cadere il comportamento formale" }
+  ],
+  "examples": [
+    {
+      "def": "posizione pubblica; facciata sociale",
+      "ja": "日本[にほん]の社会[しゃかい]では、円滑[えんかつ]な人間[にんげん]関係[かんけい]のために建[たて]前[まえ]が必[ひつ]要[よう]だ。",
+      "it": "Nella società giapponese, una facciata pubblica è necessaria per relazioni umane armoniose."
+    },
+    {
+      "def": "principio ufficiale; posizione formale",
+      "ja": "彼[かれ]の言[い]っていることはあくまで建[たて]前[まえ]で、実際[じっさい]は違[ちが]うようだ。",
+      "it": "Quello che dice è solo la posizione ufficiale; in realtà sembra essere diverso."
+    }
+  ],
+  "synonyms": [
+    { "ja": "表[おもて]向[む]き", "it": "apparentemente; in modo ufficiale" },
+    { "ja": "外面[そとづら]", "it": "facciata pubblica" }
+  ],
+  "antonyms": [
+    { "ja": "本音[ほんね]", "it": "sentimenti veri" }
+  ]
+}

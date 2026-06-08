@@ -1,0 +1,80 @@
+{
+  "vocab": "伺う",
+  "kana": ["うかがう"],
+  "furigana": ["伺[うかが]う"],
+  "defs": [
+    "visitar (humildemente, kenjougo)",
+    "preguntar; consultar (humildemente)",
+    "oír; escuchar (humildemente)"
+  ],
+  "kanji": [{ "char": "伺", "mean": "visitar; consultar" }],
+  "pos": ["Verbo u", "Verbo transitivo", "Verbo intransitivo"],
+  "tags": ["keigo", "business"],
+  "notes": "Verbo kenjougo (lenguaje humilde) muy versátil que reemplaza a 行く/来る (ir/venir), 聞く (preguntar/oír) y 尋ねる (inquirir) en contextos formales o de negocios. Al usarlo, bajas tu posición para mostrar respeto hacia la persona visitada, preguntada o escuchada. Es fundamental para agendar visitas y hacer consultas profesionales. 🔈Cuidado con la pronunciación: la 'u' es casi muda, suena [ukagau]; la 'r' es suave, sin vibrar (nada de erre española). No comprimas las sílabas: u-ka-ga-u. La entonación es plana, sin acento de intensidad.",
+  "grammar_points": [
+    {
+      "point": "Dinámica social del keigo",
+      "archetypes": ["明日、伺います", "お名前を伺う"],
+      "usage": "Reemplaza directamente a 行く/来る (ir/venir), 聞く (preguntar/oír) y 尋ねる (inquirir). El hablante se rebaja para elevar al oyente o a la persona asociada a la acción.",
+      "patterns": ["(Persona que habla) が (Persona del grupo ajeno) に伺う"],
+      "meanings": ["Yo/nosotros visitamos/preguntamos (humildemente) a (Persona)"]
+    },
+    {
+      "point": "Estado progresivo de conocimiento",
+      "archetypes": ["お話は伺っております"],
+      "usage": "Aunque 〜ている suele indicar acción en curso, 伺っております es una frase muy común que significa 'he oído (y actualmente sé) sobre el asunto'. Equivale a 'ya estoy informado'.",
+      "patterns": ["(Tema) は伺っております"],
+      "meanings": ["Ya he oído/estoy informado sobre (Tema)"]
+    },
+    {
+      "point": "Pedir permiso humildemente",
+      "archetypes": ["お話を伺わせてください", "お話を伺ってもいいですか？"],
+      "usage": "Con la forma causativa o potencial para pedir cortésmente oír o visitar a alguien. La forma causativa 伺わせる se usa mucho en peticiones formales de negocios.",
+      "patterns": [
+        "(Persona) のお話を伺わせる",
+        "(Acción) を伺ってもよろしいですか？"
+      ],
+      "meanings": [
+        "Permítame oír la historia de (Persona)",
+        "¿Puedo visitar/preguntar (humildemente)?"
+      ]
+    }
+  ],
+  "phrases": [
+    { "ja": "お話[はなし]を伺[うかが]う", "es": "escuchar lo que alguien dice" },
+    { "ja": "お宅[たく]に伺[うかが]う", "es": "visitar la casa de alguien" },
+    { "ja": "お名前[なまえ]を伺[うかが]う", "es": "preguntar el nombre de alguien" },
+    {
+      "ja": "ご都合[つごう]を伺[うかが]う",
+      "es": "preguntar por la disponibilidad de alguien"
+    },
+    { "ja": "伺[うかが]っております", "es": "estoy al tanto / ya me enteré" },
+    {
+      "ja": "様子[ようす]を伺[うかが]う",
+      "es": "tantear cómo está la situación; observar y esperar"
+    }
+  ],
+  "examples": [
+    {
+      "def": "visitar (humildemente)",
+      "ja": "明日[あした]の午後[ごご]、オフィスに伺[うかが]ってもよろしいでしょうか？",
+      "es": "¿Estaría bien si lo/a visito mañana en la oficina?"
+    },
+    {
+      "def": "preguntar; consultar (humildemente)",
+      "ja": "少々[しょうしょう]伺[うかが]いたいことがございます。",
+      "es": "Hay algo que me gustaría consultarle (humildemente)."
+    },
+    {
+      "def": "oír; escuchar (humildemente)",
+      "ja": "田中様[たなかさま]から、ご結婚[けっこん]のことは伺[うかが]っております。",
+      "es": "Ya sabía lo de su boda por boca del Sr./Sra. Tanaka."
+    }
+  ],
+  "synonyms": [
+    { "ja": "参[まい]る", "es": "ir/venir (humilde)" },
+    { "ja": "聞[き]く", "es": "oír/preguntar" },
+    { "ja": "訪[おとず]れる", "es": "visitar" }
+  ],
+  "antonyms": []
+}

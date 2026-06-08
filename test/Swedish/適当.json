@@ -1,0 +1,75 @@
+{
+  "vocab": "適当",
+  "kana": ["てきとう"],
+  "furigana": ["適[てき]当[とう]"],
+  "defs": [
+    "lämplig; passande",
+    "ansvarslös; slarvig; halvhjärtad",
+    "på måfå; slumpmässig; lättvindig"
+  ],
+  "kanji": [
+    { "char": "適", "mean": "lämplig; passa" },
+    { "char": "当", "mean": "träffa; mål" }
+  ],
+  "pos": ["na-adjektiv", "Substantiv"],
+  "tags": ["neutral", "casual"],
+  "notes": "Ett av japanskans mest dubbelbottnade ord. I formella sammanhang (instruktioner, tentor) betyder det 'lämplig' eller 'ändamålsenlig'. I vardagligt tal betyder det ofta 'slarvig', 'ansvarslös' eller att man bara 'säger/gör något utan att tänka efter'. Sammanhang och tonfall avgör om det är en komplimang eller kritik. Svenskans 'på en höft' eller 'ta det som det kommer' fångar delar av den dubbla innebörden, men var uppmärksam på att formell 適当 inte alls är slarvig.",
+  "grammar_points": [
+    {
+      "point": "Betydelseklyvning efter substantivtyp",
+      "archetypes": ["適当な処置", "適当な返事"],
+      "usage": "När 適当 står före ett substantiv skiftar betydelsen beroende på substantivets karaktär. Med tekniska eller formella substantiv (åtgärd, plats) betyder det 'lämplig'. Med kommunikationssubstantiv (svar, prat) blir det oftast 'halvhjärtad', 'vag' eller 'slarvig'.",
+      "patterns": ["適当な (Substantiv)"],
+      "meanings": ["lämplig/lämpligt (Substantiv)", "slarvig/slarvigt (Substantiv)"]
+    },
+    {
+      "point": "Adverbiell flexibilitet",
+      "archetypes": ["適当に座って", "適当にやっておいて"],
+      "usage": "Används för att uppmana någon att göra något 'som du tycker passar', 'utan att stressa över detaljer'. Kan vara ett vänligt sätt att ge självbestämmande eller ett bekvämt sätt att delegera en uppgift utan vidare instruktioner. Vanlig i talspråk.",
+      "patterns": ["適当に (Verb)"],
+      "meanings": ["(Verb) som man tycker/som det passar", "(Verb) halvhjärtat/på en höft"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "適当[てきとう]に返事[へんじ]をする",
+      "sv": "svara halvhjärtat / ge ett svävande svar"
+    },
+    { "ja": "適当[てきとう]にあしらう", "sv": "avfärda någon / vifta bort någon" },
+    { "ja": "適当[てきとう]な場所[ばしょ]", "sv": "en lämplig plats" },
+    {
+      "ja": "適当[てきとう]に切[き]り上[あ]げる",
+      "sv": "avrunda vid ett lämpligt läge / avsluta lagom"
+    },
+    {
+      "ja": "かなり適当[てきとう]な人[ひと]",
+      "sv": "en ganska ansvarslös person / en rätt slapp person"
+    },
+    { "ja": "適当[てきとう]に選[えら]ぶ", "sv": "välja på måfå / slumpmässigt" }
+  ],
+  "examples": [
+    {
+      "def": "lämplig; passande",
+      "ja": "自分[じぶん]のレベルに合[あ]った適当[てきとう]な教科書[きょうかしょ]を探[さが]している。",
+      "sv": "Jag letar efter en lämplig lärobok som passar min nivå."
+    },
+    {
+      "def": "ansvarslös; halvhjärtad",
+      "ja": "彼[かれ]はいつもその場[ば]しのぎの適当[てきとう]なことばかり言[い]う。",
+      "sv": "Han säger alltid bara något på en höft för att klara sig ur stunden."
+    },
+    {
+      "def": "på måfå; slumpmässig; lättvindig",
+      "ja": "詳[くわ]しいルールは知[し]らないので、適当[てきとう]にやってみた。",
+      "sv": "Jag kan inte de detaljerade reglerna, så jag höftade bara till det."
+    }
+  ],
+  "synonyms": [
+    { "ja": "適切", "sv": "lämplig (formellt)" },
+    { "ja": "いい加減", "sv": "ansvarslös; lagom" }
+  ],
+  "antonyms": [
+    { "ja": "不適当", "sv": "olämplig" },
+    { "ja": "真面目", "sv": "seriös; flitig" }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "vocab": "～ず",
+  "kana": ["ず"],
+  "furigana": ["～ず"],
+  "defs": ["sin hacer", "sin", "no hacer"],
+  "kanji": [],
+  "pos": ["Auxiliar"],
+  "tags": ["neutral", "literary", "grammar"],
+  "notes": "Sufijo negativo formal heredado del japonés clásico. Mientras que ～ない es la negación estándar en el habla cotidiana, ～ず sigue siendo muy productivo en la escritura formal, noticias y frases hechas. Al conectar cláusulas, es más conciso y formal que ～なくて. En el habla diaria aparece sobre todo en la forma ～ずに (equivalente a 'sin hacer') y en expresiones adverbiales fijas. Atención: no confundir con el español 'sin', ya que ～ず se une al verbo (sin conjugar como infinitivo). La 'z' japonesa es más suave que la española, no vibrante.",
+  "grammar_points": [
+    {
+      "point": "Conjugación e irregulares",
+      "archetypes": ["食べず", "書かず", "せず", "こず"],
+      "usage": "Se añade a la base negativa (mizenkei) como en ～ない. Atención a los irregulares: する → せず, 来る → こず. No se usa con adjetivos ni sustantivos.",
+      "patterns": ["(Verbo-raíz negativa) ず", "する → せず", "来る → こず"],
+      "meanings": ["sin (Verbo)", "no hacer (Verbo)"]
+    },
+    {
+      "point": "Uso adverbial con に",
+      "archetypes": ["何も言わずに去る", "朝食を食べずに出かける"],
+      "usage": "Al añadir la partícula に se forma una frase adverbial que describe cómo se realiza una acción o qué se omitió. Es la versión formal de ～ないで. Muy común en instrucciones y narraciones formales.",
+      "patterns": ["(Verbo-raíz negativa) ずに"],
+      "meanings": ["sin (Verbo)", "sin hacer (Verbo)"]
+    },
+    {
+      "point": "Conexión de cláusulas",
+      "archetypes": ["傘を持たず、外に出た"],
+      "usage": "Al final de una cláusula, conecta con la siguiente indicando una secuencia o estado sin realizar la primera acción. Alternativa formal a ～なくて o ～ないで.",
+      "patterns": ["(Cláusula A: Verbo-raíz negativa) ず、 (Cláusula B)"],
+      "meanings": ["sin A, ocurre B", "no A y entonces B"]
+    },
+    {
+      "point": "Expresiones lexicalizadas",
+      "archetypes": ["思わず", "絶えず", "相変わらず"],
+      "usage": "Muchas palabras compuestas con ～ず se han fosilizado como adverbios. No se analizan como verbo + ず en cada uso, sino como unidades léxicas. Suelen escribirse sin okurigana adicional.",
+      "patterns": ["(Palabra compuesta con ず)"],
+      "meanings": ["involuntariamente", "constantemente", "como siempre"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "思[おも]わず",
+      "es": "sin querer; involuntariamente"
+    },
+    {
+      "ja": "知[し]らず知[し]らずのうちに",
+      "es": "sin darse cuenta; inconscientemente"
+    },
+    {
+      "ja": "絶[た]えず",
+      "es": "constantemente; sin cesar"
+    },
+    {
+      "ja": "相変[あいか]わらず",
+      "es": "como siempre; igual que siempre"
+    },
+    {
+      "ja": "昼夜[ちゅうや]を問[と]わず",
+      "es": "sin importar si es de día o de noche"
+    },
+    {
+      "ja": "〜ずにはいられない",
+      "es": "no poder evitar hacer algo"
+    },
+    {
+      "ja": "〜ずじまい",
+      "es": "terminar sin haber hecho algo"
+    },
+    {
+      "ja": "言[い]わずもがな",
+      "es": "ni que decir tiene; mejor no decirlo"
+    }
+  ],
+  "examples": [
+    {
+      "def": "sin hacer",
+      "ja": "彼[かれ]は一言[ひとこと]も謝[あやま]らずに部屋[へや]を出[で]て行[い]った。",
+      "es": "Salió de la habitación sin pedir disculpas ni una palabra."
+    },
+    {
+      "def": "sin",
+      "ja": "昨夜[さくや]は一睡[いっすい]もせず、レポートを仕上[しあ]げた。",
+      "es": "Anoche terminé el informe sin pegar ojo."
+    },
+    {
+      "def": "no hacer",
+      "ja": "予期[よき]せぬ大雨[おおあめ]に、計画[けいかく]を中止[ちゅうし]せざるを得[え]なかった。",
+      "es": "Debido a una lluvia torrencial inesperada, no tuvimos más remedio que cancelar el plan."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "〜ないで",
+      "es": "sin; no hagas"
+    },
+    {
+      "ja": "〜なくて",
+      "es": "no; y"
+    }
+  ],
+  "antonyms": []
+}

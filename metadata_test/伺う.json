@@ -1,0 +1,19 @@
+{
+  "vocab": "伺う",
+  "romaji": "ukagau",
+  "jlpt": "N4",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "うかがう",
+      "pattern": "LHHHL",
+      "source": "wadoku",
+      "audio": "うかがう_LHHHL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 15461,
+    "learning_rank": 825,
+    "frequency_score": 2.22
+  }
+}

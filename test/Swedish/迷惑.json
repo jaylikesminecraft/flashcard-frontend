@@ -1,0 +1,92 @@
+{
+  "vocab": "迷惑",
+  "kana": ["めいわく"],
+  "furigana": ["迷惑[めいわく]"],
+  "defs": ["besvär; störande", "irritation; obehag"],
+  "kanji": [
+    { "char": "迷", "mean": "vilse; gå vilse" },
+    { "char": "惑", "mean": "förvirrad; villrådig" }
+  ],
+  "pos": ["substantiv", "な-adjektiv", "する-verb"],
+  "tags": ["neutral"],
+  "notes": "Ett centralt begrepp i japansk social harmoni. Uttrycket \"att inte störa andra\" (人に迷惑をかけない) är en grundläggande social regel i Japan. Det täcker allt från lätt oljud till allvarlig ekonomisk eller fysisk belastning. Svenskans 'besvär' och 'störande' matchar olika nyanser.",
+  "grammar_points": [
+    {
+      "point": "Rikta besvär mot någon",
+      "archetypes": ["親に迷惑をかける", "親友に迷惑がかかる"],
+      "usage": "Använd をかける när en person aktivt orsakar besväret. Använd がかかる (intransitivt) när besväret drabbar någon på grund av en situation eller yttre orsak.",
+      "patterns": ["(Person) に迷惑をかける", "(Person) に迷惑がかかる"],
+      "meanings": [
+        "orsaka besvär för (Person)",
+        "besvär drabbar (Person)"
+      ]
+    },
+    {
+      "point": "Bli sedd som en plåga",
+      "archetypes": ["周囲に迷惑がられる", "迷惑がられないようにする"],
+      "usage": "Verbsuffixet 〜がる visar att någon annan uppvisar tecken på en känsla. I passiv form beskriver det att man blir betraktad som en plåga av andra.",
+      "patterns": ["(Person) に迷惑がられる"],
+      "meanings": ["bli behandlad/sedd som ett besvär av (Person)"]
+    },
+    {
+      "point": "Ödmjuk ursäkt",
+      "archetypes": [
+        "ご迷惑をおかけしました",
+        "ご迷惑をおかけして申し訳ありません"
+      ],
+      "usage": "En mycket produktiv fras i formella och affärsmässiga sammanhang. Den använder den ödmjuka formeln お〜する trots att 迷惑 är ett substantiv, och kombineras ofta med det kausativ-liknande verbet かける för att uttrycka djup ånger.",
+      "patterns": ["ご迷惑をおかけする"],
+      "meanings": ["orsaka besvär för dig (ödmjukt)"]
+    }
+  ],
+  "phrases": [
+    { "ja": "迷惑[めいわく]メール", "sv": "skräppost; spam" },
+    {
+      "ja": "近所迷惑[きんじょめいわく]",
+      "sv": "störning för grannskapet"
+    },
+    {
+      "ja": "ありがた迷惑[めいわく]",
+      "sv": "otack vänlighet; missriktad omtanke"
+    },
+    { "ja": "迷惑[めいわく]をかける", "sv": "orsaka besvär för någon" },
+    {
+      "ja": "ご迷惑[めいわく]をおかけしました",
+      "sv": "Jag är ledsen för besväret jag orsakat"
+    },
+    {
+      "ja": "迷惑[めいわく]極[きわ]まりない",
+      "sv": "ytterst irriterande; bortom allt besvär"
+    },
+    {
+      "ja": "迷惑[めいわく]そうな顔[かお]",
+      "sv": "en irriterad min; ett besvärat ansiktsuttryck"
+    }
+  ],
+  "examples": [
+    {
+      "def": "besvär; störande",
+      "ja": "夜遅[よるおそ]くにピアノを弾[ひ]くのは、近所迷惑[きんじょめいわく]になる。",
+      "sv": "Att spela piano sent på natten är störande för grannarna."
+    },
+    {
+      "def": "irritation; obehag",
+      "ja": "電車[でんしゃ]の中[なか]で大声[おおごえ]で話[はな]す人[ひと]には本当[ほんとう]に迷惑[めいわく]している。",
+      "sv": "Jag är verkligen irriterad på folk som pratar högt på tåget."
+    },
+    {
+      "def": "irritation; obehag",
+      "ja": "これ以上[いじょう]、家族[かぞく]に迷惑[めいわく]をかけたくない。",
+      "sv": "Jag vill inte orsaka mer besvär för familjen."
+    }
+  ],
+  "synonyms": [
+    { "ja": "厄介[やっかい]", "sv": "besvärlig; krånglig" },
+    { "ja": "面倒[めんどう]", "sv": "bökig; strulig" },
+    { "ja": "邪魔[じゃま]", "sv": "hinder; i vägen" }
+  ],
+  "antonyms": [
+    { "ja": "恩恵[おんけい]", "sv": "välgärning; förmån" },
+    { "ja": "助[たす]け", "sv": "hjälp; assistans" }
+  ]
+}

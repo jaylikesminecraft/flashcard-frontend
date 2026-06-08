@@ -1,0 +1,75 @@
+{
+  "vocab": "適当",
+  "kana": ["てきとう"],
+  "furigana": ["適[てき]当[とう]"],
+  "defs": [
+    "appropriate; suitable",
+    "irresponsible; half-hearted",
+    "random; non-committal"
+  ],
+  "kanji": [
+    { "char": "適", "mean": "suitable; fit" },
+    { "char": "当", "mean": "hit; target" }
+  ],
+  "pos": ["な-adjective", "Noun"],
+  "tags": ["neutral", "casual"],
+  "notes": "One of the most 'double-edged' words in Japanese. In formal contexts (exams, workplace instructions), it means 'appropriate' or 'proper.' However, in daily conversation, it often means 'careless' or 'just saying/doing whatever without thinking.' Context and tone are critical to determine if it is a compliment or a criticism.",
+  "grammar_points": [
+    {
+      "point": "The Semantic Split",
+      "archetypes": ["適当な処置", "適当な返事"],
+      "usage": "When modifying a noun, the meaning shifts based on the noun's nature. With technical nouns, it means 'suitable.' with communicative nouns (reply, talk), it usually implies 'half-baked' or 'vague.'",
+      "patterns": ["適当な (Noun)"],
+      "meanings": ["Appropriate (Noun)", "Irresponsible (Noun)"]
+    },
+    {
+      "point": "Adverbial Flexibility",
+      "archetypes": ["適当に座って", "適当にやっておいて"],
+      "usage": "Used to tell someone to 'do it as you see fit' or 'don't stress over the details.' It can be a kind way to grant autonomy or a lazy way to delegate a task without instructions.",
+      "patterns": ["適当に (Verb)"],
+      "meanings": ["to (Verb) as one sees fit", "to (Verb) half-heartedly"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "適当[てきとう]に返事[へんじ]をする",
+      "en": "to give a half-hearted reply"
+    },
+    { "ja": "適当[てきとう]にあしらう", "en": "to brush someone off" },
+    { "ja": "適当[てきとう]な場所[ばしょ]", "en": "an appropriate place" },
+    {
+      "ja": "適当[てきとう]に切[き]り上[あ]げる",
+      "en": "to wrap up at a good point"
+    },
+    {
+      "ja": "かなり適当[てきとう]な人[ひと]",
+      "en": "quite an irresponsible person"
+    },
+    { "ja": "適当[てきとう]に選[えら]ぶ", "en": "to pick at random" }
+  ],
+  "examples": [
+    {
+      "def": "appropriate; suitable",
+      "ja": "自分[じぶん]のレベルに合[あ]った適当[てきとう]な教科書[きょうかしょ]を探[さが]している。",
+      "en": "I am looking for a suitable textbook that matches my level."
+    },
+    {
+      "def": "irresponsible; half-hearted",
+      "ja": "彼[かれ]はいつもその場[ば]しのぎの適当[てきとう]なことばかり言[い]う。",
+      "en": "He's always just saying whatever random things to get through the moment."
+    },
+    {
+      "def": "random; non-committal",
+      "ja": "詳[くわ]しいルールは知[し]らないので、適当[てきとう]にやってみた。",
+      "en": "I don't know the detailed rules, so I just winged it."
+    }
+  ],
+  "synonyms": [
+    { "ja": "適切", "en": "appropriate (formal)" },
+    { "ja": "いい加減", "en": "irresponsible; just right" }
+  ],
+  "antonyms": [
+    { "ja": "不適当", "en": "inappropriate" },
+    { "ja": "真面目", "en": "serious; diligent" }
+  ]
+}

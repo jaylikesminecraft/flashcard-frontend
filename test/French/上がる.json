@@ -1,0 +1,169 @@
+{
+  "vocab": "上がる",
+  "kana": ["あがる"],
+  "furigana": ["上[あ]がる"],
+  "defs": [
+    "monter ; s'élever ; grimper",
+    "entrer (dans une maison japonaise)",
+    "être trac ; paniquer (trac de scène)",
+    "être fini ; être achevé",
+    "s'améliorer (compétence/valeur)",
+    "sortir (du bain)",
+    "s'arrêter (la pluie)"
+  ],
+  "kanji": [
+    {
+      "char": "上",
+      "mean": "haut, dessus"
+    }
+  ],
+  "pos": ["verbe-u", "intransitif"],
+  "tags": ["neutral"],
+  "notes": "Verbe polyvalent qui a de nombreuses extensions abstraites. Pour l'entrée dans une maison, il reflète la marche typique de l'architecture japonaise où l'on surélève le sol. Faites attention : ce n'est pas juste « monter » comme dans « monter un escalier », il y a une nuance de « pénétrer dans un espace privé ».\nPour le trac, il s'agit d'un trac de scène ou du fait d'être intimidé, pas une nervosité générale. Enfin, ne confondez pas avec 揚がる (être frit) et 挙がる (être arrêté/listé), qui sont des homophones mais utilisent des kanji différents.",
+  "grammar_points": [
+    {
+      "point": "Pair intransitif/transitif",
+      "archetypes": [
+        "物価が上がる",
+        "声を上げる"
+      ],
+      "usage": "上がる est intransitif (quelque chose monte tout seul), tandis que 上げる est le transitif correspondant (quelqu'un fait monter quelque chose).",
+      "patterns": [
+        "(Sujet) が上がる",
+        "(Objet) を上げる"
+      ],
+      "meanings": [
+        "(Sujet) monte / s'élève",
+        "faire monter (Objet)"
+      ]
+    },
+    {
+      "point": "Inviter à entrer",
+      "archetypes": [
+        "どうぞ、お上がりください"
+      ],
+      "usage": "Formule de politesse utilisée pour inviter quelqu'un à entrer dans une maison ou une pièce avec sol surélevé (tatami, parquet). Plus nuancé et poli qu'utiliser 入る.",
+      "patterns": [
+        "お上がりください"
+      ],
+      "meanings": [
+        "Je vous en prie, entrez (dans la maison)"
+      ]
+    },
+    {
+      "point": "Suffixe d'achèvement",
+      "archetypes": [
+        "レポートが書き上がる",
+        "料理が出来上がる"
+      ],
+      "usage": "S'attache à la forme en ます du verbe pour indiquer qu'une tâche est terminée ou menée à bonne fin. Insiste sur le fait que c'est fait et bien fait.",
+      "patterns": [
+        "(Base du verbe) 上がる"
+      ],
+      "meanings": [
+        "être fini de (verbe)",
+        "être complètement (verbe)"
+      ]
+    },
+    {
+      "point": "Trac / intimidation",
+      "archetypes": [
+        "スピーチで上がる",
+        "大勢の前で上がる"
+      ],
+      "usage": "Décrit l'état physique et mental d'être trac, intimidé ou figé par le trac, notamment en public. Ne s'utilise pas pour une anxiété générale.",
+      "patterns": [
+        "(Situation/Lieu) で上がる"
+      ],
+      "meanings": [
+        "avoir le trac",
+        "être intimidé"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "雨[あめ]が上[あ]がる",
+      "fr": "la pluie s'arrête"
+    },
+    {
+      "ja": "腕[うで]が上[あ]がる",
+      "fr": "s'améliorer (compétence)"
+    },
+    {
+      "ja": "どうぞ、お上[あ]がりください",
+      "fr": "Je vous en prie, entrez"
+    },
+    {
+      "ja": "効果[こうか]が上[あ]がる",
+      "fr": "produire un effet"
+    },
+    {
+      "ja": "人前[ひとまえ]で上[あ]がる",
+      "fr": "avoir le trac en public"
+    },
+    {
+      "ja": "風呂[ふろ]から上[あ]がる",
+      "fr": "sortir du bain"
+    },
+    {
+      "ja": "出来[でき]上[あ]がる",
+      "fr": "être terminé / prêt"
+    },
+    {
+      "ja": "利益[りえき]が上[あ]がる",
+      "fr": "faire du bénéfice"
+    }
+  ],
+  "examples": [
+    {
+      "def": "monter ; s'élever ; grimper",
+      "ja": "最近[さいきん]、野菜[やさい]の値段[ねだん]がどんどん上[あ]がっている。",
+      "fr": "Ces derniers temps, le prix des légumes ne cesse d'augmenter."
+    },
+    {
+      "def": "entrer (dans une maison japonaise)",
+      "ja": "玄関[げんかん]で靴[くつ]を脱[ぬ]いで、リビングに上[あ]がった。",
+      "fr": "J'ai enlevé mes chaussures à l'entrée et je suis entré dans le salon."
+    },
+    {
+      "def": "être trac ; paniquer (trac de scène)",
+      "ja": "本番[ほんばん]で上[あ]がってしまい、セリフを忘[わす]れてしまった。",
+      "fr": "J'ai eu le trac pendant la représentation et j'ai oublié mon texte."
+    },
+    {
+      "def": "être fini ; être achevé",
+      "ja": "ようやく論文[ろんぶん]が書[か]き上[あ]がった。",
+      "fr": "Enfin, ma thèse est terminée."
+    },
+    {
+      "def": "s'améliorer (compétence/valeur)",
+      "ja": "毎日[まいにち]練習[れんしゅう]したおかげで、かなりテニスの腕[うで]が上[あ]がった。",
+      "fr": "Grâce à un entraînement quotidien, mon niveau de tennis s'est vraiment amélioré."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "上昇[じょうしょう]する",
+      "fr": "s'élever (technique)"
+    },
+    {
+      "ja": "緊張[きんちょう]する",
+      "fr": "être nerveux"
+    },
+    {
+      "ja": "完成[かんせい]する",
+      "fr": "être achevé"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "下[さ]がる",
+      "fr": "baisser, descendre"
+    },
+    {
+      "ja": "下[お]りる",
+      "fr": "descendre"
+    }
+  ]
+}

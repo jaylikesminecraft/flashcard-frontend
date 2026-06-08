@@ -1,0 +1,149 @@
+{
+  "vocab": "迷惑",
+  "kana": [
+    "めいわく"
+  ],
+  "furigana": [
+    "迷惑[めいわく]"
+  ],
+  "defs": [
+    "disturbo; fastidio",
+    "seccatura; inconveniente"
+  ],
+  "kanji": [
+    {
+      "char": "迷",
+      "mean": "smarrito; perso"
+    },
+    {
+      "char": "惑",
+      "mean": "illusione; perplessità"
+    }
+  ],
+  "pos": [
+    "Sostantivo",
+    "Aggettivo-na",
+    "Verbo-suru"
+  ],
+  "tags": [
+    "neutral"
+  ],
+  "notes": "Concetto centrale nell'armonia sociale giapponese. La frase 'non disturbare gli altri' (人に迷惑をかけない) è una regola sociale fondamentale in Giappone. Copre tutto, dal rumore leggero a un grave onere fisico o finanziario.",
+  "grammar_points": [
+    {
+      "point": "Disturbo Direzionale",
+      "archetypes": [
+        "親に迷惑をかける",
+        "親友に迷惑がかかる"
+      ],
+      "usage": "Usa をかける quando un agente causa attivamente il disturbo. Usa がかかる (intransitivo) quando il disturbo ricade su qualcuno a causa di una situazione o causa esterna.",
+      "patterns": [
+        "(Persona) に迷惑をかける",
+        "(Persona) に迷惑がかかる"
+      ],
+      "meanings": [
+        "causare disturbo a (Persona)",
+        "il disturbo è causato a (Persona)"
+      ]
+    },
+    {
+      "point": "Fastidio Passivo",
+      "archetypes": [
+        "周囲に迷惑がられる",
+        "迷惑がられないようにする"
+      ],
+      "usage": "Il suffisso verbale 〜がる indica che qualcun altro mostra segni di un'emozione. Combinato con il passivo, descrive lo stato di essere considerato un fastidio dagli altri.",
+      "patterns": [
+        "(Persona) に迷惑がられる"
+      ],
+      "meanings": [
+        "essere trattato/visto come un fastidio da (Persona)"
+      ]
+    },
+    {
+      "point": "Costruzione Umile di Scusa",
+      "archetypes": [
+        "ご迷惑をおかけしました",
+        "ご迷惑をおかけして申し訳ありません"
+      ],
+      "usage": "Una frase estremamente produttiva in ambito formale e lavorativo. Utilizza la formula umile お〜する anche se 迷惑 è un sostantivo, tipicamente abbinato al verbo かける (dal sapore causativo) per esprimere profondo rammarico per il disturbo causato.",
+      "patterns": [
+        "ご迷惑をおかけする"
+      ],
+      "meanings": [
+        "disturbarLa (Umile)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "迷惑[めいわく]メール",
+      "it": "posta indesiderata; email di spam"
+    },
+    {
+      "ja": "近所迷惑[きんじょめいわく]",
+      "it": "disturbo per il vicinato"
+    },
+    {
+      "ja": "ありがた迷惑[めいわく]",
+      "it": "favore non richiesto; gentilezza fuori luogo"
+    },
+    {
+      "ja": "迷惑[めいわく]をかける",
+      "it": "causare disturbo a qualcuno"
+    },
+    {
+      "ja": "ご迷惑[めいわく]をおかけしました",
+      "it": "Mi scuso per il disturbo causato"
+    },
+    {
+      "ja": "迷惑[めいわく]極[きわ]まりない",
+      "it": "estremamente fastidioso; oltre ogni limite"
+    },
+    {
+      "ja": "迷惑[めいわく]そうな顔[かお]",
+      "it": "un'espressione infastidita; un volto preoccupato"
+    }
+  ],
+  "examples": [
+    {
+      "def": "disturbo; fastidio",
+      "ja": "夜遅[よるおそ]くにピアノを弾[ひ]くのは、近所迷惑[きんじょめいわく]になる。",
+      "it": "Suonare il pianoforte a tarda notte è un disturbo per i vicini."
+    },
+    {
+      "def": "seccatura; inconveniente",
+      "ja": "電車[でんしゃ]の中[なか]で大声[おおごえ]で話[はな]す人[ひと]には本当[ほんとう]に迷惑[めいわく]している。",
+      "it": "Sono davvero infastidito da chi parla ad alta voce in treno."
+    },
+    {
+      "def": "seccatura; inconveniente",
+      "ja": "これ以上[いじょう]、家族[かぞく]に迷惑[めいわく]をかけたくない。",
+      "it": "Non voglio più causare disturbo alla mia famiglia."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "厄介[やっかい]",
+      "it": "fastidioso; peso"
+    },
+    {
+      "ja": "面倒[めんどう]",
+      "it": "scocciatura; seccatura"
+    },
+    {
+      "ja": "邪魔[じゃま]",
+      "it": "intralcio; ostacolo"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "恩恵[おんけい]",
+      "it": "beneficio; favore"
+    },
+    {
+      "ja": "助[たす]け",
+      "it": "aiuto; assistenza"
+    }
+  ]
+}

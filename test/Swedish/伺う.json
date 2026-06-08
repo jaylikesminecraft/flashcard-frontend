@@ -1,0 +1,80 @@
+{
+  "vocab": "伺う",
+  "kana": ["うかがう"],
+  "furigana": ["伺[うかが]う"],
+  "defs": [
+    "att ödmjukt besöka",
+    "att ödmjukt fråga; höra efter",
+    "att ödmjukt höra; lyssna"
+  ],
+  "kanji": [{ "char": "伺", "mean": "besöka; höra efter" }],
+  "pos": ["う-verb", "transitivt", "intransitivt"],
+  "tags": ["keigo", "business"],
+  "notes": "Ett mångsidigt ödmjukt verb (kenjōgo) som ersätter flera vanliga verb i artiga eller formella sammanhang. Det sänker talarens status för att visa respekt mot den person som besöks, tillfrågas eller hörs ifrån. I affärssammanhang är det oumbärligt för att boka in möten och professionella förfrågningar. Tänk på att '伺う' fungerar som en artig ersättning för '行く/来る' (gå/komma), '聞く' (höra/fråga) och '尋ねる' (efterfråga).",
+  "grammar_points": [
+    {
+      "point": "Keigos sociala dynamik",
+      "archetypes": ["明日、伺います", "お名前を伺う"],
+      "usage": "Ersätter direkt 行く/来る (gå/komma), 聞く (höra/fråga) och 尋ねる (efterfråga). Det sänker talaren för att upphöja lyssnaren eller personen förknippad med handlingen. Används endast för egna handlingar gentemot någon i ut-grupp eller högre status.",
+      "patterns": ["(Person som talar) が (Person utanför gruppen) に伺う"],
+      "meanings": ["Jag/vi (ödmjukt) besöker/frågar (Personen)"]
+    },
+    {
+      "point": "Pågående tillstånd vs. kunskap",
+      "archetypes": ["お話は伺っております"],
+      "usage": "Medan 〜ている vanligtvis uttrycker pågående handling, är 伺っております en mycket vanlig ödmjuk fras som betyder 'jag har hört (och är redan informerad) om situationen'. Det underförstår att talaren redan är insatt.",
+      "patterns": ["(Ämne) は伺っております"],
+      "meanings": ["Jag har redan hört om (Ämnet)"]
+    },
+    {
+      "point": "Be om tillåtelse",
+      "archetypes": ["お話を伺わせてください", "お話を伺ってもいいですか？"],
+      "usage": "Genom att kombinera med kausativ eller potentialform kan man artigt be om att få höra eller besöka någon. Den kausativa formen 伺わせる används ofta i formella affärsförfrågningar. Observera att 伺ってもいいですか är mjukare än 伺わせてください.",
+      "patterns": [
+        "(Person) のお話を伺わせる",
+        "(Handling) を伺ってもよろしいですか？"
+      ],
+      "meanings": [
+        "Låt mig (ödmjukt) lyssna till (Personens) berättelse",
+        "Får jag (ödmjukt) fråga/besöka?"
+      ]
+    }
+  ],
+  "phrases": [
+    { "ja": "お話[はなし]を伺[うかが]う", "sv": "att lyssna på någon tala" },
+    { "ja": "お宅[たく]に伺[うかが]う", "sv": "att besöka någons hem" },
+    { "ja": "お名前[なまえ]を伺[うかが]う", "sv": "att fråga efter någons namn" },
+    {
+      "ja": "ご都合[つごう]を伺[うかが]う",
+      "sv": "att höra efter någons tillgänglighet"
+    },
+    { "ja": "伺[うかが]っております", "sv": "Jag har hört / jag är informerad" },
+    {
+      "ja": "様子[ようす]を伺[うかが]う",
+      "sv": "att se hur det går; avvakta och observera"
+    }
+  ],
+  "examples": [
+    {
+      "def": "att ödmjukt besöka",
+      "ja": "明日[あした]の午後[ごご]、オフィスに伺[うかが]ってもよろしいでしょうか？",
+      "sv": "Skulle det vara okej om jag besöker ert kontor i morgon eftermiddag?"
+    },
+    {
+      "def": "att ödmjukt fråga; höra efter",
+      "ja": "少々[しょうしょう]伺[うかが]いたいことがございます。",
+      "sv": "Det är något jag ödmjukt skulle vilja fråga er om."
+    },
+    {
+      "def": "att ödmjukt höra; lyssna",
+      "ja": "田中様[たなかさま]から、ご結婚[けっこん]のことは伺[うかが]っております。",
+      "sv": "Jag har redan hört om ert bröllop från herr Tanaka."
+    }
+  ],
+  "synonyms": [
+    { "ja": "参[まい]る", "sv": "att komma/gå (ödmjukt)" },
+    { "ja": "聞[き]く", "sv": "att höra/fråga" },
+    { "ja": "訪[おとず]れる", "sv": "att besöka" }
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,98 @@
+{
+  "vocab": "クレーム",
+  "kana": ["くれーむ"],
+  "furigana": ["クレーム"],
+  "defs": [
+    "kundklagomål; reklamation",
+    "anmärkning; missnöjesyttring"
+  ],
+  "kanji": [],
+  "pos": ["Substantiv"],
+  "tags": ["neutral", "business", "wasei-eigo"],
+  "notes": "Klassisk 'falsk vän' (wasei-eigo). Japanskans クレーム betyder nästan alltid 'klagomål' eller 'reklamation', oftast från en kund gällande en produkt eller tjänst. Motsvarar inte engelskans 'claim' (göra anspråk på rättighet eller försäkringsersättning). För 'försäkringsanspråk' eller 'hävda rätt' används istället 請求 (せいきゅう) eller 主張 (しゅちょう).",
+  "grammar_points": [
+    {
+      "point": "Lämna ett klagomål (aktiva verb)",
+      "archetypes": ["お店にクレームを入れる", "理不尽なクレームをつける"],
+      "usage": "För att uttrycka att man 'lämnar ett klagomål' används sällan 言う (säga). Istället är 入れる och つける huvudverben. 入れる låter som att officiellt lämna eller registrera ett klagomål (t.ex. via telefon eller mejl). つける har en starkare, aggressivare nyans av att 'hitta fel', 'gnälla' eller 'bråka'.",
+      "patterns": [
+        "(Mottagare) に クレーム を 入れる",
+        "(Mottagare) に クレーム を つける"
+      ],
+      "meanings": [
+        "lämna ett klagomål till (Mottagare)",
+        "klaga hos / felfinna hos (Mottagare)"
+      ]
+    },
+    {
+      "point": "Ta emot ett klagomål (passivt perspektiv)",
+      "archetypes": [
+        "客からクレームが来る",
+        "クレームが入る",
+        "クレームを受ける"
+      ],
+      "usage": "När ett företag tar emot ett klagomål beskrivs det som att klagomålet 'kommer' (来る / 入る) snarare än att företaget 'blir tillsagt' något. 入る (intransitivt) är mycket vanligt i affärssammanhang för att objektivt konstatera att ett klagomål har loggats eller mottagits.",
+      "patterns": [
+        "(Avsändare) から クレーム が 来る・入る",
+        "(Avsändare) から クレーム を 受ける"
+      ],
+      "meanings": [
+        "ett klagomål kommer in från (Avsändare)",
+        "ta emot ett klagomål från (Avsändare)"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "クレーム対応[たいおう]",
+      "sv": "klagomålshantering; kundtjänstsvar"
+    },
+    {
+      "ja": "クレーム処理[しょり]",
+      "sv": "behandling av klagomål; att lösa reklamationer"
+    },
+    {
+      "ja": "クレームの電話[でんわ]を入[い]れる",
+      "sv": "ringa ett klagomålssamtal"
+    },
+    {
+      "ja": "理不尽[りふじん]なクレーム",
+      "sv": "orimligt klagomål; obefogad reklamation"
+    },
+    {
+      "ja": "クレームが殺到[さっとう]する",
+      "sv": "översvämmas av klagomål"
+    },
+    {
+      "ja": "クレームを恐[おそ]れる",
+      "sv": "vara rädd för att få klagomål"
+    }
+  ],
+  "examples": [
+    {
+      "def": "kundklagomål; reklamation",
+      "ja": "新商品[しんしょうひん]の不具合[ふぐあい]に対[たい]して、客[きゃく]からクレームが入[はい]った。",
+      "sv": "Det kom in ett klagomål från en kund angående ett fel på den nya produkten."
+    },
+    {
+      "def": "anmärkning; missnöjesyttring",
+      "ja": "彼[かれ]の強引[ごういん]なやり方[かた]には、チーム内[ない]からクレームが続出[ぞくしゅつ]している。",
+      "sv": "Det strömmar in klagomål inom teamet över hans påstridiga sätt."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "苦情[くじょう]",
+      "sv": "klagomål; reklamation (mer formellt/skriftligt)"
+    },
+    {
+      "ja": "文句[もんく]",
+      "sv": "klagomål; gnäll (mer vardagligt)"
+    },
+    {
+      "ja": "異議[いぎ]",
+      "sv": "invändning; protest"
+    }
+  ],
+  "antonyms": []
+}

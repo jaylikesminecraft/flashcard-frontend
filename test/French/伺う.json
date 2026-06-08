@@ -1,0 +1,74 @@
+{
+  "vocab": "伺う",
+  "kana": ["うかがう"],
+  "furigana": ["伺[うかが]う"],
+  "defs": [
+    "rendre visite (humble)",
+    "demander, s'enquérir (humble)",
+    "entendre, écouter, apprendre (humble)"
+  ],
+  "kanji": [{ "char": "伺", "mean": "visiter; s'enquérir" }],
+  "pos": ["verbe en う", "transitif", "intransitif"],
+  "tags": ["keigo", "business"],
+  "notes": "Verbe humble (kenjōgo) polyvalent qui remplace plusieurs verbes courants en contexte poli ou formel. Il abaisse le statut du locuteur pour montrer du respect envers la personne visitée, interrogée ou écoutée. En affaires, il est indispensable pour prendre rendez-vous et poser des questions professionnelles. Attention : contrairement au français où l'on peut exprimer une demande de manière directe, en japonais, l'emploi de 伺う implique une déférence et s'accompagne souvent d'adoucissements (par exemple 〜てもよろしいでしょうか). Ne pas l'utiliser pour parler de soi-même ou de son groupe dans un cadre informel.",
+  "grammar_points": [
+    {
+      "point": "Dynamique sociale du keigo",
+      "archetypes": ["明日、伺います", "お名前を伺う"],
+      "usage": "Remplace directement 行く・来る (aller/venir), 聞く (demander/écouter) et 尋ねる (s'enquérir). Abaisse le locuteur pour élever l'interlocuteur ou la personne liée à l'action. S'emploie toujours pour une action dont le bénéficiaire est extérieur au groupe du locuteur.",
+      "patterns": ["(Locuteur) が (Personne extérieure) に伺う"],
+      "meanings": ["Je/Nous rendons visite/demandons humblement à (Personne)"]
+    },
+    {
+      "point": "État résultant vs connaissance",
+      "archetypes": ["お話は伺っております"],
+      "usage": "Alors que 〜ている indique normalement une action en cours, 伺っております est une tournure humble très courante signifiant « j'ai déjà entendu (et je suis maintenant au courant) ». Elle implique « je suis déjà informé(e) », et non « je suis en train d'écouter ».",
+      "patterns": ["(Sujet) は伺っております"],
+      "meanings": ["J'ai déjà entendu parler de (Sujet)"]
+    },
+    {
+      "point": "Demande d'autorisation",
+      "archetypes": ["お話を伺わせてください", "お話を伺ってもいいですか？"],
+      "usage": "Combinaison avec la forme causative ou potentielle pour demander poliment la permission d'écouter ou de rendre visite. La forme causative 伺わせる est souvent utilisée dans les requêtes professionnelles formelles. En français, on traduirait par « me permettre de... » mais la structure japonaise est plus indirecte et humble.",
+      "patterns": [
+        "(Personne) のお話を伺わせる",
+        "(Action) を伺ってもよろしいですか？"
+      ],
+      "meanings": [
+        "Permettez-moi d'écouter l'histoire de (Personne)",
+        "Puis-je humblement demander/rendre visite ?"
+      ]
+    }
+  ],
+  "phrases": [
+    { "ja": "お話[はなし]を伺[うかが]う", "fr": "écouter quelqu'un parler" },
+    { "ja": "お宅[たく]に伺[うかが]う", "fr": "rendre visite au domicile de quelqu'un" },
+    { "ja": "お名前[なまえ]を伺[うかが]う", "fr": "demander le nom de quelqu'un" },
+    { "ja": "ご都合[つごう]を伺[うかが]う", "fr": "demander les disponibilités de quelqu'un" },
+    { "ja": "伺[うかが]っております", "fr": "j'ai entendu dire / je suis informé(e)" },
+    { "ja": "様子[ようす]を伺[うかが]う", "fr": "observer la situation ; voir comment ça évolue" }
+  ],
+  "examples": [
+    {
+      "def": "rendre visite (humble)",
+      "ja": "明日[あした]の午後[ごご]、オフィスに伺[うかが]ってもよろしいでしょうか？",
+      "fr": "Est-ce que je pourrais passer à votre bureau demain après-midi ?"
+    },
+    {
+      "def": "demander, s'enquérir (humble)",
+      "ja": "少々[しょうしょう]伺[うかが]いたいことがございます。",
+      "fr": "J'aurais quelque chose à vous demander, si vous permettez."
+    },
+    {
+      "def": "entendre, écouter, apprendre (humble)",
+      "ja": "田中様[たなかさま]から、ご結婚[けっこん]のことは伺[うかが]っております。",
+      "fr": "M. Tanaka m'a fait part de votre mariage ; je suis déjà au courant."
+    }
+  ],
+  "synonyms": [
+    { "ja": "参[まい]る", "fr": "aller/venir (humble)" },
+    { "ja": "聞[き]く", "fr": "entendre/demander" },
+    { "ja": "訪[おとず]れる", "fr": "rendre visite" }
+  ],
+  "antonyms": []
+}

@@ -1,0 +1,97 @@
+{
+  "vocab": "上がる",
+  "kana": ["あがる"],
+  "furigana": ["上[あ]がる"],
+  "defs": [
+    "salire; alzarsi; aumentare",
+    "entrare (in una casa o stanza con pavimento sopraelevato)",
+    "essere terminato; essere completato",
+    "migliorare (abilità/valore)",
+    "uscire (dall'acqua o dal bagno)",
+    "essere nervoso; avere il panico da palcoscenico"
+  ],
+  "kanji": [
+    {
+      "char": "上",
+      "mean": "sopra; su"
+    }
+  ],
+  "pos": ["verbo intransitivo", "verbo in -u"],
+  "tags": ["neutro"],
+  "notes": "Verbo polisemico con estensioni astratte. L'idea centrale è un movimento verso l'alto o una conclusione.\nPrincipali contesti d'uso:\n- 雨が上がる (la pioggia smette) è un uso idiomatico legato all'idea di 'sollevarsi'.\n- 風呂から上がる significa uscire dalla vasca (letteralmente 'salire' dal bagno, per il movimento verso l'alto).\n- Con il significato di 'essere nervoso', indica specificamente uno stato di agitazione davanti a un pubblico (es. 人前で上がる).\n- Attenzione agli omofoni con kanji diversi: 揚がる (friggere in profondità) e 挙がる (essere catturato/elencato), che condividono la lettura あがる.",
+  "grammar_points": [
+    {
+      "point": "Coppia transitiva-intransitiva",
+      "archetypes": ["物価が上がる", "声を上げる"],
+      "usage": "上がる è il membro intransitivo (qualcosa sale da solo), mentre 上げる è il transitivo (qualcuno alza qualcosa).",
+      "patterns": ["(Soggetto) が 上がる", "(Oggetto) を 上げる"],
+      "meanings": ["(Soggetto) sale / si alza / aumenta", "alzare / aumentare (Oggetto)"]
+    },
+    {
+      "point": "Entrare in uno spazio abitativo",
+      "archetypes": ["どうぞ、お上がりください"],
+      "usage": "Invito cortese a entrare in una casa o stanza con pavimento rialzato (tatami). Più formale e culturalmente appropriato di 入る (entrare).",
+      "patterns": ["(Abitazione/Stanza) に 上がる"],
+      "meanings": ["accomodarsi; entrare (in una casa)"]
+    },
+    {
+      "point": "Completamento di un'azione",
+      "archetypes": ["レポートが書き上がる", "料理が出来上がる"],
+      "usage": "Attaccato alla radice verbale, indica che un'azione è stata portata a termine in modo completo. Spesso enfatizza la qualità del risultato.",
+      "patterns": ["(Verbo-masu base) 上がる"],
+      "meanings": ["essere finito di (Verbo)", "essere completamente (Participio)"]
+    }
+  ],
+  "phrases": [
+    { "ja": "雨[あめ]が上[あ]がる", "it": "la pioggia smette" },
+    { "ja": "腕[うで]が上[あ]がる", "it": "migliorare (abilità)" },
+    { "ja": "どうぞ、お上[あ]がりください", "it": "Prego, si accomodi (entri)" },
+    { "ja": "効果[こうか]が上[あ]がる", "it": "produrre un effetto" },
+    { "ja": "人前[ひとまえ]で上[あ]がる", "it": "essere nervoso davanti agli altri" },
+    { "ja": "風呂[ふろ]から上[あ]がる", "it": "uscire dal bagno" },
+    { "ja": "出来[でき]上[あ]がる", "it": "essere completato/pronto" },
+    { "ja": "利益[りえき]が上[あ]がる", "it": "ottenere un profitto" }
+  ],
+  "examples": [
+    {
+      "def": "salire; alzarsi; aumentare",
+      "ja": "最近[さいきん]、野菜[やさい]の値段[ねだん]がどんどん上[あ]がっている。",
+      "it": "Ultimamente, il prezzo della verdura sta salendo sempre di più."
+    },
+    {
+      "def": "entrare (in una casa o stanza con pavimento sopraelevato)",
+      "ja": "玄関[げんかん]で靴[くつ]を脱[ぬ]いで、リビングに上[あ]がった。",
+      "it": "Mi sono tolto le scarpe all'ingresso e sono entrato in soggiorno."
+    },
+    {
+      "def": "uscire (dall'acqua o dal bagno)",
+      "ja": "ゆっくりお風呂[ふろ]に浸[つ]かって、一時間[いちじかん]後[ご]に上[あ]がった。",
+      "it": "Dopo essermi immerso a lungo nella vasca, ne sono uscito un'ora dopo."
+    },
+    {
+      "def": "essere terminato; essere completato",
+      "ja": "ようやく論文[ろんぶん]が書[か]き上[あ]がった。",
+      "it": "Finalmente la tesi è finita (di scrivere)."
+    },
+    {
+      "def": "migliorare (abilità/valore)",
+      "ja": "毎日[まいにち]練習[れんしゅう]したおかげで、かなりテニスの腕[うで]が上[あ]がった。",
+      "it": "Grazie all'allenamento quotidiano, il mio livello di tennis è migliorato parecchio."
+    },
+    {
+      "def": "essere nervoso; avere il panico da palcoscenico",
+      "ja": "本番[ほんばん]で上[あ]がってしまい、セリフを忘[わす]れてしまった。",
+      "it": "Durante l'esibizione mi è venuto il panico da palcoscenico e ho dimenticato le battute."
+    }
+  ],
+  "synonyms": [
+    { "ja": "上昇[じょうしょう]する", "it": "salire (formale)" },
+    { "ja": "緊張[きんちょう]する", "it": "essere teso/nervoso" },
+    { "ja": "完成[かんせい]する", "it": "essere completato" },
+    { "ja": "上がってくる", "it": "salire verso chi parla" }
+  ],
+  "antonyms": [
+    { "ja": "下[さ]がる", "it": "scendere; calare" },
+    { "ja": "下[お]りる", "it": "scendere (da un veicolo/posto rialzato)" }
+  ]
+}

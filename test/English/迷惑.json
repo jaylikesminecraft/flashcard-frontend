@@ -1,0 +1,92 @@
+{
+  "vocab": "迷惑",
+  "kana": ["めいわく"],
+  "furigana": ["迷惑[めいわく]"],
+  "defs": ["nuisance; trouble", "annoyance; inconvenience"],
+  "kanji": [
+    { "char": "迷", "mean": "astray; lost" },
+    { "char": "惑", "mean": "delusion; perplex" }
+  ],
+  "pos": ["Noun", "な-adjective", "する-verb"],
+  "tags": ["neutral"],
+  "notes": "A central concept in Japanese social harmony. The phrase 'not to trouble others' (人に迷惑をかけない) is a foundational social rule in Japan. It covers everything from light noise to serious physical or financial burden.",
+  "grammar_points": [
+    {
+      "point": "Directional Trouble",
+      "archetypes": ["親に迷惑をかける", "親友に迷惑がかかる"],
+      "usage": "Use をかける when an agent actively causes the trouble. Use がかかる (intransitive) when the trouble falls upon someone due to a situation or external cause.",
+      "patterns": ["(Person) に迷惑をかける", "(Person) に迷惑がかかる"],
+      "meanings": [
+        "to cause trouble for (Person)",
+        "trouble is caused to (Person)"
+      ]
+    },
+    {
+      "point": "Passive Annoyance",
+      "archetypes": ["周囲に迷惑がられる", "迷惑がられないようにする"],
+      "usage": "The verb suffix 〜がる indicates that someone else is showing signs of an emotion. Combined with the passive, it describes the state of being regarded as a nuisance by others.",
+      "patterns": ["(Person) に迷惑がられる"],
+      "meanings": ["to be treated/viewed as a nuisance by (Person)"]
+    },
+    {
+      "point": "Humble Apology Construction",
+      "archetypes": [
+        "ご迷惑をおかけしました",
+        "ご迷惑をおかけして申し訳ありません"
+      ],
+      "usage": "A highly productive business and formal phrase. It uses the お〜する humble formula even though 迷惑 is a noun, typically paired with the causative-leaning verb かける to express deep regret for the burden caused.",
+      "patterns": ["ご迷惑をおかけする"],
+      "meanings": ["to trouble you (Humble)"]
+    }
+  ],
+  "phrases": [
+    { "ja": "迷惑[めいわく]メール", "en": "spam mail; junk email" },
+    {
+      "ja": "近所迷惑[きんじょめいわく]",
+      "en": "nuisance to the neighborhood"
+    },
+    {
+      "ja": "ありがた迷惑[めいわく]",
+      "en": "unwelcome favor; misplaced kindness"
+    },
+    { "ja": "迷惑[めいわく]をかける", "en": "to cause trouble for someone" },
+    {
+      "ja": "ご迷惑[めいわく]をおかけしました",
+      "en": "I'm sorry for the trouble I caused"
+    },
+    {
+      "ja": "迷惑[めいわく]極[きわ]まりない",
+      "en": "extremely annoying; beyond a nuisance"
+    },
+    {
+      "ja": "迷惑[めいわく]そうな顔[かお]",
+      "en": "an annoyed look; a troubled expression"
+    }
+  ],
+  "examples": [
+    {
+      "def": "nuisance; trouble",
+      "ja": "夜遅[よるおそ]くにピアノを弾[ひ]くのは、近所迷惑[きんじょめいわく]になる。",
+      "en": "Playing the piano late at night is a nuisance to the neighbors."
+    },
+    {
+      "def": "annoyance; inconvenience",
+      "ja": "電車[でんしゃ]の中[なか]で大声[おおごえ]で話[はな]す人[ひと]には本当[ほんとう]に迷惑[めいわく]している。",
+      "en": "I am truly annoyed by people who talk loudly on the train."
+    },
+    {
+      "def": "annoyance; inconvenience",
+      "ja": "これ以上[いじょう]、家族[かぞく]に迷惑[めいわく]をかけたくない。",
+      "en": "I don't want to cause any more trouble for my family."
+    }
+  ],
+  "synonyms": [
+    { "ja": "厄介[やっかい]", "en": "troublesome; burden" },
+    { "ja": "面倒[めんどう]", "en": "bother; hassle" },
+    { "ja": "邪魔[じゃま]", "en": "hindrance; obstacle" }
+  ],
+  "antonyms": [
+    { "ja": "恩恵[おんけい]", "en": "benefit; grace" },
+    { "ja": "助[たす]け", "en": "help; assistance" }
+  ]
+}

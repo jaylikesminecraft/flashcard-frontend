@@ -1,0 +1,143 @@
+{
+  "vocab": "一応",
+  "kana": [
+    "いちおう"
+  ],
+  "furigana": [
+    "一応[いちおう]"
+  ],
+  "defs": [
+    "pour le moment ; à toutes fins utiles",
+    "au cas où ; par précaution",
+    "à peu près ; grosso modo ; sommairement"
+  ],
+  "kanji": [
+    {
+      "char": "一",
+      "mean": "un"
+    },
+    {
+      "char": "応",
+      "mean": "répondre ; convenir"
+    }
+  ],
+  "pos": [
+    "Adverbe",
+    "Nom"
+  ],
+  "tags": [
+    "neutral"
+  ],
+  "notes": "Un adverbe « bouclier » très utile pour nuancer son propos et éviter les affirmations trop catégoriques en japonais. 「一応」 indique qu'une action ou un état atteint un minimum requis, sans être parfait ni définitif. Il permet aussi de montrer qu'on a fait le nécessaire « au cas où », par précaution. Ne le confondez pas avec 「とりあえず」, qui met l'accent sur la priorité immédiate (« pour commencer », « en attendant ») et non sur le caractère minimal ou provisoire de ce qui est fait. En français, on utilise parfois « histoire de » (histoire de vérifier), « sait-on jamais », « disons que… », ou « globalement », mais aucun ne couvre tous les emplois. Important : en japonais, cet adverbe est un outil de modestie : dire 「一応終わりました」 évite de se vanter, donc utile en contexte professionnel.",
+  "grammar_points": [
+    {
+      "point": "Résultat partiel ou pudique",
+      "archetypes": [
+        "一応終わりました",
+        "一応できました"
+      ],
+      "usage": "Sert à présenter l'achèvement d'une tâche avec humilité ou à signaler que l'essentiel est fait mais qu'il reste peut-être des finitions. S'attache à la forme en た d'un verbe d'action.",
+      "patterns": [
+        "一応 (Verbe-た)"
+      ],
+      "meanings": [
+        "avoir à peu près / grosso modo (Verbe)",
+        "avoir fait (Verbe) plus ou moins / dans les grandes lignes"
+      ]
+    },
+    {
+      "point": "Action par précaution",
+      "archetypes": [
+        "一応持っていく",
+        "一応確認する"
+      ],
+      "usage": "Indique qu'on fait quelque chose à titre préventif, même si cela peut se révéler inutile. Proche de 「念のため」. S'attache à la forme du dictionnaire d'un verbe (ou la forme en ます radicale + おく).",
+      "patterns": [
+        "一応 (Verbe-る)",
+        "一応 (Verbe-ておく)"
+      ],
+      "meanings": [
+        "au cas où (Verbe)",
+        "(Verbe) par précaution / sait-on jamais"
+      ]
+    },
+    {
+      "point": "État provisoire ou minimum",
+      "archetypes": [
+        "一応の完成",
+        "一応の目安"
+      ],
+      "usage": "Associé à la particule の, il qualifie un nom comme étant dans un état temporaire, non définitif, ou constituant un minimum. Souvent utilisé pour des documents provisoires, des repères, des solutions de fortune.",
+      "patterns": [
+        "一応の (Nom)"
+      ],
+      "meanings": [
+        "un(e) (Nom) provisoire / de principe",
+        "un(e) (Nom) à titre indicatif"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "一応[いちおう]、確認[かくにん]しておきます",
+      "fr": "Je vérifie, au cas où / histoire de vérifier."
+    },
+    {
+      "ja": "一応[いちおう]、終[お]わりました",
+      "fr": "J'ai globalement fini (sous-entendu : mais il faut peut-être encore peaufiner)."
+    },
+    {
+      "ja": "一応[いちおう]の目安[めやす]",
+      "fr": "une indication approximative / un repère provisoire"
+    },
+    {
+      "ja": "一応[いちおう]、知[し]らせておく",
+      "fr": "prévenir au cas où / avertir à toutes fins utiles"
+    },
+    {
+      "ja": "一応[いちおう]、筋[すじ]を通[とお]す",
+      "fr": "respecter les formes / faire les choses dans les règles (pour le principe)"
+    }
+  ],
+  "examples": [
+    {
+      "def": "à peu près ; grosso modo",
+      "ja": "資料[しりょう]には一応[いちおう]目[め]を通[とお]しましたが、詳[くわ]しくは明日[あした]伺[うかが]います。",
+      "fr": "J'ai parcouru les documents dans les grandes lignes, mais je vous demanderai les détails demain."
+    },
+    {
+      "def": "par précaution",
+      "ja": "降[ふ]らないと思[おも]うけど、一応[いちおう]傘[かさ]を持[も]っていこう。",
+      "fr": "Je ne pense pas qu'il pleuve, mais prenons un parapluie, on ne sait jamais."
+    },
+    {
+      "def": "pour le moment",
+      "ja": "一応[いちおう]、今日[きょう]の会議[かいぎ]はこれで終[お]わりにしましょう。",
+      "fr": "Pour l'instant, disons que la réunion d'aujourd'hui s'arrête là."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "念[ねん]のため",
+      "fr": "par précaution, au cas où"
+    },
+    {
+      "ja": "とりあえず",
+      "fr": "pour l'instant, dans un premier temps"
+    },
+    {
+      "ja": "まずまず",
+      "fr": "à peu près, tant bien que mal"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "完全[かんぜん]に",
+      "fr": "complètement, parfaitement"
+    },
+    {
+      "ja": "完璧[かんぺき]に",
+      "fr": "parfaitement, nickel (familier)"
+    }
+  ]
+}

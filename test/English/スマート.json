@@ -1,0 +1,64 @@
+{
+  "vocab": "スマート",
+  "kana": ["スマート"],
+  "furigana": ["スマート"],
+  "defs": ["slender; slim", "sophisticated; stylish", "smooth; efficient"],
+  "kanji": [],
+  "pos": ["な-adjective"],
+  "tags": ["neutral", "wasei-eigo"],
+  "notes": "While the English 'smart' primarily means 'intelligent', the Japanese loanword focuses on physical appearance (slim/slender) or the elegance and efficiency of a process. Describing someone as 'smart' in Japanese usually compliments their figure or their graceful way of handling a task, not necessarily their IQ.",
+  "grammar_points": [
+    {
+      "point": "Semantic Drift (Physicality)",
+      "archetypes": ["スマートな体型"],
+      "usage": "In everyday Japanese, this is the most common use. It is a compliment for someone who is thin in a healthy, stylish way.",
+      "patterns": ["スマートな (Body Part/Build)"],
+      "meanings": ["slender/slim (Body Part/Build)"]
+    },
+    {
+      "point": "Manner of Execution",
+      "archetypes": ["スマートにこなす", "スマートに支払う"],
+      "usage": "Describes performing an action without fumbling, hesitation, or unnecessary effort. Often used in social or business contexts to describe 'smooth' interactions.",
+      "patterns": ["スマートに (Verb)"],
+      "meanings": ["to (Verb) smoothly/elegantly"]
+    }
+  ],
+  "phrases": [
+    { "ja": "スマートな体型[たいけい]", "en": "a slender build" },
+    {
+      "ja": "スマートに解決[かいけつ]する",
+      "en": "to solve (a problem) elegantly/smoothly"
+    },
+    { "ja": "スマートな身[み]のこなし", "en": "graceful movements/bearing" },
+    { "ja": "スマートな振[ふ]る舞[ま]い", "en": "sophisticated behavior" },
+    { "ja": "スマート決済[けっさい]", "en": "smart/contactless payment" },
+    { "ja": "スマートな対応[たいおう]", "en": "a polished/efficient response" }
+  ],
+  "examples": [
+    {
+      "def": "slender; slim",
+      "ja": "彼女[かのじょ]はモデルのようにスマートだ。",
+      "en": "She is slender, just like a model."
+    },
+    {
+      "def": "sophisticated; stylish",
+      "ja": "彼[かれ]のスーツの着[き]こなしはいつもスマートだ。",
+      "en": "The way he wears a suit is always stylish and sophisticated."
+    },
+    {
+      "def": "smooth; efficient",
+      "ja": "トラブルをスマートに処置[しょち]した。",
+      "en": "He handled the trouble smoothly and efficiently."
+    }
+  ],
+  "synonyms": [
+    { "ja": "スリム", "en": "slim" },
+    { "ja": "洗練[せんれん]された", "en": "refined; sophisticated" },
+    { "ja": "格好[かっこう]いい", "en": "cool; stylish" }
+  ],
+  "antonyms": [
+    { "ja": "泥臭[どろくさ]い", "en": "unrefined; clumsy" },
+    { "ja": "鈍重[どんじゅう]な", "en": "slow and heavy; sluggish" },
+    { "ja": "太[ふと]った", "en": "fat" }
+  ]
+}

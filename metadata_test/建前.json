@@ -1,0 +1,25 @@
+{
+  "vocab": "建前",
+  "romaji": "tatemae",
+  "jlpt": "N1",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "たてまえ",
+      "pattern": "LHHHH",
+      "source": "wadoku",
+      "audio": "たてまえ_LHHHH.opus"
+    },
+    {
+      "kana": "たてまえ",
+      "pattern": "LHLLL",
+      "source": "wadoku",
+      "audio": "たてまえ_LHLLL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 23115,
+    "learning_rank": 5353,
+    "frequency_score": 1.02
+  }
+}

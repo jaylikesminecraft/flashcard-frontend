@@ -1,0 +1,69 @@
+{
+  "vocab": "一応",
+  "kana": ["いちおう"],
+  "furigana": ["一応[いちおう]"],
+  "defs": ["por ahora; de momento", "por si acaso; para asegurarse", "más o menos; provisionalmente"],
+  "kanji": [
+    {"char": "一", "mean": "uno"},
+    {"char": "応", "mean": "responder; aceptar"}
+  ],
+  "pos": ["Adverbio", "Sustantivo"],
+  "tags": ["neutral"],
+  "notes": "Un comodín de matización indispensable para un japonés educado y cauteloso. Indica que, aunque algo no es 100 % perfecto o definitivo, se cumple con lo mínimo necesario. Suele funcionar como una red de seguridad que permite al hablante no hacer afirmaciones absolutas. Con frecuencia se compara con とりあえず, pero 一応 se centra más en 'alcanzar un nivel básico' o en la 'precaución', mientras que とりあえず pone el foco en 'dar prioridad a esto ahora mismo'.\n\nFonética: いちおう se pronuncia con cuatro sílabas: i-chi-o-u. Cuidado con la 'u' final: aunque es tenue, no se debe omitir ni convertir en diptongo fuerte como en español. Evita alargar la 'o' como un acento español. La 'r' japonesa de おう no se rima con la 'r' vibrante española; es un golpe suave de lengua, sin vibración.",
+  "grammar_points": [
+    {
+      "point": "Finalización matizada",
+      "archetypes": ["一応終わりました"],
+      "usage": "Se usa al informar de una tarea acabada para sonar humilde o indicar que, aunque lo principal está hecho, quizá queden pequeños detalles por rematar.",
+      "patterns": ["一応 (Verbo en pasado)"],
+      "meanings": ["básicamente / más o menos haber (Verbo)"]
+    },
+    {
+      "point": "Acción por precaución",
+      "archetypes": ["一応持って行く", "一応確認する"],
+      "usage": "Indica hacer algo por si acaso, como salvaguarda ante posibles problemas, aunque la acción tal vez resulte innecesaria. Similar a 念のため.",
+      "patterns": ["一応 (Verbo en forma diccionario)"],
+      "meanings": ["(Verbo) por si acaso"]
+    },
+    {
+      "point": "Modificación provisional",
+      "archetypes": ["一応の完成", "一応の目安"],
+      "usage": "Con la partícula の, caracteriza un sustantivo como algo en estado provisional o no definitivo.",
+      "patterns": ["一応の (Sustantivo)"],
+      "meanings": ["un (Sustantivo) provisional", "un (Sustantivo) tentativo"]
+    }
+  ],
+  "phrases": [
+    {"ja": "一応[いちおう]、確認[かくにん]しておきます", "es": "Voy a comprobarlo, por si acaso."},
+    {"ja": "一応[いちおう]、終[お]わりました", "es": "Ya terminé, más o menos."},
+    {"ja": "一応[いちおう]の目安[めやす]", "es": "una referencia orientativa / aproximada"},
+    {"ja": "一応[いちおう]、知[し]らせておく", "es": "le aviso, por si acaso / para que conste"},
+    {"ja": "一応[いちおう]、筋[すじ]を通[とお]す", "es": "seguir el conducto reglamentario (por guardar las formas)"}
+  ],
+  "examples": [
+    {
+      "def": "más o menos; provisionalmente",
+      "ja": "資料[しりょう]には一応[いちおう]目[め]を通[とお]しましたが、詳[くわ]しくは明日[あした]伺[うかが]います。",
+      "es": "Le he echado un vistazo más o menos a los documentos, pero mañana pregunto los detalles."
+    },
+    {
+      "def": "por si acaso; para asegurarse",
+      "ja": "降[ふ]らないと思[おも]うけど、一応[いちおう]傘[かさ]を持[も]っていこう。",
+      "es": "No creo que llueva, pero llevemos un paraguas por si acaso."
+    },
+    {
+      "def": "por ahora; de momento",
+      "ja": "一応[いちおう]、今日[きょう]の会議[かいぎ]はこれで終[お]わりにしましょう。",
+      "es": "De momento, dejemos aquí la reunión de hoy."
+    }
+  ],
+  "synonyms": [
+    {"ja": "念[ねん]のため", "es": "por si acaso / por asegurarse"},
+    {"ja": "とりあえず", "es": "de momento / para empezar"},
+    {"ja": "まずまず", "es": "pasable / más o menos bien"}
+  ],
+  "antonyms": [
+    {"ja": "完全[かんぜん]に", "es": "completamente"},
+    {"ja": "完璧[かんぺき]に", "es": "perfectamente"}
+  ]
+}

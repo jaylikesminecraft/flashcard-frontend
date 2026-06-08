@@ -1,0 +1,101 @@
+{
+  "vocab": "働く",
+  "kana": ["はたらく"],
+  "furigana": ["働[はたら]く"],
+  "defs": [
+    "att arbeta; att jobba",
+    "att fungera; att verka",
+    "att begå (brott, ond gärning)",
+    "att utöva inflytande; att spela in"
+  ],
+  "kanji": [{ "char": "働", "mean": "arbete; verksamhet" }],
+  "pos": ["う-verb", "Intransitivt"],
+  "tags": ["neutral"],
+  "notes": "Verbet 働く är bredare än ‘jobba’. Det täcker fysiskt/psykiskt arbete för inkomst, men också hur organ, maskiner eller abstrakta krafter fungerar. En speciell användning är om onda handlingar: ’begå (brott)’. Till skillnad från 勤務する (vara i tjänst på en arbetsplats) fokuserar 働く mer på själva arbetandet. Intransitivt: man kan inte *arbeta någon* direkt – för transitiv betydelse används kausativformen 働かせる.",
+  "grammar_points": [
+    {
+      "point": "Kausativ för transitiv betydelse",
+      "archetypes": ["部下を働かせる", "想像力を働かせる"],
+      "usage": "Eftersom 働く är intransitivt används kausativformen 働かせる för att uttrycka ’få någon att arbeta’ eller ’använda/sätta igång en förmåga’. Markera den som arbetar/aktiveras med partikeln を.",
+      "patterns": ["(Person) を働かせる", "(Sinne/Förmåga) を働かせる"],
+      "meanings": [
+        "få (Person) att arbeta",
+        "använda/utnyttja (Sinne/Förmåga)"
+      ]
+    },
+    {
+      "point": "Organ och kroppsdelars funktion",
+      "archetypes": ["頭が働かない", "胃が働いている"],
+      "usage": "Beskriver om ett organ eller en kognitiv förmåga fungerar normalt. Ofta i negerande form vid trötthet eller ‘hjärndimma’.",
+      "patterns": ["(Kroppsdel) が働く"],
+      "meanings": ["(Kroppsdel) fungerar/arbetar"]
+    },
+    {
+      "point": "Osynliga krafter – fysik och socialt spel",
+      "archetypes": ["重力が働く", "圧力が働く"],
+      "usage": "Används för fysiska eller sociala krafter som tar effekt i en situation. På svenska närmast ’verka’ eller ’spela in’.",
+      "patterns": ["(Kraft/Tryck) が働く"],
+      "meanings": [
+        "(Kraft/Tryck) verkar/utövas / kommer in i bilden"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "身[み]を粉[こ]にして働く[はたらく]",
+      "sv": "slita ut sig totalt; arbeta sig fördärvad"
+    },
+    {
+      "ja": "頭[あたま]が働[はたら]かない",
+      "sv": "hjärnan funkar inte; kan inte tänka klart"
+    },
+    {
+      "ja": "悪事[あくじ]を働く[はたらく]",
+      "sv": "begå en ond gärning/ett brott"
+    },
+    {
+      "ja": "バリバリ働く[はたらく]",
+      "sv": "jobba järnet; kötta på"
+    },
+    {
+      "ja": "馬車馬[ばしゃうま]のように働く[はたらく]",
+      "sv": "jobba som en häst"
+    },
+    {
+      "ja": "勘[かん]が働く[はたらく]",
+      "sv": "ha skarp intuition; magkänslan är på"
+    }
+  ],
+  "examples": [
+    {
+      "def": "att arbeta; att jobba",
+      "ja": "父[ちち]は家族[かぞく]を養[やしな]うために、朝[あさ]から晩[ばん]まで一生懸命[いっしょうけんめい]働[はたら]いている。",
+      "sv": "Min pappa arbetar hårt från morgon till kväll för att försörja familjen."
+    },
+    {
+      "def": "att fungera; att verka",
+      "ja": "徹夜[てつや]したので、全[まった]く頭[あたま]が働[はたら]かない。",
+      "sv": "Eftersom jag var uppe hela natten fungerar hjärnan inte alls."
+    },
+    {
+      "def": "att begå (brott, ond gärning)",
+      "ja": "彼[かれ]は会社[かいしゃ]の金[かね]を横領[おうりょう]するという、とんでもない悪事[あくじ]を働[はたら]いた。",
+      "sv": "Han begick en fruktansvärd handling genom att förskingra företagets pengar."
+    },
+    {
+      "def": "att utöva inflytande; att spela in",
+      "ja": "この市場[しじょう]では、需要[じゅよう]と供給[きょうきゅう]のバランスが働[はたら]いている。",
+      "sv": "På den här marknaden spelar balansen mellan utbud och efterfrågan in."
+    }
+  ],
+  "synonyms": [
+    { "ja": "勤務[きんむ]する", "sv": "vara i tjänst/anställd" },
+    { "ja": "機能[きのう]する", "sv": "fungera" },
+    { "ja": "稼[かせ]ぐ", "sv": "tjäna pengar; arbeta för inkomst" }
+  ],
+  "antonyms": [
+    { "ja": "休[やす]む", "sv": "vila" },
+    { "ja": "遊[あそ]ぶ", "sv": "leka; roa sig" },
+    { "ja": "怠[なま]ける", "sv": "vara lat; slöa" }
+  ]
+}

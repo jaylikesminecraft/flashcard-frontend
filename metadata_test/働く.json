@@ -1,0 +1,19 @@
+{
+  "vocab": "働く",
+  "romaji": "hataraku",
+  "jlpt": "N5",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "はたらく",
+      "pattern": "LHHHL",
+      "source": "wadoku",
+      "audio": "はたらく_LHHHL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 2753,
+    "learning_rank": 60,
+    "frequency_score": 3.09
+  }
+}

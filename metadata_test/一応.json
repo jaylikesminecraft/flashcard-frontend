@@ -1,0 +1,19 @@
+{
+  "vocab": "一応",
+  "romaji": "ichiou",
+  "jlpt": "N2",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "いちおう",
+      "pattern": "LHHHH",
+      "source": "wadoku",
+      "audio": "いちおう_LHHHH.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 442,
+    "learning_rank": 2934,
+    "frequency_score": 1.44
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "vocab": "建前",
+  "kana": ["たてまえ"],
+  "furigana": ["建[たて]前[まえ]"],
+  "defs": ["social fasad; ytlig hållning", "officiell princip; formell ståndpunkt"],
+  "kanji": [
+    { "char": "建", "mean": "bygga; upprätta" },
+    { "char": "前", "mean": "framför; innan" }
+  ],
+  "pos": ["Substantiv"],
+  "tags": ["neutral", "business"],
+  "notes": "Ett centralt begrepp i japansk social dynamik som representerar den offentliga fasaden eller hållning man antar för att upprätthålla social harmoni (和, ‘wa’). Det kontrasteras nästan alltid med '本音' (honne – ens verkliga känslor). I en japansk kontext ses användning av tatemae som en nödvändig social färdighet eller 'vuxet' beteende snarare än något bedrägligt. På svenska kan man tänka på det som en offentlig roll eller mask, men utan den negativa klang som 'hyckleri' har.",
+  "grammar_points": [
+    {
+      "point": "Ståndpunkt och resonemang med 〜上 (じょう)",
+      "archetypes": ["建前上、断ることはできない", "建前上の理由"],
+      "usage": "Suffixet 〜上 fästs vid substantiv för att ange en ståndpunkt, aspekt eller ett 'på papperet'-perspektiv. Tillsammans med 建前 betonar det att en handling görs enbart till följd av sociala förväntningar, även om personliga känslor skiljer sig.",
+      "patterns": ["建前上 (は)", "建前上の (Substantiv)"],
+      "meanings": ["formellt sett; för syns skull", "officiell/formell (Substantiv)"]
+    },
+    {
+      "point": "Att växla mellan fasad och verklighet",
+      "archetypes": ["建前と本音を使い分ける"],
+      "usage": "Verbet 使い分ける (tsukaiwakeru) är standardkollokationen för att beskriva förmågan att växla eller skilja mellan sin offentliga fasad och privata känslor, beroende på situation.",
+      "patterns": ["建前 と 本音 を 使い分ける"],
+      "meanings": ["att skilja på offentlig och privat hållning, att anpassa sitt uppträdande efter situation"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "建[たて]前[まえ]を言[い]う",
+      "sv": "att säga det förväntade/socialt korrekta"
+    },
+    {
+      "ja": "それは建[たて]前[まえ]に過[す]ぎない",
+      "sv": "det är inget annat än en fasad"
+    },
+    {
+      "ja": "建[たて]前[まえ]抜[ぬ]きで話[はな]す",
+      "sv": "att prata utan mask; tala uppriktigt"
+    },
+    {
+      "ja": "建[たて]前[まえ]と本[ほん]音[ね]",
+      "sv": "social fasad och privat sanning"
+    },
+    {
+      "ja": "建[たて]前[まえ]を崩[くず]す",
+      "sv": "att släppa fasaden; låta masken falla"
+    }
+  ],
+  "examples": [
+    {
+      "def": "social fasad; ytlig hållning",
+      "ja": "日本[にほん]の社会[しゃかい]では、円滑[えんかつ]な人間[にんげん]関係[かんけい]のために建[たて]前[まえ]が必[ひつ]要[よう]だ。",
+      "sv": "I det japanska samhället är en social fasad nödvändig för smidiga mellanmänskliga relationer."
+    },
+    {
+      "def": "officiell princip; formell ståndpunkt",
+      "ja": "彼[かれ]の言[い]っていることはあくまで建[たて]前[まえ]で、実際[じっさい]は違[ちが]うようだ。",
+      "sv": "Det han säger är bara den officiella hållningen; i verkligheten verkar det vara annorlunda."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "表[おもて]向[む]き",
+      "sv": "utåt sett; officiellt"
+    },
+    {
+      "ja": "外面[そとづら]",
+      "sv": "offentlig fasad"
+    }
+  ],
+  "antonyms": [
+    {
+      "ja": "本音[ほんね]",
+      "sv": "verkliga känslor; ärlig mening"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "vocab": "～ず",
+  "romaji": "~zu",
+  "jlpt": "N3",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "ず",
+      "pattern": "HL",
+      "source": "openjtalk",
+      "audio": "ず_HL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": "",
+    "learning_rank": 12013,
+    "frequency_score": 0.8
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "vocab": "クレーム",
+  "romaji": "kureemu",
+  "jlpt": "",
+  "grammar": false,
+  "pitch_data": [
+    {
+      "kana": "くれーむ",
+      "pattern": "LHHHH",
+      "source": "wadoku",
+      "audio": "くれーむ_LHHHH.opus"
+    },
+    {
+      "kana": "くれーむ",
+      "pattern": "LHLLL",
+      "source": "wadoku",
+      "audio": "くれーむ_LHLLL.opus"
+    }
+  ],
+  "frequency": {
+    "freq_rank": 8526,
+    "learning_rank": 8387,
+    "frequency_score": 0.88
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "vocab": "～ず",
+  "kana": ["ず"],
+  "furigana": ["～ず"],
+  "defs": ["sans faire", "ne pas faire", "ne … pas"],
+  "kanji": [],
+  "pos": ["Auxiliaire"],
+  "tags": ["neutre", "littéraire", "grammar"],
+  "notes": "Suffixe négatif formel issu du japonais classique. Alors que ～ない est la négation standard à l'oral moderne, ～ず reste très productif à l'écrit formel, dans les informations et dans certaines expressions figées. Pour relier des propositions, il est plus concis et formel que ～なくて. À l'oral, il apparaît surtout sous la forme ～ずに (sans faire) ou dans des adverbes figés. Attention : ～ず ne s'utilise pas pour nier des adjectifs ou des noms (on utilise ～ない pour cela). Il se limite strictement aux verbes.",
+  "grammar_points": [
+    {
+      "point": "Conjugaison et irréguliers",
+      "archetypes": ["食べず", "書かず", "せず", "こず"],
+      "usage": "S'attache à la base négative (mizenkei) des verbes. Les verbes irréguliers suru et kuru ont des formes particulières à mémoriser.",
+      "patterns": ["(Base négative du verbe) ず", "する → せず", "来る → こず"],
+      "meanings": ["ne pas faire", "sans faire"]
+    },
+    {
+      "point": "Expression adverbiale de la manière",
+      "archetypes": ["何も言わずに去る", "朝食を食べずに出かける"],
+      "usage": "Avec la particule に, ～ずに forme une locution adverbiale indiquant comment une action est réalisée (en se passant de quelque chose). Plus formel que ～ないで, mais attention : ～ないで peut aussi exprimer une demande négative (ex. 行かないで « n'y va pas »), ce que ～ずに ne fait jamais. ～ずに est purement descriptif.",
+      "patterns": ["(Base négative du verbe) ずに"],
+      "meanings": ["sans (faire)"]
+    },
+    {
+      "point": "Liaison de propositions",
+      "archetypes": ["傘を持たず、外に出た"],
+      "usage": "S'emploie en fin de proposition pour enchaîner sur la suivante, comme alternative formelle à ～なくて ou ～ないで. Marque une succession d'actions ou un état concomitant. Contrairement au français où l'on peut utiliser une phrase négative longue, le japonais préfère ici une forme concise et suspendue. Évitez de calquer des structures françaises avec « sans que ».",
+      "patterns": ["(Proposition A : base négative du verbe) ず、 (Proposition B)"],
+      "meanings": ["sans faire A, B se produit", "en ne faisant pas A, B"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "思[おも]わず",
+      "fr": "involontairement, sans le vouloir"
+    },
+    {
+      "ja": "知[し]らず知[し]らずのうちに",
+      "fr": "sans s'en rendre compte, avant même de le savoir"
+    },
+    {
+      "ja": "絶[た]えず",
+      "fr": "sans cesse, constamment"
+    },
+    {
+      "ja": "相変[あいか]わらず",
+      "fr": "comme d'habitude, toujours pareil"
+    },
+    {
+      "ja": "昼夜[ちゅうや]を問[と]わず",
+      "fr": "de jour comme de nuit, 24 heures sur 24"
+    },
+    {
+      "ja": "〜ずにはいられない",
+      "fr": "ne pas pouvoir s'empêcher de faire"
+    },
+    {
+      "ja": "〜ずじまい",
+      "fr": "finir par ne pas faire"
+    },
+    {
+      "ja": "言[い]わずもがな",
+      "fr": "cela va sans dire, il vaudrait mieux ne pas le dire"
+    }
+  ],
+  "examples": [
+    {
+      "def": "sans faire",
+      "ja": "彼[かれ]は一言[ひとこと]も謝[あやま]らずに部屋[へや]を出[で]て行[い]った。",
+      "fr": "Il est sorti de la pièce sans dire un seul mot d'excuse."
+    },
+    {
+      "def": "ne pas faire",
+      "ja": "昨夜[さくや]は一睡[いっすい]もせず、レポートを仕上[しあ]げた。",
+      "fr": "J'ai fini le rapport cette nuit sans dormir une seule seconde."
+    },
+    {
+      "def": "ne … pas",
+      "ja": "予期[よき]せぬ大雨[おおあめ]に、計画[けいかく]を中止[ちゅうし]せざるを得[え]なかった。",
+      "fr": "En raison d'une pluie diluvienne imprévue, nous n'avons pas eu d'autre choix que d'annuler le projet."
+    }
+  ],
+  "synonyms": [
+    {
+      "ja": "～ないで",
+      "fr": "sans faire, ne … pas (oral, peut exprimer une demande négative)"
+    },
+    {
+      "ja": "～なくて",
+      "fr": "ne pas … et (oral, plus courant pour lier des causes)"
+    }
+  ],
+  "antonyms": []
+}

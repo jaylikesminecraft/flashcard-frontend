@@ -1,0 +1,69 @@
+{
+  "vocab": "一応",
+  "kana": ["いちおう"],
+  "furigana": ["一応[いちおう]"],
+  "defs": ["för tillfället; tills vidare", "för säkerhets skull; ifall att", "någorlunda; typ; i stort sett"],
+  "kanji": [
+    { "char": "一", "mean": "sv" },
+    { "char": "応", "mean": "svara; bemöta" }
+  ],
+  "pos": ["Adverb", "Substantiv"],
+  "tags": ["neutral"],
+  "notes": "Ett mångfunktionellt 'garderingsord' som är oumbärligt i artig eller försiktig japanska. Det uttrycker att något visserligen inte är hundra procent perfekt eller slutgiltigt, men att minimikravet ändå är uppfyllt. Fungerar ofta som en slags försäkring eller gardering så att talaren inte behöver komma med absoluta påståenden. Jämförs ofta med 'とりあえず', men '一応' lägger mer fokus på 'att nå upp till en grundläggande nivå' eller 'försiktighetsåtgärd', medan 'とりあえず' fokuserar mer på 'att prioritera detta just nu'.",
+  "grammar_points": [
+    {
+      "point": "Gardering vid slutförande",
+      "archetypes": ["一応終わりました"],
+      "usage": "Används när man rapporterar en avslutad uppgift för att låta ödmjuk eller för att signalera att huvuddelen är klar men att det kan finnas smådetaljer kvar att fixa.",
+      "patterns": ["一応 (Verb-た)"],
+      "meanings": ["att i stort sett/typ ha gjort (Verb)"]
+    },
+    {
+      "point": "Förberedande handling",
+      "archetypes": ["一応持って行く", "一応確認する"],
+      "usage": "Indikerar att man gör något som en säkerhetsåtgärd ifall att något skulle hända, även om handlingen kan visa sig onödig. Liknar '念のため'.",
+      "patterns": ["一応 (Verb-る)"],
+      "meanings": ["att (Verb) för säkerhets skull/ifall att"]
+    },
+    {
+      "point": "Provisorisk bestämning",
+      "archetypes": ["一応の完成", "一応の目安"],
+      "usage": "Används med partikeln 'の' för att karaktärisera ett substantiv som preliminärt eller icke slutgiltigt.",
+      "patterns": ["一応の (Substantiv)"],
+      "meanings": ["en preliminär (Substantiv)", "en provisorisk (Substantiv)"]
+    }
+  ],
+  "phrases": [
+    { "ja": "一応[いちおう]、確認[かくにん]しておきます", "sv": "Jag kollar för säkerhets skull." },
+    { "ja": "一応[いちおう]、終[お]わりました", "sv": "Jag är i stort sett klar." },
+    { "ja": "一応[いちおう]の目安[めやす]", "sv": "en ungefärlig riktlinje/uppskattning" },
+    { "ja": "一応[いちおう]、知[し]らせておく", "sv": "att meddela någon för säkerhets skull" },
+    { "ja": "一応[いちおう]、筋[すじ]を通[とお]す", "sv": "att följa protokollet/föra fram formella skäl (för syns skull)" }
+  ],
+  "examples": [
+    {
+      "def": "någorlunda; typ; i stort sett",
+      "ja": "資料[しりょう]には一応[いちおう]目[め]を通[とお]しましたが、詳[くわ]しくは明日[あした]伺[うかが]います。",
+      "sv": "Jag har ögnat igenom dokumenten typ, men detaljerna frågar jag om i morgon."
+    },
+    {
+      "def": "för säkerhets skull; ifall att",
+      "ja": "降[ふ]らないと思[おも]うけど、一応[いちおう]傘[かさ]を持[も]っていこう。",
+      "sv": "Jag tror inte det blir regn, men vi tar med ett paraply för säkerhets skull."
+    },
+    {
+      "def": "för tillfället; tills vidare",
+      "ja": "一応[いちおう]、今日[きょう]の会議[かいぎ]はこれで終[お]わりにしましょう。",
+      "sv": "Då avslutar vi dagens möte här för tillfället."
+    }
+  ],
+  "synonyms": [
+    { "ja": "念[ねん]のため", "sv": "för säkerhets skull" },
+    { "ja": "とりあえず", "sv": "tills vidare / först och främst" },
+    { "ja": "まずまず", "sv": "någorlunda / skapligt" }
+  ],
+  "antonyms": [
+    { "ja": "完全[かんぜん]に", "sv": "fullständigt" },
+    { "ja": "完璧[かんぺき]に", "sv": "perfekt" }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "vocab": "適当",
+  "kana": ["てきとう"],
+  "furigana": ["適[てき]当[とう]"],
+  "defs": [
+    "approprié(e)；convenable",
+    "irresponsable；fait à moitié",
+    "au hasard；sans engagement"
+  ],
+  "kanji": [
+    { "char": "適", "mean": "convenable；apte" },
+    { "char": "当", "mean": "viser juste；cible" }
+  ],
+  "pos": ["adjectif en な", "nom"],
+  "tags": ["neutral", "casual"],
+  "notes": "Un mot à double tranchant en japonais. Dans un contexte formel (examens, consignes de travail), il signifie « approprié » ou « convenable ». Mais dans la conversation de tous les jours, il veut souvent dire « fait n'importe comment », « sans y réfléchir », « un peu léger ». C'est le contexte et le ton qui déterminent si c'est un compliment ou une critique. Attention : ne pas calquer sur le seul français car le sens bascule du tout au tout.",
+  "grammar_points": [
+    {
+      "point": "Le sens varie selon le contexte",
+      "archetypes": ["適当な処置", "適当な返事"],
+      "usage": "Quand 適当 modifie un nom, le sens dépend du type de nom. Avec des noms techniques (mesure, disposition), il signifie « approprié ». Avec des noms de communication (réponse, conversation), il signifie souvent « vague », « improvisé » ou « pour se débarrasser vite fait ».",
+      "patterns": ["適当な (Nom concret/technique)", "適当な (Nom de parole ou d'attitude)"],
+      "meanings": ["un/une (Nom) approprié(e)", "un/une (Nom) fait(e) à la légère"]
+    },
+    {
+      "point": "En tant qu'adverbe d'attitude",
+      "archetypes": ["適当に座って", "適当にやっておいて"],
+      "usage": "Employé pour dire à quelqu'un de faire comme il/elle le sent, sans stresser sur les détails. Peut être perçu comme bienveillant (tu gères comme tu veux) ou comme du je-m'en-foutisme quand on file une tâche sans vraie consigne. En français, le ton peut être détendu ou un peu agacé selon l'intonation du japonais.",
+      "patterns": ["適当に (Verbe)"],
+      "meanings": ["(Verbe) comme bon te semble", "(Verbe) à la va-comme-je-te-pousse"]
+    }
+  ],
+  "phrases": [
+    {
+      "ja": "適当[てきとう]に返事[へんじ]をする",
+      "fr": "répondre au hasard / faire une réponse à la va-vite"
+    },
+    {
+      "ja": "適当[てきとう]にあしらう",
+      "fr": "envoyer promener gentiment / se débarrasser de quelqu'un"
+    },
+    {
+      "ja": "適当[てきとう]な場所[ばしょ]",
+      "fr": "un endroit qui convient"
+    },
+    {
+      "ja": "適当[てきとう]に切[き]り上[あ]げる",
+      "fr": "conclure au bon moment / arrondir un peu vite"
+    },
+    {
+      "ja": "かなり適当[てきとう]な人[ひと]",
+      "fr": "quelqu'un d'assez désinvolte / une personne qui travaille à la légère"
+    },
+    {
+      "ja": "適当[てきとう]に選[えら]ぶ",
+      "fr": "choisir au pif"
+    }
+  ],
+  "examples": [
+    {
+      "def": "approprié(e)；convenable",
+      "ja": "自分[じぶん]のレベルに合[あ]った適当[てきとう]な教科書[きょうかしょ]を探[さが]している。",
+      "fr": "Je cherche un manuel qui corresponde à mon niveau."
+    },
+    {
+      "def": "irresponsable；fait à moitié",
+      "ja": "彼[かれ]はいつもその場[ば]しのぎの適当[てきとう]なことばかり言[い]う。",
+      "fr": "Il dit toujours n'importe quoi juste pour se sortir d'affaire sur le moment."
+    },
+    {
+      "def": "au hasard；sans engagement",
+      "ja": "詳[くわ]しいルールは知[し]らないので、適当[てきとう]にやってみた。",
+      "fr": "Comme je ne connais pas les règles en détail, j'ai improvisé / j'ai fait au feeling."
+    }
+  ],
+  "synonyms": [
+    { "ja": "適切", "fr": "approprié (soutenu)" },
+    { "ja": "いい加減", "fr": "désinvolte；pile ce qu'il faut" }
+  ],
+  "antonyms": [
+    { "ja": "不適当", "fr": "inapproprié" },
+    { "ja": "真面目", "fr": "sérieux；appliqué" }
+  ]
+}

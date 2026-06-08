@@ -1,0 +1,66 @@
+{
+  "vocab": "スマート",
+  "kana": ["スマート"],
+  "furigana": ["スマート"],
+  "defs": ["snello/a; slanciato/a", "elegante; raffinato/a", "scorrevole; efficiente"],
+  "kanji": [],
+  "pos": ["aggettivo-na"],
+  "tags": ["neutro", "wasei-eigo"],
+  "notes": "Attenzione: 'スマート' è un falso amico. Mentre in inglese 'smart' significa principalmente 'intelligente', in giapponese si riferisce quasi esclusivamente a: 1) corporatura snella/fisico asciutto (complimento); 2) portamento elegante/raffinato; 3) modo di fare scorrevole/senza intoppi. Non significa quasi mai 'intelligente'. Se si vuole elogiare l'aspetto fisico o la grazia nell'agire, スマート è la parola giusta.",
+  "grammar_points": [
+    {
+      "point": "Attributo fisico (snellezza)",
+      "archetypes": ["スマートな体型", "スマートな人"],
+      "usage": "Uso più comune: descrive una persona dal fisico snello in modo sano e attraente. Si attacca direttamente al sostantivo tramite な. Non si usa per bambini o per magrezza eccessiva.",
+      "patterns": ["スマートな (Parte-del-corpo/Persona)"],
+      "meanings": ["snello/a (Parte-del-corpo/Persona)", "di corporatura slanciata"]
+    },
+    {
+      "point": "Modo di esecuzione (agire con stile)",
+      "archetypes": ["スマートにこなす", "スマートに支払う", "スマートに解決する"],
+      "usage": "Modifica un verbo per indicare che l'azione viene svolta in modo elegante, senza intoppi, esitazioni o sforzi inutili. Molto usato in contesti sociali, lavorativi. L'avverbio に segue l'aggettivo.",
+      "patterns": ["スマートに (Verbo)"],
+      "meanings": ["(Verbo) con eleganza/senza intoppi", "in modo scorrevole"]
+    }
+  ],
+  "phrases": [
+    { "ja": "スマートな体型[たいけい]", "it": "un fisico snello / una corporatura slanciata" },
+    {
+      "ja": "スマートに解決[かいけつ]する",
+      "it": "risolvere (un problema) in modo elegante/senza intoppi"
+    },
+    { "ja": "スマートな身[み]のこなし", "it": "movimenti aggraziati / portamento elegante" },
+    { "ja": "スマートな振[ふ]る舞[ま]い", "it": "comportamento raffinato / distinto" },
+    { "ja": "スマート決済[けっさい]", "it": "pagamento contactless / smart" },
+    { "ja": "スマートな対応[たいおう]", "it": "una risposta elegante / efficiente / impeccabile" }
+  ],
+  "examples": [
+    {
+      "def": "snello/a; slanciato/a",
+      "ja": "彼女[かのじょ]はモデルのようにスマートだ。",
+      "it": "Lei è snella come una modella."
+    },
+    {
+      "def": "elegante; raffinato/a",
+      "ja": "彼[かれ]のスーツの着[き]こなしはいつもスマートだ。",
+      "it": "Il suo modo di indossare un completo è sempre elegante e raffinato."
+    },
+    {
+      "def": "scorrevole; efficiente",
+      "ja": "トラブルをスマートに処理[しょり]した。",
+      "it": "Ha gestito il problema in modo efficiente e senza intoppi."
+    }
+  ],
+  "synonyms": [
+    { "ja": "スリム", "it": "slim (fisico sottile)" },
+    { "ja": "洗練[せんれん]された", "it": "raffinato; sofisticato" },
+    { "ja": "格好[かっこう]いい", "it": "bello; stiloso; figo" },
+    { "ja": "スムーズな", "it": "liscio; senza intoppi (per processi)" }
+  ],
+  "antonyms": [
+    { "ja": "泥臭[どろくさ]い", "it": "rozzo; inelegante; grezzo" },
+    { "ja": "鈍重[どんじゅう]な", "it": "goffo; impacciato" },
+    { "ja": "太[ふと]った", "it": "grasso (fisico pesante)" },
+    { "ja": "ぎこちない", "it": "impacciato; legato (movimenti)" }
+  ]
+}
